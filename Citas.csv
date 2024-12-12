@@ -1,0 +1,1001 @@
+﻿ID_Cita,Fecha_Cita,Motivo_Cita,Estado_Cita,ID_Paciente,ID_Odontologo
+1,2024-09-04 18:09:28.967486,Tratamiento de caries,Completada,70,495
+2,2024-01-21 12:59:57.282020,Limpieza dental,Programada,954,976
+3,2024-05-01 12:46:41.397012,Chequeo general,Cancelada,614,281
+4,2024-12-07 06:43:24.648958,Limpieza dental,Completada,47,979
+5,2024-11-18 01:04:26.216988,Tratamiento de caries,Cancelada,195,759
+6,2024-01-23 12:58:58.468529,Limpieza dental,Programada,702,546
+7,2024-01-13 18:56:39.038223,Tratamiento de caries,Completada,449,769
+8,2024-09-23 06:54:05.724277,Tratamiento de caries,Completada,799,400
+9,2024-03-09 03:31:01.677949,Chequeo general,Programada,279,212
+10,2024-01-08 04:08:44.265638,Chequeo general,Completada,164,586
+11,2024-11-24 15:54:33.704727,Tratamiento de caries,Completada,714,10
+12,2024-07-14 11:00:30.970829,Dolor de muelas,Cancelada,725,738
+13,2024-06-10 19:04:55.291933,Dolor de muelas,Completada,873,226
+14,2024-03-24 07:05:23.113125,Limpieza dental,Programada,275,566
+15,2024-12-02 13:21:18.731160,Chequeo general,Cancelada,230,47
+16,2024-05-26 08:49:04.893953,Chequeo general,Cancelada,41,655
+17,2024-07-26 19:56:28.200911,Dolor de muelas,Programada,950,137
+18,2024-08-12 09:03:34.230525,Chequeo general,Completada,658,255
+19,2024-01-25 19:19:42.211002,Dolor de muelas,Completada,119,2
+20,2024-02-17 18:37:05.222171,Dolor de muelas,Cancelada,620,996
+21,2024-07-16 13:06:12.067126,Dolor de muelas,Completada,86,970
+22,2024-08-09 05:08:51.084723,Dolor de muelas,Cancelada,137,419
+23,2024-03-29 12:18:22.071993,Limpieza dental,Cancelada,59,641
+24,2024-02-26 14:45:23.687491,Dolor de muelas,Programada,225,749
+25,2024-07-05 10:52:54.361234,Limpieza dental,Completada,263,995
+26,2024-10-21 06:00:11.388988,Limpieza dental,Completada,674,889
+27,2024-10-24 23:45:12.886420,Tratamiento de caries,Completada,764,705
+28,2024-02-21 19:33:21.524727,Chequeo general,Cancelada,264,891
+29,2024-04-21 09:41:07.854044,Dolor de muelas,Programada,226,333
+30,2024-01-25 08:52:08.263539,Tratamiento de caries,Programada,596,645
+31,2024-03-31 03:09:11.520630,Tratamiento de caries,Cancelada,457,238
+32,2024-06-25 05:43:04.019095,Tratamiento de caries,Programada,152,924
+33,2024-01-28 23:41:55.973485,Tratamiento de caries,Programada,508,186
+34,2024-06-10 10:51:16.676598,Chequeo general,Programada,836,884
+35,2024-08-28 02:42:12.484035,Chequeo general,Completada,584,503
+36,2024-03-31 02:10:34.997795,Dolor de muelas,Programada,289,22
+37,2024-10-21 17:00:10.479243,Tratamiento de caries,Completada,907,182
+38,2024-09-04 21:42:07.691593,Limpieza dental,Programada,623,193
+39,2024-05-23 08:01:56.994638,Chequeo general,Cancelada,74,437
+40,2024-09-16 06:08:59.514026,Tratamiento de caries,Programada,931,661
+41,2024-06-13 16:40:46.326780,Chequeo general,Completada,742,540
+42,2024-08-23 10:49:38.108273,Limpieza dental,Completada,769,828
+43,2024-09-23 06:30:46.823478,Tratamiento de caries,Programada,103,387
+44,2024-03-02 21:37:18.281664,Limpieza dental,Completada,113,847
+45,2024-02-28 09:55:04.403277,Chequeo general,Programada,958,45
+46,2024-01-07 15:30:28.106512,Dolor de muelas,Programada,789,86
+47,2024-09-12 06:24:37.415133,Limpieza dental,Programada,962,643
+48,2024-01-04 11:14:35.901146,Limpieza dental,Completada,981,811
+49,2024-10-30 01:02:16.276556,Dolor de muelas,Completada,754,838
+50,2024-03-18 20:03:21.213324,Chequeo general,Cancelada,88,208
+51,2024-07-15 12:17:20.900141,Tratamiento de caries,Programada,778,577
+52,2024-09-25 22:02:17.353651,Tratamiento de caries,Programada,315,340
+53,2024-06-25 05:26:31.354559,Dolor de muelas,Completada,250,58
+54,2024-03-27 13:29:59.351177,Limpieza dental,Programada,557,127
+55,2024-03-04 09:23:41.597224,Dolor de muelas,Programada,106,558
+56,2024-05-29 23:21:11.387323,Tratamiento de caries,Programada,524,908
+57,2024-10-27 13:17:38.738572,Chequeo general,Programada,2,935
+58,2024-05-13 13:18:45.746694,Tratamiento de caries,Programada,233,438
+59,2024-03-23 22:33:39.297834,Dolor de muelas,Programada,362,672
+60,2024-03-04 18:38:55.055182,Tratamiento de caries,Completada,944,901
+61,2024-02-04 20:01:30.877445,Limpieza dental,Cancelada,906,733
+62,2024-02-17 22:18:17.581943,Chequeo general,Programada,174,113
+63,2024-04-17 12:55:39.113577,Dolor de muelas,Cancelada,980,979
+64,2024-04-26 12:49:49.167847,Dolor de muelas,Programada,79,631
+65,2024-09-13 07:47:27.974984,Limpieza dental,Programada,370,946
+66,2024-06-06 19:56:59.977823,Chequeo general,Cancelada,620,155
+67,2024-11-01 01:10:48.780718,Chequeo general,Completada,544,343
+68,2024-09-09 09:57:08.477967,Dolor de muelas,Completada,436,154
+69,2024-02-06 16:21:42.133864,Dolor de muelas,Programada,838,294
+70,2024-07-22 00:21:19.202100,Tratamiento de caries,Completada,278,939
+71,2024-01-09 16:50:58.474260,Dolor de muelas,Completada,378,956
+72,2024-07-02 00:49:20.106598,Limpieza dental,Programada,818,79
+73,2024-03-11 00:56:21.973655,Chequeo general,Cancelada,797,672
+74,2024-11-17 13:48:59.199862,Tratamiento de caries,Completada,152,400
+75,2024-01-10 17:51:17.740467,Tratamiento de caries,Programada,816,805
+76,2024-05-18 22:30:41.047765,Tratamiento de caries,Completada,116,592
+77,2024-09-24 14:20:51.138462,Limpieza dental,Cancelada,286,149
+78,2024-10-08 04:47:29.406040,Tratamiento de caries,Cancelada,131,187
+79,2024-10-31 18:16:46.316535,Tratamiento de caries,Cancelada,327,507
+80,2024-03-16 16:48:10.849610,Tratamiento de caries,Completada,711,997
+81,2024-06-04 23:47:06.429867,Dolor de muelas,Programada,813,652
+82,2024-10-01 01:03:15.264478,Chequeo general,Cancelada,822,967
+83,2024-09-15 19:50:40.568959,Tratamiento de caries,Completada,429,563
+84,2024-10-10 00:16:17.387694,Chequeo general,Cancelada,547,505
+85,2024-11-18 17:49:05.257169,Tratamiento de caries,Completada,86,595
+86,2024-01-22 23:24:43.268932,Chequeo general,Completada,592,796
+87,2024-05-30 14:02:37.454217,Dolor de muelas,Programada,90,241
+88,2024-03-13 00:06:56.289660,Limpieza dental,Cancelada,209,872
+89,2024-12-02 05:49:33.358861,Chequeo general,Programada,572,486
+90,2024-10-11 20:01:10.457591,Dolor de muelas,Cancelada,62,934
+91,2024-09-14 15:31:03.699311,Chequeo general,Cancelada,870,870
+92,2024-07-03 03:23:38.350490,Tratamiento de caries,Programada,472,148
+93,2024-11-21 02:53:07.103074,Chequeo general,Programada,216,848
+94,2024-01-25 16:33:25.937500,Limpieza dental,Completada,765,142
+95,2024-09-09 03:41:43.822312,Tratamiento de caries,Completada,721,147
+96,2024-10-20 20:04:41.822398,Tratamiento de caries,Cancelada,27,713
+97,2024-05-02 14:14:43.949167,Limpieza dental,Completada,56,719
+98,2024-10-13 17:47:10.394300,Tratamiento de caries,Completada,596,76
+99,2024-06-18 13:59:58.057904,Limpieza dental,Programada,892,162
+100,2024-09-17 05:21:55.910344,Limpieza dental,Programada,375,145
+101,2024-11-05 12:37:13.170451,Tratamiento de caries,Programada,79,13
+102,2024-02-05 15:56:12.558980,Tratamiento de caries,Completada,784,187
+103,2024-04-25 18:35:53.436055,Dolor de muelas,Cancelada,144,767
+104,2024-03-07 08:45:33.244692,Dolor de muelas,Cancelada,422,740
+105,2024-01-15 13:33:02.737672,Limpieza dental,Cancelada,801,661
+106,2024-02-10 11:07:03.223384,Limpieza dental,Completada,114,160
+107,2024-06-01 19:17:36.320739,Chequeo general,Completada,33,619
+108,2024-05-09 00:39:17.123437,Tratamiento de caries,Cancelada,165,12
+109,2024-07-31 13:17:56.210679,Tratamiento de caries,Completada,697,971
+110,2024-08-02 17:33:22.338906,Dolor de muelas,Completada,729,850
+111,2024-10-25 08:05:03.510840,Chequeo general,Cancelada,514,314
+112,2024-09-11 04:45:33.255824,Dolor de muelas,Programada,954,161
+113,2024-01-19 01:20:02.692741,Chequeo general,Completada,535,387
+114,2024-08-15 11:25:57.876194,Limpieza dental,Programada,217,411
+115,2024-03-11 02:16:05.952146,Limpieza dental,Completada,402,189
+116,2024-06-14 13:53:57.902029,Dolor de muelas,Completada,480,489
+117,2024-06-19 23:18:26.394019,Tratamiento de caries,Programada,658,415
+118,2024-08-06 01:45:44.534312,Dolor de muelas,Completada,56,823
+119,2024-11-21 22:25:15.018637,Dolor de muelas,Programada,435,200
+120,2024-01-24 12:35:00.699300,Dolor de muelas,Completada,107,80
+121,2024-07-20 19:27:41.910578,Dolor de muelas,Programada,798,867
+122,2024-07-03 05:51:38.558131,Chequeo general,Completada,246,289
+123,2024-11-26 22:47:15.824501,Chequeo general,Completada,110,67
+124,2024-11-20 23:32:06.484643,Dolor de muelas,Programada,12,775
+125,2024-09-28 22:13:07.167712,Limpieza dental,Programada,565,207
+126,2024-07-13 04:14:37.378945,Limpieza dental,Completada,276,88
+127,2024-02-03 11:54:34.486271,Limpieza dental,Programada,810,496
+128,2024-11-30 04:44:07.815161,Dolor de muelas,Programada,323,96
+129,2024-05-13 01:15:25.916611,Dolor de muelas,Cancelada,366,770
+130,2024-02-08 06:46:27.029754,Dolor de muelas,Cancelada,513,200
+131,2024-07-16 02:40:58.147328,Chequeo general,Completada,744,365
+132,2024-09-02 05:16:10.943239,Dolor de muelas,Cancelada,691,100
+133,2024-02-06 15:18:38.065549,Limpieza dental,Completada,919,760
+134,2024-05-18 23:01:32.230230,Chequeo general,Programada,827,794
+135,2024-11-09 07:25:00.823186,Tratamiento de caries,Cancelada,602,816
+136,2024-07-05 12:05:58.743860,Limpieza dental,Cancelada,601,890
+137,2024-11-17 01:12:22.857337,Tratamiento de caries,Programada,166,156
+138,2024-11-29 14:00:04.334278,Limpieza dental,Completada,907,641
+139,2024-03-25 17:51:15.712739,Chequeo general,Completada,238,906
+140,2024-09-07 04:02:39.015647,Chequeo general,Completada,670,145
+141,2024-03-15 08:24:37.526101,Dolor de muelas,Cancelada,529,747
+142,2024-07-03 08:45:17.477144,Dolor de muelas,Cancelada,805,135
+143,2024-04-25 01:38:23.374506,Tratamiento de caries,Programada,369,639
+144,2024-12-02 08:46:43.373885,Tratamiento de caries,Programada,913,730
+145,2024-04-07 23:40:59.145681,Limpieza dental,Programada,214,626
+146,2024-12-10 11:54:45.952153,Tratamiento de caries,Programada,581,643
+147,2024-08-05 11:09:54.668607,Chequeo general,Cancelada,825,16
+148,2024-11-22 06:13:16.990135,Limpieza dental,Cancelada,561,889
+149,2024-07-23 22:01:32.756482,Dolor de muelas,Programada,97,466
+150,2024-10-04 09:49:07.237157,Chequeo general,Programada,957,303
+151,2024-09-10 09:02:53.605055,Dolor de muelas,Cancelada,287,591
+152,2024-06-05 16:58:56.886644,Chequeo general,Completada,92,73
+153,2024-02-20 20:53:48.615982,Dolor de muelas,Cancelada,791,472
+154,2024-07-08 08:49:34.543994,Tratamiento de caries,Completada,263,782
+155,2024-01-26 17:08:44.355294,Limpieza dental,Completada,947,144
+156,2024-07-07 03:21:32.366301,Dolor de muelas,Cancelada,500,41
+157,2024-11-15 10:45:32.206123,Chequeo general,Cancelada,411,419
+158,2024-10-15 12:33:38.592565,Dolor de muelas,Cancelada,376,525
+159,2024-08-09 20:26:22.970061,Tratamiento de caries,Completada,86,699
+160,2024-04-20 08:53:01.947816,Limpieza dental,Completada,461,270
+161,2024-05-06 15:51:55.242118,Chequeo general,Completada,660,59
+162,2024-09-08 22:50:48.874175,Limpieza dental,Programada,841,575
+163,2024-10-11 19:05:12.637484,Dolor de muelas,Cancelada,874,108
+164,2024-09-02 21:18:10.856617,Tratamiento de caries,Programada,163,584
+165,2024-11-03 12:42:19.542136,Tratamiento de caries,Completada,229,398
+166,2024-05-20 18:16:37.353053,Tratamiento de caries,Cancelada,96,358
+167,2024-10-09 22:25:16.162661,Tratamiento de caries,Programada,658,548
+168,2024-04-08 14:43:53.994102,Limpieza dental,Cancelada,88,185
+169,2024-11-27 22:13:18.889116,Chequeo general,Cancelada,787,444
+170,2024-08-14 15:17:24.388694,Dolor de muelas,Cancelada,337,67
+171,2024-08-11 22:23:04.307180,Chequeo general,Completada,619,498
+172,2024-03-29 03:08:03.463012,Limpieza dental,Cancelada,760,488
+173,2024-04-06 08:27:13.394586,Chequeo general,Cancelada,466,40
+174,2024-07-18 05:21:34.541201,Chequeo general,Cancelada,150,656
+175,2024-04-17 04:50:34.067214,Tratamiento de caries,Programada,582,33
+176,2024-10-13 18:34:15.684159,Dolor de muelas,Cancelada,959,828
+177,2024-11-21 01:32:47.463415,Limpieza dental,Programada,485,219
+178,2024-11-19 00:19:26.437435,Tratamiento de caries,Cancelada,889,24
+179,2024-03-02 15:41:11.327238,Chequeo general,Programada,259,651
+180,2024-09-24 23:48:22.388591,Dolor de muelas,Cancelada,146,71
+181,2024-08-20 04:58:02.520144,Tratamiento de caries,Cancelada,84,306
+182,2024-09-10 00:02:42.506085,Dolor de muelas,Programada,538,220
+183,2024-03-27 16:25:55.019865,Limpieza dental,Cancelada,851,56
+184,2024-02-03 20:13:50.051126,Dolor de muelas,Programada,351,987
+185,2024-09-23 06:49:11.987027,Tratamiento de caries,Cancelada,204,358
+186,2024-03-19 00:13:52.080582,Chequeo general,Completada,487,549
+187,2024-08-23 12:12:04.819467,Tratamiento de caries,Programada,448,364
+188,2024-02-18 20:10:27.810112,Chequeo general,Programada,575,802
+189,2024-06-27 05:32:10.596050,Chequeo general,Cancelada,741,684
+190,2024-02-12 12:17:40.123894,Dolor de muelas,Programada,681,844
+191,2024-09-08 18:07:37.963077,Tratamiento de caries,Programada,155,919
+192,2024-03-03 08:11:31.973041,Dolor de muelas,Programada,512,886
+193,2024-07-10 23:18:30.799393,Tratamiento de caries,Cancelada,812,994
+194,2024-09-05 01:43:59.379672,Limpieza dental,Cancelada,534,740
+195,2024-01-03 07:02:30.439989,Chequeo general,Completada,966,853
+196,2024-02-17 17:47:22.316525,Limpieza dental,Programada,461,655
+197,2024-03-23 06:55:09.839087,Chequeo general,Cancelada,224,764
+198,2024-09-26 06:37:16.472099,Chequeo general,Completada,714,560
+199,2024-08-10 05:26:49.240776,Dolor de muelas,Programada,387,222
+200,2024-04-14 16:15:00.320477,Limpieza dental,Cancelada,976,196
+201,2024-12-03 01:57:51.801507,Limpieza dental,Cancelada,834,373
+202,2024-07-31 15:05:57.468130,Limpieza dental,Completada,919,315
+203,2024-10-20 15:23:53.445725,Tratamiento de caries,Cancelada,512,665
+204,2024-08-04 00:38:54.611523,Dolor de muelas,Completada,421,361
+205,2024-10-24 17:00:20.022331,Dolor de muelas,Programada,437,536
+206,2024-10-21 23:52:21.310214,Tratamiento de caries,Cancelada,949,181
+207,2024-06-18 05:45:04.893240,Chequeo general,Completada,383,182
+208,2024-10-18 00:51:13.900226,Dolor de muelas,Completada,447,391
+209,2024-02-14 17:30:39.039749,Tratamiento de caries,Completada,706,697
+210,2024-03-27 17:22:16.956221,Limpieza dental,Programada,291,719
+211,2024-08-09 02:54:52.839780,Limpieza dental,Programada,826,858
+212,2024-04-22 15:51:46.167626,Tratamiento de caries,Programada,666,17
+213,2024-05-11 15:58:05.427178,Limpieza dental,Completada,509,768
+214,2024-01-14 15:44:46.182437,Limpieza dental,Completada,455,516
+215,2024-01-26 03:02:25.926729,Tratamiento de caries,Programada,297,873
+216,2024-04-18 02:32:37.626923,Tratamiento de caries,Completada,229,796
+217,2024-12-02 08:38:17.544920,Chequeo general,Cancelada,391,118
+218,2024-09-19 22:04:46.791940,Dolor de muelas,Cancelada,974,128
+219,2024-02-23 04:58:14.041611,Tratamiento de caries,Programada,423,930
+220,2024-08-23 12:16:10.908467,Chequeo general,Completada,963,384
+221,2024-05-23 03:43:11.194211,Dolor de muelas,Cancelada,291,275
+222,2024-05-29 07:32:21.167360,Tratamiento de caries,Completada,859,925
+223,2024-02-22 01:08:14.112790,Tratamiento de caries,Programada,248,5
+224,2024-01-13 23:33:38.923170,Chequeo general,Cancelada,16,27
+225,2024-10-10 11:29:50.781804,Dolor de muelas,Cancelada,861,837
+226,2024-02-21 12:49:36.293213,Tratamiento de caries,Programada,175,983
+227,2024-03-02 18:01:41.905362,Tratamiento de caries,Programada,570,997
+228,2024-01-01 08:23:36.453581,Tratamiento de caries,Programada,632,660
+229,2024-11-22 12:17:12.304792,Tratamiento de caries,Programada,821,955
+230,2024-06-15 10:56:44.490693,Tratamiento de caries,Completada,962,652
+231,2024-10-02 16:13:18.623286,Dolor de muelas,Completada,178,413
+232,2024-08-12 07:31:43.040113,Chequeo general,Programada,163,448
+233,2024-10-14 16:57:03.039939,Chequeo general,Completada,728,821
+234,2024-07-10 20:17:58.496010,Tratamiento de caries,Completada,122,647
+235,2024-02-01 05:26:36.581467,Chequeo general,Cancelada,939,267
+236,2024-08-04 07:18:47.467265,Limpieza dental,Programada,209,96
+237,2024-06-02 08:50:46.024514,Chequeo general,Programada,448,12
+238,2024-06-08 18:57:31.447749,Limpieza dental,Completada,633,725
+239,2024-05-02 12:10:51.072268,Chequeo general,Cancelada,392,26
+240,2024-05-17 10:12:38.168193,Dolor de muelas,Programada,650,647
+241,2024-08-26 16:11:28.787984,Chequeo general,Cancelada,246,669
+242,2024-11-15 06:07:21.313400,Chequeo general,Completada,199,549
+243,2024-09-04 06:26:09.772275,Tratamiento de caries,Cancelada,799,827
+244,2024-01-03 19:15:35.673382,Dolor de muelas,Programada,676,53
+245,2024-08-26 00:58:46.298888,Limpieza dental,Completada,958,148
+246,2024-09-23 04:06:45.013262,Limpieza dental,Programada,594,888
+247,2024-06-13 11:33:51.132654,Limpieza dental,Programada,471,950
+248,2024-03-08 04:48:42.102196,Dolor de muelas,Programada,146,290
+249,2024-06-02 02:02:23.899648,Tratamiento de caries,Cancelada,96,80
+250,2024-10-20 19:50:57.753321,Chequeo general,Cancelada,935,859
+251,2024-05-20 19:43:31.558782,Limpieza dental,Cancelada,104,503
+252,2024-02-04 15:14:13.964080,Limpieza dental,Programada,76,499
+253,2024-09-01 03:44:59.693511,Tratamiento de caries,Cancelada,704,430
+254,2024-06-13 08:05:35.472859,Tratamiento de caries,Programada,649,931
+255,2024-08-13 13:13:52.359801,Limpieza dental,Programada,185,306
+256,2024-05-29 03:59:06.903061,Limpieza dental,Programada,676,581
+257,2024-10-29 07:51:00.666171,Dolor de muelas,Cancelada,1000,352
+258,2024-03-01 21:12:53.297073,Limpieza dental,Programada,629,615
+259,2024-06-19 07:33:27.781171,Dolor de muelas,Programada,535,760
+260,2024-02-08 16:58:10.985268,Limpieza dental,Completada,198,621
+261,2024-10-02 10:30:53.334169,Chequeo general,Programada,24,531
+262,2024-03-25 12:17:51.201178,Limpieza dental,Programada,888,374
+263,2024-01-30 01:07:34.846308,Chequeo general,Programada,31,336
+264,2024-09-13 00:13:27.909938,Chequeo general,Cancelada,86,746
+265,2024-07-16 13:21:22.459373,Chequeo general,Programada,281,494
+266,2024-11-12 02:28:59.405137,Dolor de muelas,Cancelada,357,726
+267,2024-02-05 12:43:21.560665,Tratamiento de caries,Cancelada,764,829
+268,2024-05-07 21:16:12.347095,Tratamiento de caries,Programada,525,970
+269,2024-10-29 02:55:54.123734,Chequeo general,Completada,257,178
+270,2024-08-14 20:19:56.773526,Dolor de muelas,Cancelada,867,909
+271,2024-05-15 22:12:56.714930,Dolor de muelas,Programada,106,598
+272,2024-06-11 05:59:15.865728,Tratamiento de caries,Cancelada,814,211
+273,2024-10-11 15:40:15.678255,Tratamiento de caries,Completada,905,457
+274,2024-09-09 10:02:25.744554,Dolor de muelas,Completada,766,279
+275,2024-01-20 15:11:32.413249,Tratamiento de caries,Cancelada,111,622
+276,2024-05-13 19:31:30.227145,Dolor de muelas,Cancelada,205,581
+277,2024-03-10 08:45:52.200608,Limpieza dental,Cancelada,920,648
+278,2024-05-05 18:12:21.369387,Limpieza dental,Completada,172,911
+279,2024-09-03 05:08:04.800276,Tratamiento de caries,Cancelada,260,601
+280,2024-05-11 13:01:02.963793,Dolor de muelas,Cancelada,619,847
+281,2024-04-28 02:11:57.745486,Chequeo general,Cancelada,31,118
+282,2024-05-11 10:06:18.863582,Chequeo general,Cancelada,440,810
+283,2024-02-01 03:56:22.810633,Chequeo general,Completada,252,75
+284,2024-01-07 19:42:43.287990,Chequeo general,Cancelada,381,381
+285,2024-07-24 06:02:00.604540,Dolor de muelas,Completada,126,10
+286,2024-06-28 16:00:08.547468,Dolor de muelas,Programada,12,735
+287,2024-06-06 23:17:01.828948,Dolor de muelas,Programada,477,582
+288,2024-11-06 18:35:07.229299,Tratamiento de caries,Cancelada,576,68
+289,2024-01-30 03:48:30.043218,Chequeo general,Programada,617,218
+290,2024-05-31 03:08:45.962201,Limpieza dental,Completada,575,285
+291,2024-11-14 18:11:41.342983,Tratamiento de caries,Completada,915,662
+292,2024-11-20 21:03:25.670232,Dolor de muelas,Cancelada,775,446
+293,2024-12-08 22:32:57.998126,Limpieza dental,Cancelada,203,202
+294,2024-10-30 05:09:07.465819,Dolor de muelas,Cancelada,511,48
+295,2024-04-24 05:09:53.083152,Tratamiento de caries,Programada,123,128
+296,2024-10-16 11:15:26.816276,Tratamiento de caries,Programada,616,335
+297,2024-01-10 06:12:58.282001,Dolor de muelas,Programada,591,22
+298,2024-09-12 04:54:30.184317,Limpieza dental,Cancelada,660,803
+299,2024-02-20 01:07:09.417459,Tratamiento de caries,Programada,292,135
+300,2024-02-12 12:15:26.801204,Limpieza dental,Cancelada,918,547
+301,2024-12-05 21:12:30.189293,Limpieza dental,Cancelada,661,17
+302,2024-09-19 16:12:32.473784,Tratamiento de caries,Completada,98,850
+303,2024-09-24 10:15:59.257622,Dolor de muelas,Cancelada,309,282
+304,2024-12-03 15:55:02.819559,Dolor de muelas,Cancelada,410,82
+305,2024-05-25 01:27:03.488328,Tratamiento de caries,Cancelada,628,49
+306,2024-02-17 06:18:27.670925,Tratamiento de caries,Completada,714,466
+307,2024-06-27 18:24:49.202855,Limpieza dental,Cancelada,991,933
+308,2024-06-16 20:17:49.034001,Limpieza dental,Programada,961,633
+309,2024-06-19 19:31:27.164718,Limpieza dental,Programada,230,49
+310,2024-08-13 20:26:00.871714,Tratamiento de caries,Programada,108,331
+311,2024-06-28 23:55:50.726534,Chequeo general,Completada,175,91
+312,2024-09-11 11:47:46.688799,Dolor de muelas,Completada,924,832
+313,2024-02-04 12:18:40.186525,Limpieza dental,Cancelada,6,957
+314,2024-11-30 00:22:01.895717,Limpieza dental,Programada,905,804
+315,2024-11-01 14:12:56.340132,Dolor de muelas,Programada,50,970
+316,2024-09-09 23:19:16.371552,Tratamiento de caries,Cancelada,271,338
+317,2024-01-19 21:41:32.093374,Chequeo general,Completada,716,175
+318,2024-11-15 17:44:03.318353,Chequeo general,Cancelada,472,123
+319,2024-02-09 23:50:58.620690,Tratamiento de caries,Completada,883,152
+320,2024-02-21 17:21:34.929521,Limpieza dental,Completada,458,685
+321,2024-12-02 15:48:08.763046,Tratamiento de caries,Completada,541,247
+322,2024-01-24 19:09:40.177344,Dolor de muelas,Cancelada,502,1000
+323,2024-01-27 13:47:00.612001,Tratamiento de caries,Programada,792,749
+324,2024-10-29 04:34:01.575741,Dolor de muelas,Completada,95,271
+325,2024-01-04 15:15:08.717575,Chequeo general,Completada,85,362
+326,2024-09-28 09:19:54.614428,Chequeo general,Completada,663,753
+327,2024-05-11 11:46:39.750060,Tratamiento de caries,Programada,80,77
+328,2024-03-08 00:42:34.609288,Chequeo general,Cancelada,218,14
+329,2024-07-28 07:25:06.821795,Chequeo general,Cancelada,839,395
+330,2024-04-01 00:15:58.208565,Chequeo general,Completada,108,349
+331,2024-11-20 16:58:45.293474,Dolor de muelas,Cancelada,780,541
+332,2024-03-04 12:44:59.899168,Chequeo general,Completada,726,465
+333,2024-08-14 03:44:08.268311,Chequeo general,Programada,109,937
+334,2024-03-03 11:25:22.328294,Tratamiento de caries,Cancelada,939,373
+335,2024-02-29 08:02:09.845374,Chequeo general,Cancelada,889,636
+336,2024-10-28 17:37:11.098382,Dolor de muelas,Cancelada,193,71
+337,2024-05-08 12:47:40.183414,Dolor de muelas,Completada,169,703
+338,2024-04-19 03:04:26.178398,Chequeo general,Cancelada,664,105
+339,2024-11-23 00:06:02.868659,Limpieza dental,Programada,898,110
+340,2024-05-31 18:52:40.050478,Tratamiento de caries,Programada,17,916
+341,2024-05-13 00:55:14.342343,Tratamiento de caries,Completada,274,30
+342,2024-01-27 16:59:25.420216,Dolor de muelas,Cancelada,544,464
+343,2024-09-09 08:05:46.355629,Limpieza dental,Cancelada,122,950
+344,2024-04-23 08:40:41.685323,Chequeo general,Cancelada,442,218
+345,2024-03-04 05:44:36.338050,Dolor de muelas,Programada,515,442
+346,2024-04-18 03:25:29.550636,Dolor de muelas,Programada,452,280
+347,2024-11-08 21:53:04.364082,Tratamiento de caries,Completada,51,665
+348,2024-02-25 03:55:32.801489,Chequeo general,Cancelada,951,433
+349,2024-09-10 23:12:43.426515,Chequeo general,Completada,194,413
+350,2024-03-25 14:08:11.046642,Tratamiento de caries,Completada,283,543
+351,2024-02-16 13:01:21.578705,Limpieza dental,Completada,444,112
+352,2024-08-11 15:34:48.876076,Limpieza dental,Programada,255,982
+353,2024-02-29 20:03:24.271137,Limpieza dental,Completada,118,55
+354,2024-09-13 22:45:39.692941,Limpieza dental,Completada,273,245
+355,2024-03-23 22:41:13.073338,Chequeo general,Completada,104,283
+356,2024-03-10 01:23:13.318393,Tratamiento de caries,Cancelada,717,734
+357,2024-03-21 17:12:17.996288,Chequeo general,Completada,403,104
+358,2024-05-12 11:19:26.236305,Dolor de muelas,Cancelada,844,901
+359,2024-07-20 10:50:08.172032,Chequeo general,Cancelada,211,176
+360,2024-10-12 21:35:34.433684,Dolor de muelas,Completada,653,295
+361,2024-02-06 22:49:57.490695,Chequeo general,Completada,4,97
+362,2024-05-15 09:04:51.346510,Tratamiento de caries,Completada,930,718
+363,2024-07-15 17:17:51.321102,Chequeo general,Programada,313,874
+364,2024-11-11 20:49:59.287222,Limpieza dental,Programada,323,698
+365,2024-02-08 03:40:41.266778,Tratamiento de caries,Programada,192,341
+366,2024-06-25 15:40:12.223096,Tratamiento de caries,Cancelada,986,14
+367,2024-07-19 20:40:58.110063,Chequeo general,Cancelada,343,22
+368,2024-05-24 22:00:09.286330,Chequeo general,Completada,903,79
+369,2024-03-09 16:56:43.328058,Limpieza dental,Completada,779,874
+370,2024-11-20 21:07:42.858206,Tratamiento de caries,Completada,361,993
+371,2024-11-18 09:14:13.001134,Chequeo general,Cancelada,2,501
+372,2024-07-05 13:58:10.362075,Limpieza dental,Completada,113,47
+373,2024-07-07 10:38:00.434456,Chequeo general,Completada,697,298
+374,2024-03-26 12:55:15.011428,Chequeo general,Programada,516,172
+375,2024-11-30 11:24:19.081809,Dolor de muelas,Cancelada,103,312
+376,2024-11-29 22:50:21.848186,Dolor de muelas,Completada,503,753
+377,2024-01-07 09:25:20.817875,Tratamiento de caries,Cancelada,264,680
+378,2024-02-20 02:43:04.064247,Limpieza dental,Cancelada,374,470
+379,2024-01-22 10:52:40.104252,Dolor de muelas,Completada,309,728
+380,2024-06-20 09:41:17.651097,Tratamiento de caries,Programada,794,680
+381,2024-04-13 05:02:42.512524,Limpieza dental,Programada,277,703
+382,2024-05-29 00:40:40.249334,Chequeo general,Completada,421,877
+383,2024-02-19 09:38:09.245251,Tratamiento de caries,Programada,146,366
+384,2024-09-05 21:53:09.894434,Tratamiento de caries,Cancelada,251,592
+385,2024-08-11 18:24:32.895511,Limpieza dental,Programada,212,763
+386,2024-05-13 19:31:24.789616,Tratamiento de caries,Completada,943,978
+387,2024-02-01 00:12:35.618535,Dolor de muelas,Completada,111,989
+388,2024-11-21 13:08:56.913740,Tratamiento de caries,Completada,696,558
+389,2024-08-07 10:43:06.544961,Dolor de muelas,Cancelada,180,272
+390,2024-09-27 20:37:43.571741,Tratamiento de caries,Cancelada,401,604
+391,2024-01-30 15:38:37.955838,Limpieza dental,Completada,317,196
+392,2024-04-06 12:21:29.175467,Dolor de muelas,Completada,533,719
+393,2024-12-02 11:28:09.370498,Tratamiento de caries,Completada,126,444
+394,2024-12-09 20:05:31.545924,Dolor de muelas,Cancelada,992,812
+395,2024-04-12 15:30:29.733929,Limpieza dental,Cancelada,113,993
+396,2024-04-06 20:09:31.615959,Chequeo general,Cancelada,950,702
+397,2024-09-25 17:58:56.388310,Dolor de muelas,Completada,698,154
+398,2024-08-25 23:46:48.938761,Chequeo general,Cancelada,572,681
+399,2024-08-28 12:43:34.581882,Limpieza dental,Cancelada,499,296
+400,2024-08-25 23:44:00.182403,Limpieza dental,Programada,16,465
+401,2024-03-16 01:37:55.691650,Limpieza dental,Programada,290,846
+402,2024-09-28 08:13:59.594684,Limpieza dental,Cancelada,501,314
+403,2024-06-05 11:04:20.800954,Limpieza dental,Programada,361,677
+404,2024-08-11 08:45:55.470916,Dolor de muelas,Cancelada,258,142
+405,2024-02-26 13:43:06.751148,Chequeo general,Programada,805,880
+406,2024-09-06 00:05:06.572997,Chequeo general,Completada,731,278
+407,2024-11-05 11:12:12.111459,Limpieza dental,Cancelada,202,443
+408,2024-02-20 04:52:11.454973,Tratamiento de caries,Cancelada,225,33
+409,2024-08-16 03:14:24.355488,Tratamiento de caries,Cancelada,255,832
+410,2024-03-01 16:40:30.575675,Limpieza dental,Cancelada,409,991
+411,2024-02-09 13:34:25.842308,Dolor de muelas,Programada,943,310
+412,2024-01-07 08:37:32.821300,Dolor de muelas,Completada,578,447
+413,2024-10-22 16:39:10.396174,Chequeo general,Cancelada,143,700
+414,2024-07-13 16:45:54.656469,Chequeo general,Cancelada,139,427
+415,2024-11-02 01:50:30.684767,Dolor de muelas,Completada,313,88
+416,2024-06-24 07:16:41.896087,Tratamiento de caries,Completada,950,644
+417,2024-03-23 15:04:33.630366,Tratamiento de caries,Programada,188,385
+418,2024-03-29 18:41:33.914474,Tratamiento de caries,Completada,142,540
+419,2024-04-10 23:11:32.940586,Dolor de muelas,Cancelada,321,516
+420,2024-11-16 06:07:55.355669,Tratamiento de caries,Cancelada,363,438
+421,2024-11-05 16:30:46.844280,Tratamiento de caries,Programada,985,421
+422,2024-08-09 11:29:30.416789,Limpieza dental,Cancelada,935,573
+423,2024-01-10 06:13:41.442635,Chequeo general,Completada,91,774
+424,2024-05-28 13:09:10.560374,Chequeo general,Completada,929,310
+425,2024-10-04 04:30:11.861155,Chequeo general,Completada,525,383
+426,2024-11-04 06:22:18.567240,Dolor de muelas,Programada,557,922
+427,2024-05-20 19:48:53.260976,Tratamiento de caries,Programada,774,866
+428,2024-06-16 09:12:31.132671,Limpieza dental,Cancelada,413,687
+429,2024-01-21 12:35:09.513652,Tratamiento de caries,Programada,827,782
+430,2024-09-15 01:14:14.225122,Dolor de muelas,Completada,87,57
+431,2024-07-21 10:22:15.081455,Limpieza dental,Cancelada,110,342
+432,2024-05-10 14:23:35.839646,Dolor de muelas,Programada,580,494
+433,2024-03-15 08:36:06.633177,Limpieza dental,Completada,125,759
+434,2024-02-05 10:50:03.042056,Chequeo general,Completada,210,529
+435,2024-01-16 17:11:05.656234,Tratamiento de caries,Programada,759,991
+436,2024-09-25 01:47:56.270442,Chequeo general,Cancelada,229,917
+437,2024-06-14 19:09:08.423556,Limpieza dental,Cancelada,644,319
+438,2024-03-28 12:49:42.549407,Chequeo general,Programada,639,705
+439,2024-10-27 12:25:56.741799,Chequeo general,Completada,69,1
+440,2024-12-01 19:41:21.612746,Limpieza dental,Programada,902,124
+441,2024-07-07 09:49:32.071771,Tratamiento de caries,Programada,210,107
+442,2024-09-02 20:08:02.797000,Tratamiento de caries,Cancelada,853,518
+443,2024-09-28 07:12:57.833891,Limpieza dental,Cancelada,57,949
+444,2024-09-25 22:39:58.102839,Chequeo general,Programada,415,496
+445,2024-06-04 09:09:28.998079,Dolor de muelas,Completada,862,869
+446,2024-01-08 03:49:26.787361,Limpieza dental,Cancelada,698,450
+447,2024-08-20 02:51:55.944728,Limpieza dental,Programada,150,652
+448,2024-07-30 12:39:36.243411,Chequeo general,Programada,146,839
+449,2024-12-05 00:09:14.463747,Chequeo general,Cancelada,524,760
+450,2024-03-10 11:41:22.828435,Dolor de muelas,Completada,492,297
+451,2024-11-02 17:33:45.521193,Tratamiento de caries,Cancelada,103,983
+452,2024-08-01 09:48:11.818185,Tratamiento de caries,Cancelada,684,282
+453,2024-12-06 16:43:41.333955,Limpieza dental,Cancelada,715,820
+454,2024-11-01 22:05:31.316900,Tratamiento de caries,Programada,427,834
+455,2024-10-24 06:59:49.062591,Tratamiento de caries,Programada,29,291
+456,2024-11-08 08:23:15.295622,Limpieza dental,Completada,578,399
+457,2024-01-15 07:13:57.181787,Tratamiento de caries,Programada,311,35
+458,2024-06-06 02:34:12.584948,Dolor de muelas,Programada,930,929
+459,2024-09-14 03:30:29.106792,Tratamiento de caries,Cancelada,480,904
+460,2024-09-03 04:52:51.431624,Dolor de muelas,Completada,10,163
+461,2024-09-21 12:55:11.496102,Chequeo general,Cancelada,877,882
+462,2024-01-02 06:53:34.033848,Tratamiento de caries,Completada,925,724
+463,2024-05-27 11:46:58.016492,Chequeo general,Cancelada,65,179
+464,2024-07-02 10:41:25.675024,Dolor de muelas,Cancelada,672,737
+465,2024-09-19 12:11:31.807412,Chequeo general,Cancelada,733,880
+466,2024-08-02 22:37:13.323271,Dolor de muelas,Cancelada,804,781
+467,2024-07-03 03:23:34.970360,Tratamiento de caries,Cancelada,70,939
+468,2024-07-30 06:39:07.233808,Chequeo general,Completada,986,484
+469,2024-04-21 14:30:52.010785,Dolor de muelas,Programada,726,950
+470,2024-01-11 03:05:59.928428,Dolor de muelas,Completada,715,332
+471,2024-01-12 22:57:04.083331,Tratamiento de caries,Programada,633,850
+472,2024-02-05 18:02:28.378872,Chequeo general,Programada,47,31
+473,2024-02-08 18:40:07.447584,Limpieza dental,Cancelada,99,682
+474,2024-11-13 20:05:57.257144,Tratamiento de caries,Cancelada,957,696
+475,2024-10-28 01:16:19.629251,Chequeo general,Programada,779,238
+476,2024-02-07 05:00:26.338177,Chequeo general,Completada,922,902
+477,2024-06-26 09:02:41.764440,Tratamiento de caries,Programada,914,394
+478,2024-12-10 20:42:30.795876,Dolor de muelas,Programada,64,627
+479,2024-02-29 16:12:20.766839,Limpieza dental,Cancelada,39,868
+480,2024-02-26 16:58:11.053753,Limpieza dental,Programada,782,384
+481,2024-01-01 13:29:56.050651,Tratamiento de caries,Cancelada,329,111
+482,2024-04-18 18:44:42.037346,Chequeo general,Programada,137,653
+483,2024-08-01 21:07:32.232955,Tratamiento de caries,Completada,259,503
+484,2024-07-10 11:49:16.386994,Chequeo general,Completada,293,231
+485,2024-02-03 12:44:43.816333,Chequeo general,Programada,166,445
+486,2024-11-17 21:42:04.612269,Limpieza dental,Programada,597,25
+487,2024-05-01 13:57:22.192614,Chequeo general,Programada,35,830
+488,2024-08-29 04:33:33.633681,Tratamiento de caries,Completada,369,793
+489,2024-04-19 08:04:30.834410,Limpieza dental,Cancelada,560,886
+490,2024-05-08 16:02:38.619036,Tratamiento de caries,Programada,190,699
+491,2024-07-29 23:42:22.405201,Tratamiento de caries,Completada,853,213
+492,2024-03-14 20:16:02.939536,Chequeo general,Programada,361,366
+493,2024-01-31 14:02:16.209792,Tratamiento de caries,Programada,450,438
+494,2024-07-15 23:47:01.448509,Chequeo general,Completada,583,81
+495,2024-04-21 01:30:17.295514,Limpieza dental,Cancelada,306,104
+496,2024-08-31 20:15:38.622217,Dolor de muelas,Programada,237,53
+497,2024-04-16 21:10:42.434823,Dolor de muelas,Cancelada,230,842
+498,2024-08-03 23:41:03.599845,Dolor de muelas,Programada,400,721
+499,2024-01-07 12:17:23.087631,Chequeo general,Cancelada,894,893
+500,2024-08-08 07:07:30.982435,Chequeo general,Completada,77,548
+501,2024-04-19 08:31:43.456750,Dolor de muelas,Cancelada,955,626
+502,2024-05-15 18:49:21.429490,Limpieza dental,Completada,634,59
+503,2024-08-14 19:57:44.997828,Dolor de muelas,Completada,483,960
+504,2024-08-26 11:39:24.069724,Dolor de muelas,Cancelada,31,34
+505,2024-06-30 14:06:40.138076,Dolor de muelas,Programada,268,206
+506,2024-06-06 10:24:56.420942,Dolor de muelas,Completada,143,210
+507,2024-02-24 12:59:16.016819,Limpieza dental,Programada,935,900
+508,2024-12-04 05:42:19.832719,Limpieza dental,Cancelada,506,75
+509,2024-08-15 18:32:32.068070,Tratamiento de caries,Completada,73,973
+510,2024-10-25 17:22:21.250634,Limpieza dental,Completada,758,628
+511,2024-07-30 10:28:32.612271,Chequeo general,Cancelada,491,970
+512,2024-07-02 05:16:39.476047,Limpieza dental,Programada,741,43
+513,2024-06-17 13:16:12.911817,Chequeo general,Completada,509,520
+514,2024-04-11 08:01:44.445439,Tratamiento de caries,Cancelada,359,442
+515,2024-04-10 04:48:15.843047,Chequeo general,Programada,801,871
+516,2024-04-17 01:09:30.036676,Limpieza dental,Programada,954,57
+517,2024-01-10 09:24:22.661369,Tratamiento de caries,Completada,548,623
+518,2024-05-23 20:52:19.573442,Limpieza dental,Completada,701,756
+519,2024-03-09 21:30:31.184477,Tratamiento de caries,Cancelada,494,54
+520,2024-02-27 23:34:18.667324,Tratamiento de caries,Completada,713,129
+521,2024-10-06 04:52:19.279557,Chequeo general,Programada,438,563
+522,2024-05-15 05:52:42.331779,Dolor de muelas,Cancelada,449,121
+523,2024-11-27 12:43:38.776245,Tratamiento de caries,Programada,199,352
+524,2024-02-21 22:01:45.372054,Limpieza dental,Completada,244,238
+525,2024-05-26 20:14:09.033451,Tratamiento de caries,Completada,11,233
+526,2024-03-30 05:36:32.335543,Limpieza dental,Programada,771,910
+527,2024-11-03 11:18:54.717412,Chequeo general,Programada,895,738
+528,2024-12-06 19:21:28.868513,Chequeo general,Cancelada,79,59
+529,2024-04-03 18:38:38.071774,Limpieza dental,Cancelada,185,290
+530,2024-06-06 19:44:19.497110,Chequeo general,Cancelada,359,617
+531,2024-07-05 22:33:05.244048,Tratamiento de caries,Cancelada,133,621
+532,2024-11-27 09:10:42.452611,Limpieza dental,Programada,674,126
+533,2024-10-22 09:29:11.291001,Chequeo general,Cancelada,257,961
+534,2024-01-16 20:02:52.116675,Dolor de muelas,Programada,723,753
+535,2024-09-01 04:57:58.678643,Dolor de muelas,Cancelada,455,731
+536,2024-09-15 03:12:33.852031,Dolor de muelas,Completada,799,565
+537,2024-03-08 20:25:38.617087,Dolor de muelas,Cancelada,251,540
+538,2024-06-06 22:53:34.100629,Limpieza dental,Programada,715,555
+539,2024-11-09 11:40:40.133221,Tratamiento de caries,Completada,355,923
+540,2024-01-19 20:04:16.046988,Tratamiento de caries,Cancelada,974,637
+541,2024-10-14 00:11:09.394710,Chequeo general,Completada,81,209
+542,2024-10-11 20:55:54.462121,Chequeo general,Programada,237,313
+543,2024-12-04 20:02:55.949698,Chequeo general,Programada,382,743
+544,2024-04-17 16:18:06.741487,Tratamiento de caries,Completada,241,716
+545,2024-09-16 00:06:49.304156,Limpieza dental,Programada,783,465
+546,2024-05-03 07:30:14.985816,Limpieza dental,Cancelada,511,857
+547,2024-02-22 21:01:46.851902,Tratamiento de caries,Cancelada,285,603
+548,2024-03-26 09:21:18.666452,Limpieza dental,Programada,848,989
+549,2024-09-25 01:09:49.604553,Tratamiento de caries,Cancelada,286,876
+550,2024-03-19 10:50:44.322289,Tratamiento de caries,Cancelada,20,884
+551,2024-09-20 12:13:51.882154,Chequeo general,Programada,455,46
+552,2024-01-19 01:41:37.179279,Tratamiento de caries,Completada,389,189
+553,2024-02-19 00:36:17.242398,Dolor de muelas,Programada,54,677
+554,2024-07-07 21:44:07.665506,Dolor de muelas,Programada,555,782
+555,2024-09-02 03:07:07.707760,Dolor de muelas,Cancelada,932,624
+556,2024-05-04 18:23:14.887608,Chequeo general,Programada,830,772
+557,2024-02-17 03:35:42.648397,Tratamiento de caries,Cancelada,350,744
+558,2024-12-03 10:49:46.645597,Limpieza dental,Programada,802,747
+559,2024-01-23 17:19:35.717712,Dolor de muelas,Completada,567,398
+560,2024-03-06 18:03:34.375634,Dolor de muelas,Programada,475,435
+561,2024-03-06 10:27:15.993538,Tratamiento de caries,Completada,984,391
+562,2024-03-23 14:40:40.066561,Chequeo general,Programada,947,244
+563,2024-07-24 15:52:46.089190,Dolor de muelas,Programada,288,819
+564,2024-08-18 20:22:24.361372,Dolor de muelas,Cancelada,256,790
+565,2024-08-20 15:46:15.425973,Limpieza dental,Completada,585,405
+566,2024-08-15 09:58:35.516258,Dolor de muelas,Completada,281,371
+567,2024-04-09 10:07:59.911632,Limpieza dental,Programada,257,802
+568,2024-11-05 04:09:47.058224,Dolor de muelas,Cancelada,315,583
+569,2024-08-06 12:10:46.953564,Tratamiento de caries,Cancelada,868,184
+570,2024-09-27 02:36:04.444270,Limpieza dental,Cancelada,18,451
+571,2024-11-07 20:00:58.772142,Dolor de muelas,Cancelada,38,990
+572,2024-11-27 04:29:12.524005,Chequeo general,Cancelada,654,865
+573,2024-09-07 13:39:47.604386,Limpieza dental,Cancelada,60,594
+574,2024-12-06 14:06:20.878225,Dolor de muelas,Programada,919,625
+575,2024-10-22 16:08:40.413129,Dolor de muelas,Cancelada,452,185
+576,2024-02-01 18:50:37.621819,Tratamiento de caries,Programada,266,890
+577,2024-04-14 09:38:55.470900,Chequeo general,Programada,233,646
+578,2024-11-19 14:47:11.950512,Limpieza dental,Programada,893,633
+579,2024-06-25 11:49:59.775403,Limpieza dental,Programada,118,671
+580,2024-06-10 13:09:07.796392,Tratamiento de caries,Completada,701,519
+581,2024-06-20 01:04:48.903253,Chequeo general,Programada,325,43
+582,2024-08-10 11:30:40.127781,Dolor de muelas,Cancelada,975,732
+583,2024-12-07 17:46:21.245281,Dolor de muelas,Completada,17,695
+584,2024-04-11 20:57:45.507299,Chequeo general,Cancelada,736,46
+585,2024-09-02 01:23:51.812856,Tratamiento de caries,Programada,112,80
+586,2024-07-15 11:26:53.901817,Chequeo general,Programada,524,80
+587,2024-11-25 13:33:20.076404,Dolor de muelas,Completada,334,585
+588,2024-11-21 12:24:18.854230,Tratamiento de caries,Cancelada,426,74
+589,2024-11-19 21:55:36.366997,Dolor de muelas,Completada,147,26
+590,2024-02-07 13:21:28.697406,Dolor de muelas,Cancelada,808,369
+591,2024-05-18 02:41:43.024379,Dolor de muelas,Cancelada,919,668
+592,2024-11-13 01:45:08.722321,Dolor de muelas,Completada,966,997
+593,2024-09-15 12:21:22.810495,Dolor de muelas,Programada,32,165
+594,2024-05-02 13:16:17.503179,Chequeo general,Completada,298,953
+595,2024-03-26 01:11:32.771977,Chequeo general,Cancelada,27,109
+596,2024-03-17 10:14:10.869195,Dolor de muelas,Programada,524,733
+597,2024-08-05 02:42:54.705718,Limpieza dental,Completada,388,851
+598,2024-03-24 05:30:01.361597,Tratamiento de caries,Completada,744,154
+599,2024-11-18 17:25:37.220012,Limpieza dental,Programada,81,979
+600,2024-08-08 16:48:29.077947,Tratamiento de caries,Completada,579,516
+601,2024-11-02 22:48:03.319506,Limpieza dental,Completada,751,125
+602,2024-08-16 17:49:40.755830,Tratamiento de caries,Cancelada,484,676
+603,2024-10-15 12:56:48.169750,Dolor de muelas,Programada,276,200
+604,2024-10-06 22:13:13.927165,Dolor de muelas,Programada,337,249
+605,2024-09-30 17:43:11.419544,Limpieza dental,Completada,467,323
+606,2024-04-23 13:37:25.824409,Tratamiento de caries,Cancelada,247,456
+607,2024-10-21 17:13:17.742498,Limpieza dental,Cancelada,82,361
+608,2024-07-03 21:24:37.188569,Chequeo general,Cancelada,670,496
+609,2024-09-28 11:51:52.227417,Chequeo general,Completada,806,429
+610,2024-04-09 12:02:32.653764,Chequeo general,Completada,848,847
+611,2024-07-19 01:18:18.521107,Tratamiento de caries,Completada,251,796
+612,2024-08-17 07:00:45.688314,Chequeo general,Completada,599,682
+613,2024-04-01 13:04:44.160673,Dolor de muelas,Cancelada,267,815
+614,2024-07-11 10:04:31.991793,Limpieza dental,Cancelada,322,121
+615,2024-04-06 16:09:56.619035,Chequeo general,Completada,432,518
+616,2024-07-08 13:16:58.555236,Chequeo general,Programada,507,648
+617,2024-01-24 04:08:07.663872,Limpieza dental,Programada,898,465
+618,2024-07-01 19:48:57.002627,Dolor de muelas,Completada,124,429
+619,2024-03-22 02:03:15.626226,Tratamiento de caries,Completada,729,953
+620,2024-11-03 17:24:04.262137,Limpieza dental,Cancelada,104,130
+621,2024-12-04 10:57:07.795235,Chequeo general,Programada,25,707
+622,2024-06-05 08:25:19.055960,Tratamiento de caries,Cancelada,136,528
+623,2024-06-24 10:00:49.369735,Tratamiento de caries,Completada,363,131
+624,2024-12-06 15:45:07.988680,Dolor de muelas,Programada,571,248
+625,2024-08-03 18:04:04.236515,Dolor de muelas,Completada,345,919
+626,2024-08-02 19:54:52.887706,Limpieza dental,Completada,624,632
+627,2024-07-30 09:03:35.869470,Dolor de muelas,Cancelada,47,76
+628,2024-10-14 06:35:23.053542,Tratamiento de caries,Completada,933,419
+629,2024-10-17 03:44:46.354593,Dolor de muelas,Cancelada,855,447
+630,2024-01-06 04:24:02.487873,Chequeo general,Completada,717,138
+631,2024-08-01 08:59:34.051746,Limpieza dental,Programada,785,604
+632,2024-05-04 01:21:20.130239,Dolor de muelas,Completada,918,8
+633,2024-10-13 12:39:44.156355,Tratamiento de caries,Cancelada,665,465
+634,2024-11-03 16:37:36.709371,Dolor de muelas,Programada,450,181
+635,2024-06-08 01:07:12.795060,Tratamiento de caries,Cancelada,238,305
+636,2024-08-08 17:09:45.107882,Tratamiento de caries,Cancelada,50,578
+637,2024-03-30 08:57:40.847437,Dolor de muelas,Programada,331,394
+638,2024-05-24 01:52:10.661821,Limpieza dental,Completada,977,147
+639,2024-02-07 20:28:41.414834,Chequeo general,Cancelada,904,749
+640,2024-08-02 06:33:06.035010,Dolor de muelas,Programada,532,285
+641,2024-02-23 22:08:09.831198,Chequeo general,Programada,356,292
+642,2024-10-29 04:52:31.871499,Tratamiento de caries,Cancelada,295,281
+643,2024-09-25 00:52:16.343647,Chequeo general,Cancelada,230,907
+644,2024-10-01 12:47:52.444300,Dolor de muelas,Completada,962,940
+645,2024-10-20 15:42:27.159542,Chequeo general,Completada,772,109
+646,2024-10-09 21:57:57.761716,Limpieza dental,Programada,286,145
+647,2024-01-11 18:04:29.395357,Chequeo general,Programada,566,859
+648,2024-07-09 06:38:43.326924,Limpieza dental,Completada,613,925
+649,2024-11-02 18:08:26.793089,Chequeo general,Programada,551,819
+650,2024-07-05 01:34:39.391955,Limpieza dental,Cancelada,501,853
+651,2024-02-03 08:56:33.757049,Tratamiento de caries,Completada,209,289
+652,2024-05-28 17:50:28.993739,Chequeo general,Cancelada,456,534
+653,2024-06-01 21:57:30.606986,Limpieza dental,Completada,303,941
+654,2024-02-02 06:22:26.085613,Limpieza dental,Cancelada,724,942
+655,2024-07-07 02:59:43.821350,Tratamiento de caries,Cancelada,911,443
+656,2024-04-15 02:05:50.183578,Chequeo general,Cancelada,89,886
+657,2024-06-08 22:09:56.322431,Limpieza dental,Cancelada,750,685
+658,2024-09-03 12:32:25.878086,Chequeo general,Completada,823,81
+659,2024-07-27 18:34:49.161884,Chequeo general,Completada,77,335
+660,2024-04-19 17:32:15.849271,Tratamiento de caries,Completada,344,283
+661,2024-08-27 03:24:03.404305,Limpieza dental,Completada,754,526
+662,2024-05-26 16:54:47.846689,Limpieza dental,Cancelada,705,323
+663,2024-11-06 11:57:05.621231,Dolor de muelas,Programada,103,955
+664,2024-04-07 02:50:54.935024,Limpieza dental,Completada,862,572
+665,2024-11-30 12:22:27.518591,Chequeo general,Programada,643,9
+666,2024-07-17 10:19:29.477395,Chequeo general,Completada,601,386
+667,2024-06-09 17:23:50.278252,Tratamiento de caries,Programada,201,272
+668,2024-09-30 02:38:43.800211,Chequeo general,Completada,497,834
+669,2024-11-22 07:44:29.992559,Chequeo general,Programada,509,290
+670,2024-11-17 04:06:51.844502,Limpieza dental,Completada,651,897
+671,2024-03-08 05:44:24.673708,Chequeo general,Programada,878,741
+672,2024-05-23 14:45:51.228661,Tratamiento de caries,Completada,445,69
+673,2024-09-26 00:51:39.334482,Chequeo general,Programada,626,214
+674,2024-01-11 12:07:42.872772,Dolor de muelas,Completada,429,705
+675,2024-02-01 11:26:22.612942,Chequeo general,Completada,390,647
+676,2024-12-03 19:20:43.056112,Chequeo general,Cancelada,358,496
+677,2024-02-26 05:25:19.235679,Dolor de muelas,Completada,861,238
+678,2024-11-13 03:44:27.875563,Tratamiento de caries,Completada,497,502
+679,2024-06-07 19:25:11.964923,Tratamiento de caries,Cancelada,366,557
+680,2024-05-07 00:49:14.396135,Limpieza dental,Cancelada,99,225
+681,2024-10-01 17:08:39.447890,Tratamiento de caries,Cancelada,430,993
+682,2024-08-06 21:20:57.932579,Tratamiento de caries,Programada,254,679
+683,2024-01-09 20:10:14.351715,Dolor de muelas,Completada,181,476
+684,2024-04-16 09:57:46.707595,Tratamiento de caries,Completada,117,356
+685,2024-05-08 10:22:17.181279,Tratamiento de caries,Cancelada,132,793
+686,2024-11-17 09:12:27.778190,Chequeo general,Programada,616,422
+687,2024-04-03 09:56:47.507586,Chequeo general,Cancelada,298,275
+688,2024-08-06 22:03:49.856889,Dolor de muelas,Cancelada,63,576
+689,2024-08-10 07:01:28.449777,Tratamiento de caries,Cancelada,692,326
+690,2024-09-14 18:18:10.164481,Tratamiento de caries,Cancelada,829,453
+691,2024-05-29 20:01:12.960897,Limpieza dental,Cancelada,267,935
+692,2024-04-15 16:36:09.216923,Chequeo general,Cancelada,498,746
+693,2024-07-24 08:13:28.557650,Limpieza dental,Cancelada,652,839
+694,2024-08-16 19:30:54.312658,Chequeo general,Completada,459,420
+695,2024-10-04 11:23:55.092871,Chequeo general,Completada,897,171
+696,2024-02-05 17:34:24.123100,Dolor de muelas,Programada,113,971
+697,2024-10-09 17:08:46.571194,Limpieza dental,Completada,620,553
+698,2024-10-17 20:44:37.244471,Tratamiento de caries,Programada,22,822
+699,2024-10-29 13:00:54.332209,Dolor de muelas,Cancelada,800,722
+700,2024-02-09 20:00:11.723569,Limpieza dental,Completada,786,785
+701,2024-01-14 00:02:58.469235,Chequeo general,Cancelada,51,532
+702,2024-04-18 03:31:40.022187,Chequeo general,Completada,549,204
+703,2024-04-01 06:24:11.900990,Chequeo general,Cancelada,406,881
+704,2024-08-08 18:38:03.583632,Dolor de muelas,Cancelada,821,166
+705,2024-06-17 18:51:22.279520,Chequeo general,Programada,424,221
+706,2024-02-02 13:41:58.093286,Limpieza dental,Completada,37,866
+707,2024-07-31 02:38:00.112706,Tratamiento de caries,Cancelada,105,514
+708,2024-07-30 17:15:55.174487,Dolor de muelas,Cancelada,44,161
+709,2024-08-03 05:14:14.128116,Chequeo general,Programada,25,236
+710,2024-04-11 14:26:23.472527,Limpieza dental,Cancelada,279,768
+711,2024-03-24 17:53:28.033252,Chequeo general,Completada,672,411
+712,2024-03-31 05:39:43.492740,Limpieza dental,Programada,898,277
+713,2024-07-31 03:59:12.227201,Tratamiento de caries,Programada,76,517
+714,2024-11-09 19:40:36.330609,Chequeo general,Programada,16,761
+715,2024-09-10 21:28:15.589322,Tratamiento de caries,Programada,754,603
+716,2024-11-22 01:30:22.877494,Dolor de muelas,Cancelada,852,621
+717,2024-03-23 12:07:05.998708,Limpieza dental,Cancelada,436,525
+718,2024-06-15 13:54:03.325746,Chequeo general,Programada,281,470
+719,2024-12-09 04:24:33.841598,Tratamiento de caries,Cancelada,271,993
+720,2024-01-05 08:56:48.442720,Limpieza dental,Programada,299,440
+721,2024-05-28 21:14:59.404387,Dolor de muelas,Cancelada,991,417
+722,2024-05-09 06:38:02.351575,Chequeo general,Cancelada,292,930
+723,2024-03-06 06:35:42.659838,Tratamiento de caries,Cancelada,18,509
+724,2024-09-09 21:18:31.572757,Limpieza dental,Cancelada,782,560
+725,2024-04-21 11:37:30.573141,Limpieza dental,Cancelada,230,592
+726,2024-04-21 08:59:00.629653,Tratamiento de caries,Cancelada,790,238
+727,2024-08-26 10:24:59.177884,Limpieza dental,Completada,489,577
+728,2024-01-05 19:16:31.658014,Chequeo general,Completada,319,341
+729,2024-08-07 07:58:26.400634,Limpieza dental,Completada,1000,86
+730,2024-07-27 09:30:31.762557,Tratamiento de caries,Completada,174,213
+731,2024-05-18 20:22:27.119407,Chequeo general,Cancelada,256,86
+732,2024-09-13 16:03:43.951114,Tratamiento de caries,Completada,632,859
+733,2024-11-01 20:13:10.005886,Chequeo general,Programada,741,860
+734,2024-02-18 00:56:50.746938,Dolor de muelas,Cancelada,786,506
+735,2024-02-26 10:04:15.474581,Dolor de muelas,Programada,319,759
+736,2024-04-24 03:28:10.967757,Tratamiento de caries,Programada,38,330
+737,2024-07-04 05:15:44.722892,Chequeo general,Completada,275,707
+738,2024-07-28 19:25:55.946311,Tratamiento de caries,Cancelada,814,501
+739,2024-07-07 01:34:23.208446,Chequeo general,Cancelada,983,668
+740,2024-11-13 10:19:52.453222,Tratamiento de caries,Completada,473,726
+741,2024-10-12 12:21:26.681313,Limpieza dental,Programada,569,880
+742,2024-05-04 06:23:28.944330,Limpieza dental,Cancelada,436,717
+743,2024-05-08 19:23:34.805942,Limpieza dental,Programada,131,776
+744,2024-10-05 21:39:00.840700,Limpieza dental,Programada,533,767
+745,2024-10-26 09:34:46.140178,Limpieza dental,Programada,203,449
+746,2024-10-28 18:01:50.861664,Tratamiento de caries,Programada,907,435
+747,2024-12-08 05:31:47.615947,Tratamiento de caries,Programada,642,823
+748,2024-06-26 20:16:43.366411,Tratamiento de caries,Cancelada,767,896
+749,2024-05-24 22:04:48.348855,Limpieza dental,Cancelada,10,304
+750,2024-08-09 10:46:20.011427,Dolor de muelas,Completada,302,738
+751,2024-09-24 17:27:51.470572,Dolor de muelas,Completada,331,630
+752,2024-10-28 21:34:57.957645,Chequeo general,Cancelada,666,170
+753,2024-08-20 17:47:23.941581,Chequeo general,Completada,536,702
+754,2024-04-15 12:06:07.801555,Dolor de muelas,Completada,975,732
+755,2024-09-20 08:19:03.328707,Tratamiento de caries,Cancelada,620,258
+756,2024-07-04 05:55:01.055471,Dolor de muelas,Completada,216,959
+757,2024-01-26 11:57:11.022290,Chequeo general,Programada,738,873
+758,2024-11-02 20:30:42.011671,Tratamiento de caries,Programada,537,733
+759,2024-03-16 21:39:57.167387,Chequeo general,Programada,326,427
+760,2024-07-31 09:44:13.114859,Limpieza dental,Cancelada,482,69
+761,2024-08-02 12:49:23.990088,Chequeo general,Completada,719,193
+762,2024-03-29 07:05:06.271622,Tratamiento de caries,Cancelada,97,551
+763,2024-02-07 03:11:31.836206,Tratamiento de caries,Completada,97,63
+764,2024-06-14 19:17:46.597050,Dolor de muelas,Completada,161,69
+765,2024-03-07 06:50:19.755260,Chequeo general,Cancelada,573,905
+766,2024-01-02 08:15:24.462260,Chequeo general,Cancelada,644,15
+767,2024-02-23 20:55:32.573193,Tratamiento de caries,Completada,292,841
+768,2024-03-27 15:20:15.218200,Dolor de muelas,Completada,747,314
+769,2024-08-27 11:48:12.087236,Dolor de muelas,Completada,786,413
+770,2024-11-14 12:09:22.196601,Chequeo general,Programada,555,657
+771,2024-01-02 13:30:27.802676,Limpieza dental,Completada,607,157
+772,2024-04-29 10:30:01.115767,Chequeo general,Cancelada,222,287
+773,2024-11-11 22:13:45.456434,Chequeo general,Completada,578,105
+774,2024-05-21 16:25:08.031638,Tratamiento de caries,Cancelada,602,661
+775,2024-05-15 18:44:19.395418,Dolor de muelas,Completada,590,791
+776,2024-07-18 21:39:02.680653,Tratamiento de caries,Programada,893,631
+777,2024-07-05 15:35:48.913540,Chequeo general,Programada,173,3
+778,2024-10-30 18:29:30.511689,Chequeo general,Programada,94,952
+779,2024-11-01 14:11:00.452735,Limpieza dental,Cancelada,169,487
+780,2024-03-16 04:46:54.515534,Limpieza dental,Programada,80,918
+781,2024-05-16 23:24:29.658073,Tratamiento de caries,Cancelada,524,827
+782,2024-06-20 07:50:44.167345,Dolor de muelas,Cancelada,681,484
+783,2024-08-04 11:41:39.703128,Limpieza dental,Programada,513,779
+784,2024-04-04 23:32:33.663172,Tratamiento de caries,Cancelada,574,403
+785,2024-07-31 16:09:54.066705,Dolor de muelas,Cancelada,724,486
+786,2024-07-31 09:09:47.482190,Dolor de muelas,Completada,859,535
+787,2024-05-27 20:24:38.400695,Chequeo general,Programada,81,905
+788,2024-07-29 23:30:13.734846,Dolor de muelas,Completada,969,649
+789,2024-10-01 19:01:22.318172,Tratamiento de caries,Completada,147,861
+790,2024-06-12 06:14:13.649571,Dolor de muelas,Completada,453,502
+791,2024-09-24 03:08:13.764299,Tratamiento de caries,Completada,124,572
+792,2024-09-14 12:39:51.829375,Limpieza dental,Cancelada,357,183
+793,2024-05-13 09:58:27.961184,Dolor de muelas,Completada,876,478
+794,2024-04-19 09:22:28.898478,Chequeo general,Cancelada,435,219
+795,2024-10-18 08:35:35.764303,Limpieza dental,Programada,384,184
+796,2024-11-12 00:41:55.701401,Chequeo general,Programada,453,370
+797,2024-06-08 18:14:14.680383,Dolor de muelas,Programada,601,318
+798,2024-11-10 12:16:11.053216,Dolor de muelas,Completada,933,378
+799,2024-08-01 23:23:37.661996,Dolor de muelas,Programada,944,14
+800,2024-01-26 08:26:57.518192,Tratamiento de caries,Cancelada,663,282
+801,2024-03-14 07:26:46.660191,Dolor de muelas,Cancelada,45,713
+802,2024-08-25 17:05:20.280457,Limpieza dental,Completada,641,59
+803,2024-07-26 06:19:00.754108,Tratamiento de caries,Cancelada,950,483
+804,2024-08-24 18:59:48.575522,Limpieza dental,Programada,178,485
+805,2024-06-26 22:53:22.122364,Chequeo general,Completada,379,30
+806,2024-06-28 12:06:33.260904,Chequeo general,Programada,754,182
+807,2024-09-10 23:51:46.633831,Limpieza dental,Programada,430,855
+808,2024-03-22 01:42:30.790508,Limpieza dental,Cancelada,455,653
+809,2024-08-15 04:18:36.467114,Dolor de muelas,Programada,100,879
+810,2024-04-28 03:54:18.286202,Limpieza dental,Cancelada,671,629
+811,2024-03-12 16:56:01.417389,Dolor de muelas,Completada,858,689
+812,2024-03-10 07:08:32.371272,Dolor de muelas,Completada,174,928
+813,2024-08-22 09:40:17.845799,Tratamiento de caries,Cancelada,15,964
+814,2024-04-23 23:04:33.827067,Limpieza dental,Programada,858,684
+815,2024-01-09 08:06:23.017947,Chequeo general,Completada,198,845
+816,2024-06-04 13:13:03.999648,Chequeo general,Cancelada,274,86
+817,2024-09-15 23:25:59.225218,Chequeo general,Completada,46,283
+818,2024-07-13 05:10:38.214875,Chequeo general,Completada,518,420
+819,2024-06-18 20:54:34.324748,Limpieza dental,Cancelada,765,863
+820,2024-08-27 15:59:51.607719,Dolor de muelas,Programada,281,575
+821,2024-04-01 02:59:43.667114,Limpieza dental,Completada,350,478
+822,2024-05-16 14:44:35.636619,Limpieza dental,Programada,953,475
+823,2024-02-23 19:19:09.080905,Chequeo general,Completada,941,93
+824,2024-03-15 22:59:38.742957,Dolor de muelas,Completada,89,191
+825,2024-11-23 06:39:26.612010,Limpieza dental,Programada,642,989
+826,2024-06-28 13:43:52.777581,Chequeo general,Completada,808,11
+827,2024-02-17 12:30:50.965688,Limpieza dental,Completada,384,472
+828,2024-07-11 15:02:41.472372,Dolor de muelas,Completada,966,253
+829,2024-10-06 06:38:54.401189,Chequeo general,Completada,658,966
+830,2024-09-01 07:40:05.456401,Chequeo general,Cancelada,774,756
+831,2024-08-05 12:18:39.391431,Dolor de muelas,Programada,55,389
+832,2024-09-25 13:19:37.174132,Dolor de muelas,Cancelada,286,144
+833,2024-11-18 05:27:35.348297,Chequeo general,Cancelada,232,856
+834,2024-01-22 00:56:46.245398,Chequeo general,Cancelada,905,205
+835,2024-07-11 14:39:35.095099,Tratamiento de caries,Cancelada,266,715
+836,2024-03-28 16:30:42.679098,Dolor de muelas,Completada,95,502
+837,2024-03-12 04:47:21.223917,Tratamiento de caries,Completada,373,358
+838,2024-07-19 01:34:44.557693,Chequeo general,Programada,704,852
+839,2024-06-07 07:22:00.193797,Tratamiento de caries,Programada,973,855
+840,2024-10-01 08:15:40.736077,Chequeo general,Completada,551,583
+841,2024-12-02 03:38:23.736781,Dolor de muelas,Programada,445,356
+842,2024-10-25 13:26:29.485043,Dolor de muelas,Programada,351,717
+843,2024-06-14 03:26:33.313790,Chequeo general,Cancelada,526,792
+844,2024-09-17 17:25:05.037860,Dolor de muelas,Programada,224,479
+845,2024-02-11 14:16:21.627087,Chequeo general,Cancelada,945,119
+846,2024-05-19 08:30:17.205042,Dolor de muelas,Cancelada,144,479
+847,2024-03-29 21:02:35.286413,Limpieza dental,Cancelada,578,387
+848,2024-02-04 15:33:57.696038,Dolor de muelas,Programada,719,108
+849,2024-09-08 07:52:00.934649,Tratamiento de caries,Cancelada,163,432
+850,2024-06-10 00:10:39.295171,Limpieza dental,Programada,345,664
+851,2024-08-30 16:52:09.280447,Dolor de muelas,Programada,936,367
+852,2024-05-20 21:45:36.792438,Chequeo general,Programada,479,560
+853,2024-08-06 00:58:06.339561,Tratamiento de caries,Completada,450,829
+854,2024-01-10 06:25:11.075603,Tratamiento de caries,Completada,590,712
+855,2024-04-03 01:07:10.555948,Chequeo general,Cancelada,409,485
+856,2024-07-24 06:00:38.080205,Dolor de muelas,Cancelada,741,383
+857,2024-10-17 10:28:37.627864,Dolor de muelas,Programada,695,411
+858,2024-08-11 12:44:27.648467,Chequeo general,Completada,995,952
+859,2024-04-30 01:58:25.466250,Tratamiento de caries,Cancelada,111,432
+860,2024-03-20 22:20:35.529140,Tratamiento de caries,Completada,977,592
+861,2024-01-24 16:18:17.553806,Chequeo general,Cancelada,30,168
+862,2024-09-28 15:23:48.896412,Chequeo general,Completada,908,612
+863,2024-06-26 11:03:45.778906,Chequeo general,Completada,770,143
+864,2024-07-12 04:04:23.585344,Limpieza dental,Programada,342,808
+865,2024-06-02 21:52:42.152118,Chequeo general,Cancelada,317,812
+866,2024-02-16 03:25:58.756779,Chequeo general,Cancelada,470,406
+867,2024-06-16 15:09:26.273147,Chequeo general,Programada,1,675
+868,2024-03-20 03:14:01.942834,Dolor de muelas,Cancelada,905,177
+869,2024-11-03 09:20:04.361131,Chequeo general,Programada,83,190
+870,2024-05-14 20:46:20.017494,Chequeo general,Programada,448,93
+871,2024-10-31 08:07:56.747747,Dolor de muelas,Programada,702,569
+872,2024-06-29 13:32:33.296395,Dolor de muelas,Programada,489,164
+873,2024-08-19 22:29:14.289876,Tratamiento de caries,Completada,483,564
+874,2024-12-01 03:09:29.638404,Tratamiento de caries,Completada,218,935
+875,2024-06-09 05:56:44.728663,Tratamiento de caries,Completada,386,852
+876,2024-08-08 09:25:15.181527,Limpieza dental,Cancelada,249,782
+877,2024-01-06 06:09:57.144047,Chequeo general,Cancelada,132,326
+878,2024-09-17 01:57:41.922544,Dolor de muelas,Completada,792,335
+879,2024-05-19 22:51:12.642882,Tratamiento de caries,Completada,748,894
+880,2024-10-24 19:26:07.497826,Limpieza dental,Cancelada,404,547
+881,2024-06-15 08:58:59.869703,Limpieza dental,Programada,501,686
+882,2024-01-30 17:15:10.944236,Chequeo general,Programada,907,624
+883,2024-09-01 17:15:59.424681,Dolor de muelas,Completada,378,371
+884,2024-01-22 12:19:42.053845,Tratamiento de caries,Programada,843,2
+885,2024-07-31 10:12:29.181680,Chequeo general,Cancelada,662,236
+886,2024-10-14 09:15:27.706100,Chequeo general,Cancelada,193,46
+887,2024-03-07 11:27:13.016798,Dolor de muelas,Cancelada,446,96
+888,2024-07-19 17:30:46.777817,Tratamiento de caries,Programada,670,185
+889,2024-10-19 06:09:39.126656,Tratamiento de caries,Completada,292,319
+890,2024-03-09 20:52:04.600420,Limpieza dental,Cancelada,841,493
+891,2024-08-27 17:53:15.459502,Tratamiento de caries,Programada,982,978
+892,2024-09-10 17:16:52.484282,Limpieza dental,Cancelada,168,408
+893,2024-09-04 14:29:05.396910,Dolor de muelas,Completada,826,85
+894,2024-08-11 20:06:46.174372,Tratamiento de caries,Programada,751,104
+895,2024-02-15 02:02:57.368107,Chequeo general,Completada,165,327
+896,2024-11-13 11:20:33.002074,Tratamiento de caries,Programada,520,394
+897,2024-02-20 23:37:04.240746,Tratamiento de caries,Cancelada,498,670
+898,2024-02-16 16:29:08.994833,Dolor de muelas,Cancelada,790,56
+899,2024-09-02 20:47:55.207787,Limpieza dental,Completada,265,760
+900,2024-05-29 06:08:56.241281,Tratamiento de caries,Completada,827,822
+901,2024-05-02 20:01:30.237790,Tratamiento de caries,Completada,382,800
+902,2024-01-27 15:50:11.780205,Dolor de muelas,Programada,344,865
+903,2024-04-02 12:00:27.828584,Tratamiento de caries,Completada,805,184
+904,2024-04-15 15:39:15.650777,Limpieza dental,Programada,778,393
+905,2024-11-14 03:06:58.045146,Dolor de muelas,Programada,8,346
+906,2024-11-04 17:02:00.091467,Tratamiento de caries,Cancelada,528,833
+907,2024-06-23 18:33:36.610034,Dolor de muelas,Programada,50,476
+908,2024-06-27 05:41:20.079276,Tratamiento de caries,Cancelada,125,889
+909,2024-10-05 19:12:59.804537,Dolor de muelas,Cancelada,376,52
+910,2024-12-03 04:30:11.037690,Dolor de muelas,Programada,436,346
+911,2024-05-14 06:51:28.418363,Chequeo general,Cancelada,556,274
+912,2024-03-20 09:56:09.759965,Limpieza dental,Cancelada,366,428
+913,2024-05-22 11:23:40.381688,Limpieza dental,Completada,333,305
+914,2024-01-06 16:24:43.582226,Limpieza dental,Completada,115,366
+915,2024-05-13 09:58:56.922234,Chequeo general,Programada,757,406
+916,2024-02-19 03:36:33.161035,Limpieza dental,Programada,87,548
+917,2024-04-14 12:44:16.695029,Tratamiento de caries,Cancelada,745,149
+918,2024-10-02 06:01:41.739556,Dolor de muelas,Cancelada,915,282
+919,2024-11-23 21:40:36.743229,Chequeo general,Completada,706,633
+920,2024-09-22 22:32:19.926922,Tratamiento de caries,Programada,841,537
+921,2024-08-28 13:47:56.732985,Dolor de muelas,Programada,79,335
+922,2024-08-18 13:31:30.696574,Limpieza dental,Cancelada,151,624
+923,2024-07-30 20:32:26.574457,Limpieza dental,Cancelada,525,743
+924,2024-09-01 09:12:33.783630,Dolor de muelas,Cancelada,950,653
+925,2024-08-27 11:42:53.595220,Chequeo general,Completada,411,23
+926,2024-09-24 08:00:03.763469,Limpieza dental,Cancelada,264,739
+927,2024-03-12 14:50:56.706919,Chequeo general,Completada,989,120
+928,2024-07-12 09:46:51.500594,Chequeo general,Completada,268,311
+929,2024-04-08 00:27:23.146683,Dolor de muelas,Completada,819,51
+930,2024-05-02 05:10:32.505236,Tratamiento de caries,Cancelada,485,221
+931,2024-06-19 05:33:08.898390,Chequeo general,Cancelada,765,706
+932,2024-01-25 20:34:04.270012,Limpieza dental,Completada,514,688
+933,2024-11-24 06:22:47.541102,Chequeo general,Completada,409,932
+934,2024-07-14 01:02:15.455871,Limpieza dental,Cancelada,292,280
+935,2024-05-29 10:50:17.402700,Tratamiento de caries,Completada,213,20
+936,2024-03-16 05:56:19.191401,Dolor de muelas,Cancelada,133,282
+937,2024-09-04 15:19:20.544245,Dolor de muelas,Programada,614,810
+938,2024-05-04 12:47:53.964549,Limpieza dental,Completada,227,231
+939,2024-06-27 08:32:01.495172,Limpieza dental,Completada,333,227
+940,2024-05-05 21:49:59.654580,Tratamiento de caries,Completada,295,746
+941,2024-01-18 14:37:05.442321,Dolor de muelas,Completada,431,651
+942,2024-02-21 10:34:04.945816,Limpieza dental,Cancelada,399,488
+943,2024-05-10 04:56:06.296282,Dolor de muelas,Cancelada,349,328
+944,2024-10-23 22:08:49.395935,Tratamiento de caries,Programada,156,474
+945,2024-10-09 22:10:35.722451,Chequeo general,Completada,546,715
+946,2024-08-21 15:22:00.077185,Tratamiento de caries,Programada,400,262
+947,2024-11-12 05:50:25.738474,Limpieza dental,Completada,677,873
+948,2024-08-13 00:15:50.717486,Dolor de muelas,Programada,499,575
+949,2024-03-07 20:12:20.252363,Dolor de muelas,Cancelada,213,766
+950,2024-10-22 23:25:36.602554,Dolor de muelas,Cancelada,299,769
+951,2024-09-30 00:34:47.171531,Limpieza dental,Programada,691,479
+952,2024-02-05 23:03:23.634434,Chequeo general,Completada,640,599
+953,2024-10-07 12:51:36.867779,Tratamiento de caries,Cancelada,361,579
+954,2024-01-03 06:01:53.355312,Dolor de muelas,Completada,784,24
+955,2024-08-16 18:00:04.294056,Chequeo general,Cancelada,762,503
+956,2024-11-30 21:50:43.731428,Chequeo general,Cancelada,944,551
+957,2024-11-20 07:16:39.402612,Limpieza dental,Programada,622,972
+958,2024-11-12 03:55:05.875575,Chequeo general,Programada,406,224
+959,2024-09-05 18:32:49.476209,Chequeo general,Programada,585,297
+960,2024-07-26 17:30:06.605396,Tratamiento de caries,Completada,786,797
+961,2024-07-18 00:33:38.764635,Chequeo general,Cancelada,419,361
+962,2024-03-22 15:03:54.506113,Dolor de muelas,Cancelada,923,614
+963,2024-03-22 05:28:47.900999,Limpieza dental,Completada,789,372
+964,2024-11-25 07:32:36.811986,Dolor de muelas,Completada,906,704
+965,2024-05-05 21:30:56.796707,Tratamiento de caries,Programada,549,546
+966,2024-03-22 17:14:31.658448,Tratamiento de caries,Cancelada,880,414
+967,2024-12-04 03:12:45.202759,Tratamiento de caries,Programada,294,846
+968,2024-10-28 16:39:22.247499,Chequeo general,Cancelada,947,895
+969,2024-03-26 15:47:04.987677,Dolor de muelas,Cancelada,296,4
+970,2024-03-22 12:01:19.731726,Limpieza dental,Cancelada,672,177
+971,2024-10-24 05:42:48.166307,Tratamiento de caries,Cancelada,595,669
+972,2024-09-14 21:19:34.031786,Limpieza dental,Completada,421,194
+973,2024-04-16 12:10:34.351011,Limpieza dental,Completada,230,142
+974,2024-01-11 18:46:40.713500,Tratamiento de caries,Programada,585,750
+975,2024-07-15 13:48:32.462950,Chequeo general,Programada,333,625
+976,2024-04-21 05:19:07.487177,Tratamiento de caries,Completada,583,641
+977,2024-10-31 23:45:58.308143,Dolor de muelas,Programada,94,975
+978,2024-09-16 16:03:02.931000,Tratamiento de caries,Completada,761,616
+979,2024-07-21 00:45:39.662927,Chequeo general,Programada,524,885
+980,2024-06-14 23:24:06.214905,Chequeo general,Programada,469,378
+981,2024-03-22 00:18:21.249713,Chequeo general,Cancelada,484,960
+982,2024-05-19 06:48:50.868217,Limpieza dental,Programada,136,301
+983,2024-11-11 04:09:31.468893,Tratamiento de caries,Cancelada,212,592
+984,2024-04-14 02:26:34.345682,Tratamiento de caries,Programada,251,701
+985,2024-10-16 23:07:31.723420,Tratamiento de caries,Completada,816,182
+986,2024-04-22 03:58:32.784835,Dolor de muelas,Programada,657,114
+987,2024-02-10 03:40:51.526025,Limpieza dental,Programada,251,474
+988,2024-07-16 22:21:27.752919,Tratamiento de caries,Completada,767,34
+989,2024-07-23 13:27:54.175203,Tratamiento de caries,Programada,482,883
+990,2024-03-16 02:05:19.302942,Dolor de muelas,Completada,802,428
+991,2024-03-09 16:57:03.049699,Limpieza dental,Cancelada,551,124
+992,2024-04-21 09:00:40.785682,Limpieza dental,Cancelada,493,848
+993,2024-01-01 22:01:10.283827,Limpieza dental,Cancelada,832,408
+994,2024-11-05 22:50:13.277583,Tratamiento de caries,Cancelada,410,734
+995,2024-07-11 21:59:45.261796,Limpieza dental,Programada,807,128
+996,2024-07-18 10:10:55.102010,Limpieza dental,Completada,868,269
+997,2024-02-29 22:58:58.096907,Tratamiento de caries,Completada,174,376
+998,2024-09-21 17:08:16.965294,Chequeo general,Cancelada,348,146
+999,2024-10-08 08:11:14.548214,Limpieza dental,Cancelada,216,271
+1000,2024-02-17 17:24:24.421300,Limpieza dental,Cancelada,658,711

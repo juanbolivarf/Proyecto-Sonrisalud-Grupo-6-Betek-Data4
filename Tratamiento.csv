@@ -1,0 +1,1001 @@
+﻿ID_Tratamiento,Nombre_Tratamiento,Descripcion_Tratamiento,Costo,ID_Cita
+151_1,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,1
+121_2,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,2
+801_3,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,3
+131_4,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,4
+401_5,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,5
+131_6,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,6
+501_7,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,7
+601_8,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,8
+501_9,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,9
+121_10,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,10
+801_11,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,11
+601_12,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,12
+131_13,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,13
+801_14,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,14
+121_15,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,15
+501_16,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,16
+101_17,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,17
+501_18,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,18
+101_19,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,19
+101_20,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,20
+131_21,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,21
+301_22,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,22
+301_23,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,23
+901_24,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,24
+501_25,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,25
+101_26,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,26
+401_27,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,27
+151_28,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,28
+601_29,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,29
+101_30,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,30
+601_31,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,31
+121_32,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,32
+501_33,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,33
+501_34,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,34
+121_35,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,35
+301_36,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,36
+101_37,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,37
+111_38,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,38
+501_39,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,39
+801_40,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,40
+121_41,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,41
+801_42,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,42
+111_43,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,43
+501_44,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,44
+301_45,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,45
+121_46,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,46
+131_47,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,47
+121_48,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,48
+301_49,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,49
+301_50,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,50
+101_51,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,51
+501_52,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,52
+141_53,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,53
+701_54,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,54
+501_55,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,55
+111_56,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,56
+401_57,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,57
+101_58,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,58
+141_59,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,59
+401_60,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,60
+101_61,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,61
+501_62,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,62
+301_63,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,63
+101_64,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,64
+101_65,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,65
+501_66,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,66
+601_67,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,67
+121_68,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,68
+901_69,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,69
+121_70,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,70
+141_71,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,71
+901_72,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,72
+701_73,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,73
+801_74,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,74
+101_75,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,75
+151_76,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,76
+301_77,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,77
+601_78,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,78
+111_79,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,79
+301_80,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,80
+101_81,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,81
+141_82,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,82
+901_83,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,83
+601_84,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,84
+901_85,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,85
+601_86,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,86
+701_87,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,87
+141_88,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,88
+151_89,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,89
+801_90,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,90
+111_91,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,91
+301_92,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,92
+141_93,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,93
+901_94,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,94
+801_95,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,95
+301_96,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,96
+801_97,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,97
+151_98,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,98
+701_99,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,99
+101_100,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,100
+111_101,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,101
+201_102,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,102
+601_103,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,103
+401_104,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,104
+501_105,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,105
+401_106,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,106
+401_107,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,107
+301_108,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,108
+501_109,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,109
+101_110,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,110
+131_111,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,111
+121_112,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,112
+131_113,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,113
+201_114,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,114
+111_115,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,115
+401_116,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,116
+601_117,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,117
+801_118,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,118
+801_119,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,119
+101_120,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,120
+151_121,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,121
+111_122,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,122
+151_123,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,123
+101_124,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,124
+141_125,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,125
+121_126,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,126
+141_127,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,127
+141_128,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,128
+131_129,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,129
+131_130,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,130
+901_131,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,131
+151_132,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,132
+401_133,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,133
+121_134,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,134
+401_135,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,135
+601_136,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,136
+111_137,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,137
+101_138,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,138
+701_139,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,139
+111_140,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,140
+201_141,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,141
+601_142,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,142
+901_143,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,143
+201_144,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,144
+501_145,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,145
+901_146,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,146
+901_147,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,147
+141_148,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,148
+121_149,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,149
+901_150,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,150
+141_151,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,151
+201_152,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,152
+131_153,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,153
+101_154,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,154
+801_155,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,155
+101_156,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,156
+901_157,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,157
+401_158,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,158
+401_159,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,159
+501_160,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,160
+131_161,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,161
+121_162,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,162
+301_163,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,163
+121_164,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,164
+151_165,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,165
+111_166,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,166
+141_167,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,167
+401_168,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,168
+401_169,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,169
+121_170,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,170
+121_171,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,171
+801_172,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,172
+301_173,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,173
+101_174,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,174
+101_175,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,175
+501_176,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,176
+901_177,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,177
+501_178,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,178
+201_179,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,179
+121_180,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,180
+401_181,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,181
+121_182,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,182
+141_183,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,183
+151_184,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,184
+201_185,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,185
+151_186,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,186
+151_187,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,187
+301_188,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,188
+901_189,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,189
+501_190,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,190
+101_191,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,191
+401_192,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,192
+401_193,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,193
+401_194,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,194
+101_195,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,195
+131_196,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,196
+101_197,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,197
+801_198,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,198
+801_199,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,199
+201_200,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,200
+901_201,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,201
+151_202,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,202
+131_203,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,203
+101_204,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,204
+601_205,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,205
+131_206,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,206
+111_207,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,207
+201_208,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,208
+401_209,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,209
+801_210,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,210
+201_211,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,211
+801_212,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,212
+201_213,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,213
+801_214,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,214
+401_215,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,215
+201_216,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,216
+901_217,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,217
+101_218,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,218
+401_219,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,219
+101_220,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,220
+801_221,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,221
+501_222,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,222
+101_223,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,223
+101_224,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,224
+101_225,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,225
+701_226,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,226
+141_227,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,227
+151_228,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,228
+201_229,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,229
+121_230,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,230
+151_231,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,231
+801_232,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,232
+131_233,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,233
+111_234,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,234
+401_235,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,235
+101_236,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,236
+131_237,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,237
+111_238,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,238
+101_239,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,239
+131_240,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,240
+801_241,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,241
+101_242,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,242
+501_243,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,243
+131_244,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,244
+701_245,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,245
+101_246,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,246
+501_247,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,247
+801_248,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,248
+111_249,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,249
+301_250,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,250
+601_251,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,251
+901_252,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,252
+801_253,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,253
+901_254,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,254
+501_255,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,255
+111_256,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,256
+501_257,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,257
+501_258,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,258
+141_259,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,259
+901_260,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,260
+401_261,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,261
+601_262,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,262
+501_263,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,263
+111_264,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,264
+901_265,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,265
+901_266,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,266
+501_267,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,267
+111_268,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,268
+801_269,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,269
+201_270,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,270
+131_271,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,271
+301_272,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,272
+801_273,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,273
+101_274,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,274
+601_275,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,275
+151_276,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,276
+901_277,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,277
+801_278,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,278
+801_279,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,279
+301_280,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,280
+301_281,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,281
+201_282,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,282
+131_283,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,283
+701_284,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,284
+111_285,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,285
+501_286,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,286
+201_287,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,287
+151_288,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,288
+141_289,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,289
+801_290,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,290
+601_291,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,291
+111_292,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,292
+111_293,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,293
+901_294,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,294
+141_295,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,295
+301_296,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,296
+401_297,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,297
+131_298,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,298
+201_299,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,299
+131_300,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,300
+401_301,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,301
+401_302,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,302
+501_303,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,303
+901_304,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,304
+501_305,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,305
+601_306,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,306
+131_307,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,307
+901_308,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,308
+801_309,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,309
+201_310,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,310
+111_311,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,311
+501_312,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,312
+151_313,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,313
+101_314,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,314
+401_315,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,315
+101_316,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,316
+111_317,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,317
+301_318,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,318
+601_319,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,319
+301_320,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,320
+401_321,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,321
+131_322,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,322
+701_323,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,323
+131_324,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,324
+301_325,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,325
+141_326,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,326
+301_327,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,327
+101_328,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,328
+111_329,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,329
+301_330,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,330
+601_331,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,331
+901_332,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,332
+801_333,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,333
+111_334,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,334
+101_335,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,335
+131_336,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,336
+701_337,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,337
+131_338,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,338
+121_339,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,339
+501_340,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,340
+401_341,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,341
+151_342,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,342
+501_343,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,343
+801_344,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,344
+151_345,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,345
+141_346,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,346
+141_347,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,347
+501_348,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,348
+601_349,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,349
+301_350,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,350
+501_351,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,351
+601_352,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,352
+121_353,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,353
+601_354,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,354
+141_355,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,355
+121_356,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,356
+601_357,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,357
+801_358,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,358
+501_359,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,359
+701_360,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,360
+101_361,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,361
+701_362,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,362
+131_363,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,363
+701_364,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,364
+101_365,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,365
+131_366,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,366
+701_367,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,367
+101_368,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,368
+701_369,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,369
+601_370,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,370
+111_371,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,371
+131_372,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,372
+301_373,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,373
+801_374,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,374
+131_375,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,375
+501_376,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,376
+101_377,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,377
+141_378,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,378
+121_379,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,379
+401_380,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,380
+401_381,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,381
+111_382,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,382
+121_383,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,383
+501_384,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,384
+501_385,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,385
+141_386,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,386
+601_387,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,387
+101_388,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,388
+601_389,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,389
+701_390,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,390
+131_391,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,391
+701_392,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,392
+601_393,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,393
+901_394,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,394
+901_395,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,395
+121_396,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,396
+401_397,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,397
+131_398,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,398
+401_399,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,399
+101_400,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,400
+901_401,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,401
+801_402,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,402
+141_403,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,403
+501_404,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,404
+201_405,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,405
+201_406,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,406
+401_407,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,407
+301_408,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,408
+601_409,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,409
+121_410,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,410
+801_411,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,411
+121_412,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,412
+101_413,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,413
+801_414,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,414
+101_415,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,415
+131_416,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,416
+111_417,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,417
+701_418,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,418
+121_419,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,419
+151_420,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,420
+121_421,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,421
+801_422,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,422
+401_423,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,423
+501_424,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,424
+101_425,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,425
+101_426,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,426
+701_427,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,427
+101_428,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,428
+201_429,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,429
+101_430,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,430
+111_431,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,431
+601_432,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,432
+501_433,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,433
+901_434,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,434
+601_435,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,435
+801_436,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,436
+151_437,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,437
+501_438,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,438
+201_439,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,439
+801_440,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,440
+301_441,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,441
+151_442,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,442
+121_443,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,443
+201_444,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,444
+601_445,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,445
+131_446,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,446
+121_447,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,447
+701_448,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,448
+141_449,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,449
+301_450,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,450
+141_451,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,451
+301_452,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,452
+101_453,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,453
+501_454,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,454
+101_455,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,455
+401_456,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,456
+901_457,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,457
+201_458,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,458
+801_459,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,459
+401_460,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,460
+601_461,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,461
+101_462,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,462
+901_463,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,463
+131_464,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,464
+111_465,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,465
+501_466,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,466
+901_467,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,467
+901_468,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,468
+141_469,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,469
+501_470,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,470
+121_471,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,471
+101_472,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,472
+301_473,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,473
+131_474,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,474
+131_475,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,475
+201_476,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,476
+141_477,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,477
+131_478,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,478
+121_479,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,479
+121_480,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,480
+121_481,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,481
+601_482,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,482
+141_483,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,483
+601_484,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,484
+151_485,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,485
+131_486,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,486
+801_487,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,487
+121_488,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,488
+151_489,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,489
+401_490,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,490
+301_491,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,491
+601_492,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,492
+801_493,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,493
+401_494,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,494
+801_495,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,495
+601_496,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,496
+601_497,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,497
+401_498,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,498
+111_499,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,499
+121_500,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,500
+501_501,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,501
+501_502,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,502
+101_503,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,503
+121_504,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,504
+151_505,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,505
+101_506,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,506
+301_507,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,507
+201_508,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,508
+111_509,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,509
+701_510,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,510
+701_511,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,511
+701_512,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,512
+131_513,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,513
+801_514,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,514
+131_515,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,515
+101_516,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,516
+141_517,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,517
+901_518,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,518
+101_519,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,519
+151_520,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,520
+901_521,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,521
+601_522,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,522
+101_523,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,523
+101_524,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,524
+701_525,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,525
+101_526,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,526
+901_527,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,527
+141_528,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,528
+131_529,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,529
+601_530,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,530
+131_531,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,531
+901_532,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,532
+801_533,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,533
+501_534,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,534
+101_535,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,535
+601_536,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,536
+111_537,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,537
+201_538,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,538
+121_539,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,539
+201_540,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,540
+101_541,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,541
+201_542,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,542
+901_543,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,543
+131_544,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,544
+201_545,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,545
+901_546,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,546
+301_547,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,547
+131_548,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,548
+901_549,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,549
+141_550,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,550
+141_551,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,551
+201_552,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,552
+101_553,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,553
+151_554,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,554
+801_555,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,555
+101_556,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,556
+111_557,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,557
+401_558,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,558
+131_559,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,559
+201_560,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,560
+131_561,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,561
+111_562,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,562
+701_563,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,563
+141_564,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,564
+501_565,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,565
+801_566,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,566
+801_567,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,567
+151_568,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,568
+151_569,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,569
+121_570,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,570
+301_571,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,571
+111_572,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,572
+601_573,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,573
+201_574,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,574
+301_575,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,575
+111_576,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,576
+101_577,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,577
+601_578,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,578
+801_579,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,579
+901_580,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,580
+131_581,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,581
+121_582,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,582
+121_583,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,583
+141_584,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,584
+701_585,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,585
+151_586,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,586
+101_587,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,587
+701_588,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,588
+101_589,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,589
+501_590,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,590
+101_591,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,591
+101_592,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,592
+141_593,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,593
+701_594,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,594
+101_595,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,595
+101_596,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,596
+401_597,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,597
+601_598,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,598
+701_599,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,599
+301_600,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,600
+501_601,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,601
+141_602,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,602
+401_603,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,603
+101_604,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,604
+111_605,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,605
+131_606,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,606
+601_607,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,607
+901_608,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,608
+801_609,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,609
+111_610,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,610
+111_611,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,611
+401_612,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,612
+131_613,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,613
+141_614,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,614
+101_615,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,615
+151_616,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,616
+601_617,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,617
+151_618,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,618
+151_619,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,619
+121_620,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,620
+141_621,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,621
+101_622,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,622
+301_623,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,623
+401_624,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,624
+131_625,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,625
+301_626,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,626
+401_627,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,627
+501_628,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,628
+301_629,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,629
+201_630,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,630
+101_631,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,631
+901_632,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,632
+101_633,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,633
+141_634,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,634
+101_635,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,635
+131_636,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,636
+301_637,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,637
+901_638,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,638
+601_639,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,639
+201_640,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,640
+601_641,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,641
+141_642,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,642
+601_643,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,643
+151_644,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,644
+401_645,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,645
+111_646,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,646
+401_647,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,647
+401_648,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,648
+501_649,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,649
+301_650,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,650
+701_651,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,651
+501_652,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,652
+401_653,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,653
+151_654,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,654
+151_655,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,655
+401_656,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,656
+131_657,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,657
+601_658,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,658
+101_659,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,659
+301_660,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,660
+151_661,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,661
+151_662,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,662
+801_663,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,663
+201_664,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,664
+141_665,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,665
+701_666,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,666
+101_667,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,667
+801_668,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,668
+141_669,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,669
+121_670,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,670
+141_671,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,671
+121_672,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,672
+401_673,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,673
+701_674,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,674
+101_675,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,675
+801_676,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,676
+801_677,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,677
+701_678,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,678
+401_679,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,679
+401_680,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,680
+131_681,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,681
+701_682,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,682
+101_683,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,683
+141_684,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,684
+201_685,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,685
+201_686,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,686
+301_687,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,687
+901_688,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,688
+151_689,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,689
+101_690,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,690
+121_691,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,691
+901_692,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,692
+201_693,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,693
+301_694,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,694
+131_695,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,695
+401_696,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,696
+201_697,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,697
+801_698,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,698
+121_699,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,699
+101_700,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,700
+601_701,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,701
+121_702,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,702
+601_703,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,703
+701_704,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,704
+401_705,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,705
+401_706,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,706
+201_707,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,707
+131_708,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,708
+901_709,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,709
+601_710,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,710
+801_711,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,711
+501_712,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,712
+901_713,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,713
+201_714,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,714
+801_715,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,715
+101_716,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,716
+101_717,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,717
+701_718,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,718
+131_719,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,719
+701_720,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,720
+701_721,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,721
+141_722,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,722
+201_723,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,723
+601_724,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,724
+601_725,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,725
+501_726,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,726
+141_727,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,727
+201_728,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,728
+701_729,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,729
+141_730,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,730
+111_731,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,731
+501_732,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,732
+401_733,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,733
+121_734,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,734
+201_735,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,735
+111_736,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,736
+111_737,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,737
+131_738,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,738
+701_739,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,739
+151_740,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,740
+801_741,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,741
+101_742,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,742
+501_743,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,743
+121_744,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,744
+111_745,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,745
+151_746,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,746
+601_747,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,747
+101_748,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,748
+301_749,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,749
+141_750,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,750
+401_751,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,751
+301_752,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,752
+101_753,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,753
+101_754,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,754
+301_755,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,755
+901_756,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,756
+301_757,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,757
+301_758,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,758
+121_759,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,759
+801_760,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,760
+131_761,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,761
+101_762,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,762
+101_763,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,763
+101_764,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,764
+131_765,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,765
+401_766,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,766
+141_767,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,767
+121_768,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,768
+111_769,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,769
+501_770,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,770
+601_771,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,771
+101_772,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,772
+701_773,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,773
+141_774,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,774
+301_775,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,775
+701_776,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,776
+301_777,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,777
+301_778,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,778
+151_779,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,779
+901_780,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,780
+301_781,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,781
+121_782,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,782
+131_783,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,783
+131_784,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,784
+111_785,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,785
+301_786,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,786
+601_787,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,787
+151_788,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,788
+151_789,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,789
+201_790,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,790
+131_791,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,791
+301_792,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,792
+101_793,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,793
+801_794,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,794
+401_795,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,795
+501_796,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,796
+701_797,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,797
+111_798,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,798
+601_799,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,799
+151_800,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,800
+141_801,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,801
+501_802,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,802
+101_803,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,803
+601_804,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,804
+101_805,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,805
+131_806,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,806
+101_807,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,807
+601_808,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,808
+101_809,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,809
+151_810,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,810
+801_811,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,811
+101_812,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,812
+121_813,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,813
+141_814,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,814
+301_815,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,815
+151_816,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,816
+701_817,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,817
+101_818,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,818
+901_819,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,819
+701_820,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,820
+131_821,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,821
+101_822,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,822
+121_823,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,823
+901_824,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,824
+301_825,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,825
+301_826,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,826
+201_827,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,827
+101_828,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,828
+601_829,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,829
+151_830,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,830
+401_831,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,831
+201_832,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,832
+701_833,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,833
+201_834,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,834
+201_835,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,835
+801_836,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,836
+801_837,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,837
+701_838,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,838
+141_839,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,839
+151_840,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,840
+901_841,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,841
+801_842,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,842
+301_843,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,843
+141_844,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,844
+101_845,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,845
+131_846,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,846
+111_847,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,847
+101_848,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,848
+501_849,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,849
+801_850,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,850
+801_851,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,851
+151_852,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,852
+151_853,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,853
+501_854,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,854
+301_855,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,855
+601_856,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,856
+111_857,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,857
+901_858,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,858
+601_859,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,859
+101_860,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,860
+111_861,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,861
+121_862,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,862
+201_863,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,863
+801_864,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,864
+801_865,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,865
+121_866,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,866
+141_867,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,867
+141_868,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,868
+101_869,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,869
+401_870,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,870
+301_871,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,871
+401_872,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,872
+901_873,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,873
+301_874,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,874
+131_875,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,875
+301_876,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,876
+401_877,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,877
+111_878,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,878
+201_879,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,879
+121_880,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,880
+201_881,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,881
+121_882,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,882
+701_883,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,883
+501_884,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,884
+151_885,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,885
+101_886,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,886
+201_887,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,887
+401_888,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,888
+401_889,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,889
+501_890,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,890
+301_891,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,891
+121_892,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,892
+111_893,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,893
+501_894,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,894
+601_895,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,895
+121_896,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,896
+801_897,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,897
+111_898,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,898
+101_899,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,899
+901_900,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,900
+901_901,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,901
+101_902,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,902
+151_903,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,903
+501_904,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,904
+131_905,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,905
+151_906,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,906
+301_907,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,907
+601_908,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,908
+701_909,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,909
+601_910,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,910
+111_911,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,911
+301_912,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,912
+101_913,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,913
+121_914,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,914
+151_915,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,915
+141_916,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,916
+101_917,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,917
+121_918,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,918
+151_919,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,919
+131_920,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,920
+701_921,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,921
+111_922,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,922
+101_923,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,923
+131_924,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,924
+401_925,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,925
+301_926,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,926
+101_927,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,927
+301_928,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,928
+111_929,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,929
+101_930,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,930
+141_931,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,931
+131_932,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,932
+401_933,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,933
+301_934,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,934
+701_935,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,935
+601_936,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,936
+101_937,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,937
+101_938,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,938
+801_939,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,939
+801_940,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,940
+141_941,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,941
+601_942,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,942
+401_943,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,943
+111_944,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,944
+141_945,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,945
+141_946,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,946
+101_947,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,947
+701_948,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,948
+801_949,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,949
+401_950,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,950
+801_951,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,951
+101_952,Desensibilizacion dental,Tratamiento para reducir la sensibilidad dental en zonas afectadas.,120000,952
+501_953,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,953
+901_954,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,954
+801_955,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,955
+201_956,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,956
+121_957,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,957
+501_958,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,958
+111_959,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,959
+131_960,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,960
+901_961,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,961
+151_962,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,962
+601_963,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,963
+601_964,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,964
+151_965,Profilaxis periodontal,Limpieza y cuidado especializado para pacientes con periodontitis.,220000,965
+301_966,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,966
+501_967,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,967
+601_968,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,968
+131_969,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,969
+141_970,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,970
+801_971,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,971
+131_972,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,972
+901_973,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,973
+801_974,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,974
+111_975,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,975
+201_976,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,976
+111_977,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,977
+141_978,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,978
+601_979,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,979
+131_980,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,980
+901_981,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,981
+501_982,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,982
+201_983,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,983
+131_984,Colocacion de coronas,Colocacion de coronas para restaurar dientes estropeados.,700000,984
+601_985,Blanqueamiento profesional,Tratamiento cosmetico para blanquear los dientes.,500000,985
+701_986,Implante dental,Colocacion de implantes para reemplazar dientes perdidos.,4500000,986
+111_987,Endodoncia avanzada,Procedimiento avanzado para eliminar infecciones en el nervio dental.,350000,987
+101_988,Limpieza basica,Eliminacion de placa y sarro para prevenir caries.,80000,988
+901_989,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,989
+301_990,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,990
+201_991,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,991
+401_992,Ortodoncia correctiva,Alineacion de dientes mediante brackets o alineadores.,3000000,992
+801_993,Tratamiento para mordida cruzada,Correccion de problemas de mordida con tecnicas especializadas.,2000000,993
+141_994,Ferula para bruxismo,Creacion de ferulas para evitar rechinar los dientes durante el sueno.,250000,994
+201_995,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,995
+201_996,Chequeo odontologico,Examen completo para evaluar la salud bucal.,60000,996
+901_997,Terapia de encias,Limpieza profunda y control de enfermedades periodontales.,180000,997
+121_998,Reconstruccion dental,Reparacion de fracturas dentales con materiales compuestos.,400000,998
+501_999,Extraccion de cordales,Extraccion quirurgica de muelas del juicio.,250000,999
+301_1000,Empaste dental,Relleno dental para tratar caries en estado temprano.,150000,1000

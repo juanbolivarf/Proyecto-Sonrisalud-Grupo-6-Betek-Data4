@@ -1,0 +1,1001 @@
+﻿ID_Prescripcion,Fecha_Prescripcion,Detalle_Prescripcion,Costo_Prescripcion,ID_Tratamiento
+1,2023-03-28,Enjuague periodontal especializado,41800,151_1
+2,2023-03-16,Kit de reconstruccion dental,76000,121_2
+3,2023-10-31,Kit de cuidado ortodontico especial,380000,801_3
+4,2024-07-20,Antiseptico bucal especial,133000,131_4
+5,2024-03-06,Analgesico para dolor post-ortodoncia,570000,401_5
+6,2024-09-08,Antiseptico bucal especial,133000,131_6
+7,2023-02-26,Antiinflamatorio y analgesico por 5 dias,47500,501_7
+8,2023-07-09,Kit de mantenimiento de blanqueamiento,95000,601_8
+9,2024-11-02,Antiinflamatorio y analgesico por 5 dias,47500,501_9
+10,2023-08-05,Kit de reconstruccion dental,76000,121_10
+11,2024-08-17,Kit de cuidado ortodontico especial,380000,801_11
+12,2023-01-13,Kit de mantenimiento de blanqueamiento,95000,601_12
+13,2023-02-11,Antiseptico bucal especial,133000,131_13
+14,2024-10-24,Kit de cuidado ortodontico especial,380000,801_14
+15,2022-12-19,Kit de reconstruccion dental,76000,121_15
+16,2023-08-16,Antiinflamatorio y analgesico por 5 dias,47500,501_16
+17,2024-03-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_17
+18,2023-07-08,Antiinflamatorio y analgesico por 5 dias,47500,501_18
+19,2023-06-28,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_19
+20,2023-04-16,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_20
+21,2023-01-05,Antiseptico bucal especial,133000,131_21
+22,2024-10-18,Enjuague bucal especial post-tratamiento,28500,301_22
+23,2024-10-18,Enjuague bucal especial post-tratamiento,28500,301_23
+24,2024-04-13,Enjuague bucal especial para encias,34200,901_24
+25,2024-02-16,Antiinflamatorio y analgesico por 5 dias,47500,501_25
+26,2023-06-03,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_26
+27,2023-09-01,Analgesico para dolor post-ortodoncia,570000,401_27
+28,2023-03-26,Enjuague periodontal especializado,41800,151_28
+29,2024-06-02,Kit de mantenimiento de blanqueamiento,95000,601_29
+30,2023-04-12,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_30
+31,2024-03-03,Kit de mantenimiento de blanqueamiento,95000,601_31
+32,2023-01-01,Kit de reconstruccion dental,76000,121_32
+33,2023-05-08,Antiinflamatorio y analgesico por 5 dias,47500,501_33
+34,2024-02-12,Antiinflamatorio y analgesico por 5 dias,47500,501_34
+35,2023-10-22,Kit de reconstruccion dental,76000,121_35
+36,2023-08-08,Enjuague bucal especial post-tratamiento,28500,301_36
+37,2024-04-23,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_37
+38,2024-04-28,Antibiotico de amplio espectro,66500,111_38
+39,2024-10-24,Antiinflamatorio y analgesico por 5 dias,47500,501_39
+40,2024-06-28,Kit de cuidado ortodontico especial,380000,801_40
+41,2024-10-24,Kit de reconstruccion dental,76000,121_41
+42,2023-04-28,Kit de cuidado ortodontico especial,380000,801_42
+43,2023-11-23,Antibiotico de amplio espectro,66500,111_43
+44,2024-03-24,Antiinflamatorio y analgesico por 5 dias,47500,501_44
+45,2023-05-07,Enjuague bucal especial post-tratamiento,28500,301_45
+46,2024-03-29,Kit de reconstruccion dental,76000,121_46
+47,2023-01-30,Antiseptico bucal especial,133000,131_47
+48,2024-11-04,Kit de reconstruccion dental,76000,121_48
+49,2023-02-22,Enjuague bucal especial post-tratamiento,28500,301_49
+50,2023-11-20,Enjuague bucal especial post-tratamiento,28500,301_50
+51,2023-01-14,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_51
+52,2023-09-08,Antiinflamatorio y analgesico por 5 dias,47500,501_52
+53,2024-03-14,Relajante muscular nocturno,47500,141_53
+54,2023-06-25,Antibiotico preventivo y analgesico,855000,701_54
+55,2023-09-14,Antiinflamatorio y analgesico por 5 dias,47500,501_55
+56,2023-02-08,Antibiotico de amplio espectro,66500,111_56
+57,2024-07-26,Analgesico para dolor post-ortodoncia,570000,401_57
+58,2023-01-23,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_58
+59,2023-03-14,Relajante muscular nocturno,47500,141_59
+60,2024-03-23,Analgesico para dolor post-ortodoncia,570000,401_60
+61,2024-11-27,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_61
+62,2023-02-15,Antiinflamatorio y analgesico por 5 dias,47500,501_62
+63,2023-04-11,Enjuague bucal especial post-tratamiento,28500,301_63
+64,2024-05-29,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_64
+65,2023-12-06,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_65
+66,2024-08-13,Antiinflamatorio y analgesico por 5 dias,47500,501_66
+67,2023-06-10,Kit de mantenimiento de blanqueamiento,95000,601_67
+68,2024-10-23,Kit de reconstruccion dental,76000,121_68
+69,2023-09-22,Enjuague bucal especial para encias,34200,901_69
+70,2023-11-11,Kit de reconstruccion dental,76000,121_70
+71,2023-05-24,Relajante muscular nocturno,47500,141_71
+72,2024-07-09,Enjuague bucal especial para encias,34200,901_72
+73,2023-06-23,Antibiotico preventivo y analgesico,855000,701_73
+74,2023-02-01,Kit de cuidado ortodontico especial,380000,801_74
+75,2024-08-21,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_75
+76,2023-03-03,Enjuague periodontal especializado,41800,151_76
+77,2023-08-29,Enjuague bucal especial post-tratamiento,28500,301_77
+78,2023-05-15,Kit de mantenimiento de blanqueamiento,95000,601_78
+79,2023-01-14,Antibiotico de amplio espectro,66500,111_79
+80,2024-08-24,Enjuague bucal especial post-tratamiento,28500,301_80
+81,2023-01-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_81
+82,2024-06-20,Relajante muscular nocturno,47500,141_82
+83,2023-03-02,Enjuague bucal especial para encias,34200,901_83
+84,2022-12-21,Kit de mantenimiento de blanqueamiento,95000,601_84
+85,2023-06-03,Enjuague bucal especial para encias,34200,901_85
+86,2023-09-09,Kit de mantenimiento de blanqueamiento,95000,601_86
+87,2024-01-08,Antibiotico preventivo y analgesico,855000,701_87
+88,2023-09-03,Relajante muscular nocturno,47500,141_88
+89,2023-06-21,Enjuague periodontal especializado,41800,151_89
+90,2024-01-17,Kit de cuidado ortodontico especial,380000,801_90
+91,2022-12-25,Antibiotico de amplio espectro,66500,111_91
+92,2023-12-09,Enjuague bucal especial post-tratamiento,28500,301_92
+93,2023-01-29,Relajante muscular nocturno,47500,141_93
+94,2023-10-31,Enjuague bucal especial para encias,34200,901_94
+95,2024-11-03,Kit de cuidado ortodontico especial,380000,801_95
+96,2024-07-14,Enjuague bucal especial post-tratamiento,28500,301_96
+97,2023-03-30,Kit de cuidado ortodontico especial,380000,801_97
+98,2023-10-26,Enjuague periodontal especializado,41800,151_98
+99,2024-03-11,Antibiotico preventivo y analgesico,855000,701_99
+100,2023-09-07,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_100
+101,2023-07-08,Antibiotico de amplio espectro,66500,111_101
+102,2023-12-30,Control periodico cada 6 meses,11400,201_102
+103,2023-12-30,Kit de mantenimiento de blanqueamiento,95000,601_103
+104,2024-08-27,Analgesico para dolor post-ortodoncia,570000,401_104
+105,2023-03-25,Antiinflamatorio y analgesico por 5 dias,47500,501_105
+106,2023-06-18,Analgesico para dolor post-ortodoncia,570000,401_106
+107,2024-09-04,Analgesico para dolor post-ortodoncia,570000,401_107
+108,2024-07-15,Enjuague bucal especial post-tratamiento,28500,301_108
+109,2024-08-21,Antiinflamatorio y analgesico por 5 dias,47500,501_109
+110,2024-02-27,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_110
+111,2024-05-26,Antiseptico bucal especial,133000,131_111
+112,2024-06-07,Kit de reconstruccion dental,76000,121_112
+113,2024-06-13,Antiseptico bucal especial,133000,131_113
+114,2023-10-26,Control periodico cada 6 meses,11400,201_114
+115,2024-03-19,Antibiotico de amplio espectro,66500,111_115
+116,2022-12-21,Analgesico para dolor post-ortodoncia,570000,401_116
+117,2024-04-02,Kit de mantenimiento de blanqueamiento,95000,601_117
+118,2022-12-18,Kit de cuidado ortodontico especial,380000,801_118
+119,2024-09-11,Kit de cuidado ortodontico especial,380000,801_119
+120,2023-07-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_120
+121,2024-09-20,Enjuague periodontal especializado,41800,151_121
+122,2023-03-07,Antibiotico de amplio espectro,66500,111_122
+123,2023-10-04,Enjuague periodontal especializado,41800,151_123
+124,2023-11-25,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_124
+125,2024-06-12,Relajante muscular nocturno,47500,141_125
+126,2023-12-03,Kit de reconstruccion dental,76000,121_126
+127,2024-09-03,Relajante muscular nocturno,47500,141_127
+128,2023-03-29,Relajante muscular nocturno,47500,141_128
+129,2024-07-30,Antiseptico bucal especial,133000,131_129
+130,2024-10-28,Antiseptico bucal especial,133000,131_130
+131,2023-05-09,Enjuague bucal especial para encias,34200,901_131
+132,2024-04-22,Enjuague periodontal especializado,41800,151_132
+133,2023-01-20,Analgesico para dolor post-ortodoncia,570000,401_133
+134,2024-03-13,Kit de reconstruccion dental,76000,121_134
+135,2023-02-24,Analgesico para dolor post-ortodoncia,570000,401_135
+136,2023-03-06,Kit de mantenimiento de blanqueamiento,95000,601_136
+137,2023-05-07,Antibiotico de amplio espectro,66500,111_137
+138,2023-08-16,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_138
+139,2023-10-26,Antibiotico preventivo y analgesico,855000,701_139
+140,2024-06-24,Antibiotico de amplio espectro,66500,111_140
+141,2024-01-08,Control periodico cada 6 meses,11400,201_141
+142,2024-04-02,Kit de mantenimiento de blanqueamiento,95000,601_142
+143,2024-09-03,Enjuague bucal especial para encias,34200,901_143
+144,2024-01-22,Control periodico cada 6 meses,11400,201_144
+145,2023-07-25,Antiinflamatorio y analgesico por 5 dias,47500,501_145
+146,2024-10-24,Enjuague bucal especial para encias,34200,901_146
+147,2023-12-07,Enjuague bucal especial para encias,34200,901_147
+148,2023-12-21,Relajante muscular nocturno,47500,141_148
+149,2023-01-06,Kit de reconstruccion dental,76000,121_149
+150,2024-02-05,Enjuague bucal especial para encias,34200,901_150
+151,2024-07-29,Relajante muscular nocturno,47500,141_151
+152,2023-12-31,Control periodico cada 6 meses,11400,201_152
+153,2023-10-20,Antiseptico bucal especial,133000,131_153
+154,2024-03-31,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_154
+155,2023-12-20,Kit de cuidado ortodontico especial,380000,801_155
+156,2023-01-26,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_156
+157,2023-02-24,Enjuague bucal especial para encias,34200,901_157
+158,2023-12-03,Analgesico para dolor post-ortodoncia,570000,401_158
+159,2024-02-12,Analgesico para dolor post-ortodoncia,570000,401_159
+160,2023-05-11,Antiinflamatorio y analgesico por 5 dias,47500,501_160
+161,2023-04-06,Antiseptico bucal especial,133000,131_161
+162,2024-01-21,Kit de reconstruccion dental,76000,121_162
+163,2024-11-30,Enjuague bucal especial post-tratamiento,28500,301_163
+164,2022-12-20,Kit de reconstruccion dental,76000,121_164
+165,2023-06-29,Enjuague periodontal especializado,41800,151_165
+166,2024-10-21,Antibiotico de amplio espectro,66500,111_166
+167,2024-01-21,Relajante muscular nocturno,47500,141_167
+168,2023-06-17,Analgesico para dolor post-ortodoncia,570000,401_168
+169,2023-11-02,Analgesico para dolor post-ortodoncia,570000,401_169
+170,2023-12-02,Kit de reconstruccion dental,76000,121_170
+171,2023-03-21,Kit de reconstruccion dental,76000,121_171
+172,2024-03-03,Kit de cuidado ortodontico especial,380000,801_172
+173,2023-06-16,Enjuague bucal especial post-tratamiento,28500,301_173
+174,2023-01-22,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_174
+175,2024-11-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_175
+176,2024-01-26,Antiinflamatorio y analgesico por 5 dias,47500,501_176
+177,2023-07-15,Enjuague bucal especial para encias,34200,901_177
+178,2024-03-21,Antiinflamatorio y analgesico por 5 dias,47500,501_178
+179,2023-11-09,Control periodico cada 6 meses,11400,201_179
+180,2024-02-17,Kit de reconstruccion dental,76000,121_180
+181,2023-02-15,Analgesico para dolor post-ortodoncia,570000,401_181
+182,2024-05-13,Kit de reconstruccion dental,76000,121_182
+183,2023-10-06,Relajante muscular nocturno,47500,141_183
+184,2023-09-22,Enjuague periodontal especializado,41800,151_184
+185,2024-06-08,Control periodico cada 6 meses,11400,201_185
+186,2023-06-10,Enjuague periodontal especializado,41800,151_186
+187,2023-10-10,Enjuague periodontal especializado,41800,151_187
+188,2022-12-23,Enjuague bucal especial post-tratamiento,28500,301_188
+189,2023-06-23,Enjuague bucal especial para encias,34200,901_189
+190,2023-10-18,Antiinflamatorio y analgesico por 5 dias,47500,501_190
+191,2023-01-27,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_191
+192,2023-03-18,Analgesico para dolor post-ortodoncia,570000,401_192
+193,2023-01-25,Analgesico para dolor post-ortodoncia,570000,401_193
+194,2024-05-27,Analgesico para dolor post-ortodoncia,570000,401_194
+195,2023-08-17,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_195
+196,2024-07-08,Antiseptico bucal especial,133000,131_196
+197,2023-04-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_197
+198,2024-03-28,Kit de cuidado ortodontico especial,380000,801_198
+199,2023-11-17,Kit de cuidado ortodontico especial,380000,801_199
+200,2024-09-13,Control periodico cada 6 meses,11400,201_200
+201,2024-11-26,Enjuague bucal especial para encias,34200,901_201
+202,2023-09-04,Enjuague periodontal especializado,41800,151_202
+203,2024-04-03,Antiseptico bucal especial,133000,131_203
+204,2023-07-28,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_204
+205,2024-03-16,Kit de mantenimiento de blanqueamiento,95000,601_205
+206,2023-10-28,Antiseptico bucal especial,133000,131_206
+207,2023-05-31,Antibiotico de amplio espectro,66500,111_207
+208,2023-12-26,Control periodico cada 6 meses,11400,201_208
+209,2022-12-13,Analgesico para dolor post-ortodoncia,570000,401_209
+210,2024-11-10,Kit de cuidado ortodontico especial,380000,801_210
+211,2023-01-17,Control periodico cada 6 meses,11400,201_211
+212,2024-03-23,Kit de cuidado ortodontico especial,380000,801_212
+213,2023-07-19,Control periodico cada 6 meses,11400,201_213
+214,2024-11-13,Kit de cuidado ortodontico especial,380000,801_214
+215,2024-09-20,Analgesico para dolor post-ortodoncia,570000,401_215
+216,2022-12-11,Control periodico cada 6 meses,11400,201_216
+217,2024-05-01,Enjuague bucal especial para encias,34200,901_217
+218,2023-06-06,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_218
+219,2023-05-11,Analgesico para dolor post-ortodoncia,570000,401_219
+220,2023-02-14,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_220
+221,2024-04-05,Kit de cuidado ortodontico especial,380000,801_221
+222,2024-03-25,Antiinflamatorio y analgesico por 5 dias,47500,501_222
+223,2023-11-09,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_223
+224,2024-06-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_224
+225,2024-06-21,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_225
+226,2023-09-17,Antibiotico preventivo y analgesico,855000,701_226
+227,2023-08-24,Relajante muscular nocturno,47500,141_227
+228,2024-12-02,Enjuague periodontal especializado,41800,151_228
+229,2024-03-10,Control periodico cada 6 meses,11400,201_229
+230,2024-09-24,Kit de reconstruccion dental,76000,121_230
+231,2023-01-05,Enjuague periodontal especializado,41800,151_231
+232,2023-03-17,Kit de cuidado ortodontico especial,380000,801_232
+233,2023-03-10,Antiseptico bucal especial,133000,131_233
+234,2024-05-19,Antibiotico de amplio espectro,66500,111_234
+235,2024-09-08,Analgesico para dolor post-ortodoncia,570000,401_235
+236,2023-04-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_236
+237,2024-07-13,Antiseptico bucal especial,133000,131_237
+238,2024-09-15,Antibiotico de amplio espectro,66500,111_238
+239,2024-11-14,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_239
+240,2023-08-17,Antiseptico bucal especial,133000,131_240
+241,2023-08-20,Kit de cuidado ortodontico especial,380000,801_241
+242,2023-01-27,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_242
+243,2024-05-06,Antiinflamatorio y analgesico por 5 dias,47500,501_243
+244,2023-01-27,Antiseptico bucal especial,133000,131_244
+245,2023-09-12,Antibiotico preventivo y analgesico,855000,701_245
+246,2023-10-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_246
+247,2024-07-26,Antiinflamatorio y analgesico por 5 dias,47500,501_247
+248,2023-07-27,Kit de cuidado ortodontico especial,380000,801_248
+249,2024-02-11,Antibiotico de amplio espectro,66500,111_249
+250,2023-07-06,Enjuague bucal especial post-tratamiento,28500,301_250
+251,2023-07-26,Kit de mantenimiento de blanqueamiento,95000,601_251
+252,2024-05-31,Enjuague bucal especial para encias,34200,901_252
+253,2024-07-21,Kit de cuidado ortodontico especial,380000,801_253
+254,2023-10-27,Enjuague bucal especial para encias,34200,901_254
+255,2023-08-15,Antiinflamatorio y analgesico por 5 dias,47500,501_255
+256,2023-06-16,Antibiotico de amplio espectro,66500,111_256
+257,2024-11-04,Antiinflamatorio y analgesico por 5 dias,47500,501_257
+258,2024-01-16,Antiinflamatorio y analgesico por 5 dias,47500,501_258
+259,2023-07-22,Relajante muscular nocturno,47500,141_259
+260,2024-05-14,Enjuague bucal especial para encias,34200,901_260
+261,2023-07-07,Analgesico para dolor post-ortodoncia,570000,401_261
+262,2024-01-14,Kit de mantenimiento de blanqueamiento,95000,601_262
+263,2024-02-03,Antiinflamatorio y analgesico por 5 dias,47500,501_263
+264,2023-11-19,Antibiotico de amplio espectro,66500,111_264
+265,2023-02-23,Enjuague bucal especial para encias,34200,901_265
+266,2023-07-30,Enjuague bucal especial para encias,34200,901_266
+267,2024-04-20,Antiinflamatorio y analgesico por 5 dias,47500,501_267
+268,2023-03-09,Antibiotico de amplio espectro,66500,111_268
+269,2024-11-13,Kit de cuidado ortodontico especial,380000,801_269
+270,2024-11-11,Control periodico cada 6 meses,11400,201_270
+271,2023-04-24,Antiseptico bucal especial,133000,131_271
+272,2024-08-26,Enjuague bucal especial post-tratamiento,28500,301_272
+273,2023-09-12,Kit de cuidado ortodontico especial,380000,801_273
+274,2023-07-29,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_274
+275,2024-07-05,Kit de mantenimiento de blanqueamiento,95000,601_275
+276,2023-09-09,Enjuague periodontal especializado,41800,151_276
+277,2022-12-25,Enjuague bucal especial para encias,34200,901_277
+278,2023-01-28,Kit de cuidado ortodontico especial,380000,801_278
+279,2023-08-05,Kit de cuidado ortodontico especial,380000,801_279
+280,2024-12-07,Enjuague bucal especial post-tratamiento,28500,301_280
+281,2024-01-01,Enjuague bucal especial post-tratamiento,28500,301_281
+282,2024-01-30,Control periodico cada 6 meses,11400,201_282
+283,2024-10-11,Antiseptico bucal especial,133000,131_283
+284,2023-12-26,Antibiotico preventivo y analgesico,855000,701_284
+285,2023-12-27,Antibiotico de amplio espectro,66500,111_285
+286,2024-08-08,Antiinflamatorio y analgesico por 5 dias,47500,501_286
+287,2024-07-14,Control periodico cada 6 meses,11400,201_287
+288,2024-02-25,Enjuague periodontal especializado,41800,151_288
+289,2024-01-20,Relajante muscular nocturno,47500,141_289
+290,2023-11-08,Kit de cuidado ortodontico especial,380000,801_290
+291,2023-01-08,Kit de mantenimiento de blanqueamiento,95000,601_291
+292,2024-04-29,Antibiotico de amplio espectro,66500,111_292
+293,2023-11-22,Antibiotico de amplio espectro,66500,111_293
+294,2024-05-07,Enjuague bucal especial para encias,34200,901_294
+295,2023-09-19,Relajante muscular nocturno,47500,141_295
+296,2023-12-01,Enjuague bucal especial post-tratamiento,28500,301_296
+297,2023-08-13,Analgesico para dolor post-ortodoncia,570000,401_297
+298,2023-10-03,Antiseptico bucal especial,133000,131_298
+299,2024-06-23,Control periodico cada 6 meses,11400,201_299
+300,2023-01-07,Antiseptico bucal especial,133000,131_300
+301,2024-01-21,Analgesico para dolor post-ortodoncia,570000,401_301
+302,2024-10-02,Analgesico para dolor post-ortodoncia,570000,401_302
+303,2023-12-13,Antiinflamatorio y analgesico por 5 dias,47500,501_303
+304,2023-10-23,Enjuague bucal especial para encias,34200,901_304
+305,2024-07-23,Antiinflamatorio y analgesico por 5 dias,47500,501_305
+306,2024-06-10,Kit de mantenimiento de blanqueamiento,95000,601_306
+307,2024-07-10,Antiseptico bucal especial,133000,131_307
+308,2024-11-07,Enjuague bucal especial para encias,34200,901_308
+309,2024-03-21,Kit de cuidado ortodontico especial,380000,801_309
+310,2024-04-12,Control periodico cada 6 meses,11400,201_310
+311,2023-11-18,Antibiotico de amplio espectro,66500,111_311
+312,2024-02-06,Antiinflamatorio y analgesico por 5 dias,47500,501_312
+313,2023-10-07,Enjuague periodontal especializado,41800,151_313
+314,2023-04-20,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_314
+315,2024-02-07,Analgesico para dolor post-ortodoncia,570000,401_315
+316,2024-12-05,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_316
+317,2023-08-12,Antibiotico de amplio espectro,66500,111_317
+318,2024-10-11,Enjuague bucal especial post-tratamiento,28500,301_318
+319,2023-06-05,Kit de mantenimiento de blanqueamiento,95000,601_319
+320,2022-12-29,Enjuague bucal especial post-tratamiento,28500,301_320
+321,2024-06-25,Analgesico para dolor post-ortodoncia,570000,401_321
+322,2024-03-07,Antiseptico bucal especial,133000,131_322
+323,2023-08-14,Antibiotico preventivo y analgesico,855000,701_323
+324,2023-11-23,Antiseptico bucal especial,133000,131_324
+325,2024-03-25,Enjuague bucal especial post-tratamiento,28500,301_325
+326,2024-11-06,Relajante muscular nocturno,47500,141_326
+327,2024-05-02,Enjuague bucal especial post-tratamiento,28500,301_327
+328,2023-11-20,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_328
+329,2023-07-07,Antibiotico de amplio espectro,66500,111_329
+330,2024-01-16,Enjuague bucal especial post-tratamiento,28500,301_330
+331,2023-11-23,Kit de mantenimiento de blanqueamiento,95000,601_331
+332,2024-11-05,Enjuague bucal especial para encias,34200,901_332
+333,2023-08-30,Kit de cuidado ortodontico especial,380000,801_333
+334,2023-09-23,Antibiotico de amplio espectro,66500,111_334
+335,2024-02-01,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_335
+336,2023-02-04,Antiseptico bucal especial,133000,131_336
+337,2024-12-01,Antibiotico preventivo y analgesico,855000,701_337
+338,2024-02-03,Antiseptico bucal especial,133000,131_338
+339,2024-09-14,Kit de reconstruccion dental,76000,121_339
+340,2024-10-19,Antiinflamatorio y analgesico por 5 dias,47500,501_340
+341,2023-09-25,Analgesico para dolor post-ortodoncia,570000,401_341
+342,2023-03-11,Enjuague periodontal especializado,41800,151_342
+343,2023-12-17,Antiinflamatorio y analgesico por 5 dias,47500,501_343
+344,2023-07-03,Kit de cuidado ortodontico especial,380000,801_344
+345,2024-10-10,Enjuague periodontal especializado,41800,151_345
+346,2023-01-10,Relajante muscular nocturno,47500,141_346
+347,2024-03-27,Relajante muscular nocturno,47500,141_347
+348,2023-07-21,Antiinflamatorio y analgesico por 5 dias,47500,501_348
+349,2022-12-14,Kit de mantenimiento de blanqueamiento,95000,601_349
+350,2023-05-31,Enjuague bucal especial post-tratamiento,28500,301_350
+351,2024-09-02,Antiinflamatorio y analgesico por 5 dias,47500,501_351
+352,2024-08-20,Kit de mantenimiento de blanqueamiento,95000,601_352
+353,2023-11-06,Kit de reconstruccion dental,76000,121_353
+354,2023-11-18,Kit de mantenimiento de blanqueamiento,95000,601_354
+355,2023-09-02,Relajante muscular nocturno,47500,141_355
+356,2024-02-06,Kit de reconstruccion dental,76000,121_356
+357,2023-12-06,Kit de mantenimiento de blanqueamiento,95000,601_357
+358,2023-04-17,Kit de cuidado ortodontico especial,380000,801_358
+359,2023-02-20,Antiinflamatorio y analgesico por 5 dias,47500,501_359
+360,2024-11-20,Antibiotico preventivo y analgesico,855000,701_360
+361,2023-06-27,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_361
+362,2024-04-14,Antibiotico preventivo y analgesico,855000,701_362
+363,2023-06-22,Antiseptico bucal especial,133000,131_363
+364,2024-11-10,Antibiotico preventivo y analgesico,855000,701_364
+365,2024-08-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_365
+366,2023-11-07,Antiseptico bucal especial,133000,131_366
+367,2024-03-15,Antibiotico preventivo y analgesico,855000,701_367
+368,2024-08-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_368
+369,2024-02-23,Antibiotico preventivo y analgesico,855000,701_369
+370,2024-08-27,Kit de mantenimiento de blanqueamiento,95000,601_370
+371,2024-07-19,Antibiotico de amplio espectro,66500,111_371
+372,2024-12-05,Antiseptico bucal especial,133000,131_372
+373,2023-12-09,Enjuague bucal especial post-tratamiento,28500,301_373
+374,2023-06-01,Kit de cuidado ortodontico especial,380000,801_374
+375,2024-09-04,Antiseptico bucal especial,133000,131_375
+376,2023-07-04,Antiinflamatorio y analgesico por 5 dias,47500,501_376
+377,2024-04-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_377
+378,2023-09-23,Relajante muscular nocturno,47500,141_378
+379,2023-04-20,Kit de reconstruccion dental,76000,121_379
+380,2024-02-18,Analgesico para dolor post-ortodoncia,570000,401_380
+381,2023-05-28,Analgesico para dolor post-ortodoncia,570000,401_381
+382,2024-03-27,Antibiotico de amplio espectro,66500,111_382
+383,2023-01-22,Kit de reconstruccion dental,76000,121_383
+384,2024-02-28,Antiinflamatorio y analgesico por 5 dias,47500,501_384
+385,2023-08-24,Antiinflamatorio y analgesico por 5 dias,47500,501_385
+386,2023-05-14,Relajante muscular nocturno,47500,141_386
+387,2023-05-29,Kit de mantenimiento de blanqueamiento,95000,601_387
+388,2023-05-26,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_388
+389,2023-03-29,Kit de mantenimiento de blanqueamiento,95000,601_389
+390,2024-09-20,Antibiotico preventivo y analgesico,855000,701_390
+391,2024-11-06,Antiseptico bucal especial,133000,131_391
+392,2023-01-05,Antibiotico preventivo y analgesico,855000,701_392
+393,2024-10-20,Kit de mantenimiento de blanqueamiento,95000,601_393
+394,2023-10-14,Enjuague bucal especial para encias,34200,901_394
+395,2023-04-17,Enjuague bucal especial para encias,34200,901_395
+396,2024-05-01,Kit de reconstruccion dental,76000,121_396
+397,2023-03-24,Analgesico para dolor post-ortodoncia,570000,401_397
+398,2023-03-25,Antiseptico bucal especial,133000,131_398
+399,2023-09-17,Analgesico para dolor post-ortodoncia,570000,401_399
+400,2023-07-11,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_400
+401,2024-01-07,Enjuague bucal especial para encias,34200,901_401
+402,2023-07-31,Kit de cuidado ortodontico especial,380000,801_402
+403,2023-08-28,Relajante muscular nocturno,47500,141_403
+404,2024-07-11,Antiinflamatorio y analgesico por 5 dias,47500,501_404
+405,2023-02-25,Control periodico cada 6 meses,11400,201_405
+406,2023-06-06,Control periodico cada 6 meses,11400,201_406
+407,2024-04-05,Analgesico para dolor post-ortodoncia,570000,401_407
+408,2023-05-16,Enjuague bucal especial post-tratamiento,28500,301_408
+409,2023-06-30,Kit de mantenimiento de blanqueamiento,95000,601_409
+410,2023-05-20,Kit de reconstruccion dental,76000,121_410
+411,2023-03-16,Kit de cuidado ortodontico especial,380000,801_411
+412,2023-04-25,Kit de reconstruccion dental,76000,121_412
+413,2024-05-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_413
+414,2023-11-14,Kit de cuidado ortodontico especial,380000,801_414
+415,2023-06-22,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_415
+416,2024-09-11,Antiseptico bucal especial,133000,131_416
+417,2023-10-15,Antibiotico de amplio espectro,66500,111_417
+418,2023-05-08,Antibiotico preventivo y analgesico,855000,701_418
+419,2024-04-03,Kit de reconstruccion dental,76000,121_419
+420,2023-09-12,Enjuague periodontal especializado,41800,151_420
+421,2023-06-23,Kit de reconstruccion dental,76000,121_421
+422,2023-09-19,Kit de cuidado ortodontico especial,380000,801_422
+423,2024-01-09,Analgesico para dolor post-ortodoncia,570000,401_423
+424,2024-11-07,Antiinflamatorio y analgesico por 5 dias,47500,501_424
+425,2024-11-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_425
+426,2023-11-30,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_426
+427,2023-07-08,Antibiotico preventivo y analgesico,855000,701_427
+428,2023-04-26,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_428
+429,2024-08-20,Control periodico cada 6 meses,11400,201_429
+430,2023-03-13,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_430
+431,2023-10-24,Antibiotico de amplio espectro,66500,111_431
+432,2024-07-02,Kit de mantenimiento de blanqueamiento,95000,601_432
+433,2023-04-04,Antiinflamatorio y analgesico por 5 dias,47500,501_433
+434,2022-12-27,Enjuague bucal especial para encias,34200,901_434
+435,2023-05-07,Kit de mantenimiento de blanqueamiento,95000,601_435
+436,2022-12-26,Kit de cuidado ortodontico especial,380000,801_436
+437,2023-03-30,Enjuague periodontal especializado,41800,151_437
+438,2023-12-16,Antiinflamatorio y analgesico por 5 dias,47500,501_438
+439,2023-04-12,Control periodico cada 6 meses,11400,201_439
+440,2023-05-26,Kit de cuidado ortodontico especial,380000,801_440
+441,2023-07-31,Enjuague bucal especial post-tratamiento,28500,301_441
+442,2024-08-17,Enjuague periodontal especializado,41800,151_442
+443,2023-11-22,Kit de reconstruccion dental,76000,121_443
+444,2023-04-03,Control periodico cada 6 meses,11400,201_444
+445,2024-10-21,Kit de mantenimiento de blanqueamiento,95000,601_445
+446,2024-08-11,Antiseptico bucal especial,133000,131_446
+447,2024-08-10,Kit de reconstruccion dental,76000,121_447
+448,2024-05-16,Antibiotico preventivo y analgesico,855000,701_448
+449,2023-06-22,Relajante muscular nocturno,47500,141_449
+450,2023-10-29,Enjuague bucal especial post-tratamiento,28500,301_450
+451,2024-06-05,Relajante muscular nocturno,47500,141_451
+452,2023-07-23,Enjuague bucal especial post-tratamiento,28500,301_452
+453,2023-05-07,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_453
+454,2022-12-18,Antiinflamatorio y analgesico por 5 dias,47500,501_454
+455,2023-08-29,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_455
+456,2023-04-16,Analgesico para dolor post-ortodoncia,570000,401_456
+457,2023-08-13,Enjuague bucal especial para encias,34200,901_457
+458,2023-10-30,Control periodico cada 6 meses,11400,201_458
+459,2023-05-21,Kit de cuidado ortodontico especial,380000,801_459
+460,2022-12-25,Analgesico para dolor post-ortodoncia,570000,401_460
+461,2024-08-11,Kit de mantenimiento de blanqueamiento,95000,601_461
+462,2023-09-05,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_462
+463,2024-03-31,Enjuague bucal especial para encias,34200,901_463
+464,2023-12-21,Antiseptico bucal especial,133000,131_464
+465,2023-05-05,Antibiotico de amplio espectro,66500,111_465
+466,2024-08-05,Antiinflamatorio y analgesico por 5 dias,47500,501_466
+467,2023-10-31,Enjuague bucal especial para encias,34200,901_467
+468,2024-09-20,Enjuague bucal especial para encias,34200,901_468
+469,2024-09-12,Relajante muscular nocturno,47500,141_469
+470,2024-07-11,Antiinflamatorio y analgesico por 5 dias,47500,501_470
+471,2023-12-16,Kit de reconstruccion dental,76000,121_471
+472,2024-03-12,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_472
+473,2024-09-16,Enjuague bucal especial post-tratamiento,28500,301_473
+474,2023-05-03,Antiseptico bucal especial,133000,131_474
+475,2023-10-30,Antiseptico bucal especial,133000,131_475
+476,2024-01-16,Control periodico cada 6 meses,11400,201_476
+477,2023-02-26,Relajante muscular nocturno,47500,141_477
+478,2024-05-11,Antiseptico bucal especial,133000,131_478
+479,2024-10-22,Kit de reconstruccion dental,76000,121_479
+480,2024-04-24,Kit de reconstruccion dental,76000,121_480
+481,2024-09-06,Kit de reconstruccion dental,76000,121_481
+482,2023-09-06,Kit de mantenimiento de blanqueamiento,95000,601_482
+483,2023-07-25,Relajante muscular nocturno,47500,141_483
+484,2023-10-11,Kit de mantenimiento de blanqueamiento,95000,601_484
+485,2024-10-28,Enjuague periodontal especializado,41800,151_485
+486,2024-01-16,Antiseptico bucal especial,133000,131_486
+487,2023-11-01,Kit de cuidado ortodontico especial,380000,801_487
+488,2024-02-10,Kit de reconstruccion dental,76000,121_488
+489,2023-01-09,Enjuague periodontal especializado,41800,151_489
+490,2023-10-25,Analgesico para dolor post-ortodoncia,570000,401_490
+491,2024-08-12,Enjuague bucal especial post-tratamiento,28500,301_491
+492,2024-02-21,Kit de mantenimiento de blanqueamiento,95000,601_492
+493,2024-06-05,Kit de cuidado ortodontico especial,380000,801_493
+494,2024-11-06,Analgesico para dolor post-ortodoncia,570000,401_494
+495,2023-11-10,Kit de cuidado ortodontico especial,380000,801_495
+496,2023-07-23,Kit de mantenimiento de blanqueamiento,95000,601_496
+497,2024-05-06,Kit de mantenimiento de blanqueamiento,95000,601_497
+498,2024-01-24,Analgesico para dolor post-ortodoncia,570000,401_498
+499,2024-07-24,Antibiotico de amplio espectro,66500,111_499
+500,2023-01-17,Kit de reconstruccion dental,76000,121_500
+501,2023-09-07,Antiinflamatorio y analgesico por 5 dias,47500,501_501
+502,2024-05-18,Antiinflamatorio y analgesico por 5 dias,47500,501_502
+503,2023-01-21,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_503
+504,2023-12-19,Kit de reconstruccion dental,76000,121_504
+505,2023-09-04,Enjuague periodontal especializado,41800,151_505
+506,2024-10-01,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_506
+507,2024-10-20,Enjuague bucal especial post-tratamiento,28500,301_507
+508,2023-09-01,Control periodico cada 6 meses,11400,201_508
+509,2023-10-19,Antibiotico de amplio espectro,66500,111_509
+510,2024-09-21,Antibiotico preventivo y analgesico,855000,701_510
+511,2024-04-24,Antibiotico preventivo y analgesico,855000,701_511
+512,2023-12-04,Antibiotico preventivo y analgesico,855000,701_512
+513,2024-08-01,Antiseptico bucal especial,133000,131_513
+514,2024-10-20,Kit de cuidado ortodontico especial,380000,801_514
+515,2023-02-17,Antiseptico bucal especial,133000,131_515
+516,2024-11-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_516
+517,2023-10-28,Relajante muscular nocturno,47500,141_517
+518,2024-01-03,Enjuague bucal especial para encias,34200,901_518
+519,2023-10-16,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_519
+520,2023-11-15,Enjuague periodontal especializado,41800,151_520
+521,2024-08-03,Enjuague bucal especial para encias,34200,901_521
+522,2024-03-09,Kit de mantenimiento de blanqueamiento,95000,601_522
+523,2023-09-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_523
+524,2023-01-20,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_524
+525,2024-04-26,Antibiotico preventivo y analgesico,855000,701_525
+526,2023-02-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_526
+527,2022-12-31,Enjuague bucal especial para encias,34200,901_527
+528,2023-08-04,Relajante muscular nocturno,47500,141_528
+529,2024-08-21,Antiseptico bucal especial,133000,131_529
+530,2024-10-04,Kit de mantenimiento de blanqueamiento,95000,601_530
+531,2024-07-08,Antiseptico bucal especial,133000,131_531
+532,2023-01-19,Enjuague bucal especial para encias,34200,901_532
+533,2023-12-24,Kit de cuidado ortodontico especial,380000,801_533
+534,2023-11-10,Antiinflamatorio y analgesico por 5 dias,47500,501_534
+535,2024-08-06,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_535
+536,2023-02-26,Kit de mantenimiento de blanqueamiento,95000,601_536
+537,2024-08-17,Antibiotico de amplio espectro,66500,111_537
+538,2024-07-20,Control periodico cada 6 meses,11400,201_538
+539,2024-03-12,Kit de reconstruccion dental,76000,121_539
+540,2022-12-14,Control periodico cada 6 meses,11400,201_540
+541,2024-01-30,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_541
+542,2023-11-01,Control periodico cada 6 meses,11400,201_542
+543,2023-09-01,Enjuague bucal especial para encias,34200,901_543
+544,2024-03-04,Antiseptico bucal especial,133000,131_544
+545,2023-07-02,Control periodico cada 6 meses,11400,201_545
+546,2023-01-25,Enjuague bucal especial para encias,34200,901_546
+547,2024-02-04,Enjuague bucal especial post-tratamiento,28500,301_547
+548,2024-05-15,Antiseptico bucal especial,133000,131_548
+549,2023-10-16,Enjuague bucal especial para encias,34200,901_549
+550,2023-04-10,Relajante muscular nocturno,47500,141_550
+551,2023-03-19,Relajante muscular nocturno,47500,141_551
+552,2023-06-30,Control periodico cada 6 meses,11400,201_552
+553,2023-05-06,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_553
+554,2023-10-26,Enjuague periodontal especializado,41800,151_554
+555,2023-04-21,Kit de cuidado ortodontico especial,380000,801_555
+556,2024-07-05,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_556
+557,2024-05-03,Antibiotico de amplio espectro,66500,111_557
+558,2024-05-11,Analgesico para dolor post-ortodoncia,570000,401_558
+559,2023-02-01,Antiseptico bucal especial,133000,131_559
+560,2023-09-08,Control periodico cada 6 meses,11400,201_560
+561,2023-09-07,Antiseptico bucal especial,133000,131_561
+562,2023-11-24,Antibiotico de amplio espectro,66500,111_562
+563,2024-10-06,Antibiotico preventivo y analgesico,855000,701_563
+564,2024-11-03,Relajante muscular nocturno,47500,141_564
+565,2024-01-31,Antiinflamatorio y analgesico por 5 dias,47500,501_565
+566,2024-09-06,Kit de cuidado ortodontico especial,380000,801_566
+567,2024-06-02,Kit de cuidado ortodontico especial,380000,801_567
+568,2022-12-20,Enjuague periodontal especializado,41800,151_568
+569,2024-07-31,Enjuague periodontal especializado,41800,151_569
+570,2023-02-07,Kit de reconstruccion dental,76000,121_570
+571,2024-01-08,Enjuague bucal especial post-tratamiento,28500,301_571
+572,2023-02-21,Antibiotico de amplio espectro,66500,111_572
+573,2023-01-30,Kit de mantenimiento de blanqueamiento,95000,601_573
+574,2024-02-24,Control periodico cada 6 meses,11400,201_574
+575,2024-10-10,Enjuague bucal especial post-tratamiento,28500,301_575
+576,2024-06-30,Antibiotico de amplio espectro,66500,111_576
+577,2024-10-28,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_577
+578,2024-03-18,Kit de mantenimiento de blanqueamiento,95000,601_578
+579,2024-05-27,Kit de cuidado ortodontico especial,380000,801_579
+580,2024-07-06,Enjuague bucal especial para encias,34200,901_580
+581,2024-01-13,Antiseptico bucal especial,133000,131_581
+582,2023-09-03,Kit de reconstruccion dental,76000,121_582
+583,2023-04-14,Kit de reconstruccion dental,76000,121_583
+584,2024-02-07,Relajante muscular nocturno,47500,141_584
+585,2023-04-28,Antibiotico preventivo y analgesico,855000,701_585
+586,2024-08-15,Enjuague periodontal especializado,41800,151_586
+587,2023-08-04,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_587
+588,2023-06-10,Antibiotico preventivo y analgesico,855000,701_588
+589,2024-06-12,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_589
+590,2023-01-21,Antiinflamatorio y analgesico por 5 dias,47500,501_590
+591,2024-11-28,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_591
+592,2024-04-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_592
+593,2023-01-10,Relajante muscular nocturno,47500,141_593
+594,2023-11-13,Antibiotico preventivo y analgesico,855000,701_594
+595,2024-09-24,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_595
+596,2024-11-04,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_596
+597,2023-08-20,Analgesico para dolor post-ortodoncia,570000,401_597
+598,2024-11-21,Kit de mantenimiento de blanqueamiento,95000,601_598
+599,2023-01-06,Antibiotico preventivo y analgesico,855000,701_599
+600,2022-12-15,Enjuague bucal especial post-tratamiento,28500,301_600
+601,2023-10-19,Antiinflamatorio y analgesico por 5 dias,47500,501_601
+602,2023-11-07,Relajante muscular nocturno,47500,141_602
+603,2024-12-09,Analgesico para dolor post-ortodoncia,570000,401_603
+604,2024-12-03,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_604
+605,2024-11-17,Antibiotico de amplio espectro,66500,111_605
+606,2024-10-17,Antiseptico bucal especial,133000,131_606
+607,2024-02-07,Kit de mantenimiento de blanqueamiento,95000,601_607
+608,2023-09-10,Enjuague bucal especial para encias,34200,901_608
+609,2023-03-06,Kit de cuidado ortodontico especial,380000,801_609
+610,2024-11-22,Antibiotico de amplio espectro,66500,111_610
+611,2023-06-13,Antibiotico de amplio espectro,66500,111_611
+612,2023-08-02,Analgesico para dolor post-ortodoncia,570000,401_612
+613,2024-07-08,Antiseptico bucal especial,133000,131_613
+614,2024-11-07,Relajante muscular nocturno,47500,141_614
+615,2024-07-25,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_615
+616,2023-10-13,Enjuague periodontal especializado,41800,151_616
+617,2023-12-17,Kit de mantenimiento de blanqueamiento,95000,601_617
+618,2022-12-28,Enjuague periodontal especializado,41800,151_618
+619,2024-01-26,Enjuague periodontal especializado,41800,151_619
+620,2023-02-20,Kit de reconstruccion dental,76000,121_620
+621,2023-11-09,Relajante muscular nocturno,47500,141_621
+622,2024-07-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_622
+623,2023-05-21,Enjuague bucal especial post-tratamiento,28500,301_623
+624,2023-05-16,Analgesico para dolor post-ortodoncia,570000,401_624
+625,2024-05-03,Antiseptico bucal especial,133000,131_625
+626,2023-02-16,Enjuague bucal especial post-tratamiento,28500,301_626
+627,2024-07-30,Analgesico para dolor post-ortodoncia,570000,401_627
+628,2023-01-20,Antiinflamatorio y analgesico por 5 dias,47500,501_628
+629,2023-08-22,Enjuague bucal especial post-tratamiento,28500,301_629
+630,2023-12-27,Control periodico cada 6 meses,11400,201_630
+631,2023-05-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_631
+632,2024-04-18,Enjuague bucal especial para encias,34200,901_632
+633,2024-12-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_633
+634,2023-01-04,Relajante muscular nocturno,47500,141_634
+635,2023-12-16,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_635
+636,2023-05-02,Antiseptico bucal especial,133000,131_636
+637,2024-09-29,Enjuague bucal especial post-tratamiento,28500,301_637
+638,2023-03-17,Enjuague bucal especial para encias,34200,901_638
+639,2024-06-06,Kit de mantenimiento de blanqueamiento,95000,601_639
+640,2023-05-07,Control periodico cada 6 meses,11400,201_640
+641,2024-04-27,Kit de mantenimiento de blanqueamiento,95000,601_641
+642,2024-08-06,Relajante muscular nocturno,47500,141_642
+643,2023-07-18,Kit de mantenimiento de blanqueamiento,95000,601_643
+644,2023-08-02,Enjuague periodontal especializado,41800,151_644
+645,2023-02-27,Analgesico para dolor post-ortodoncia,570000,401_645
+646,2024-09-04,Antibiotico de amplio espectro,66500,111_646
+647,2024-05-31,Analgesico para dolor post-ortodoncia,570000,401_647
+648,2024-04-20,Analgesico para dolor post-ortodoncia,570000,401_648
+649,2024-09-25,Antiinflamatorio y analgesico por 5 dias,47500,501_649
+650,2024-05-04,Enjuague bucal especial post-tratamiento,28500,301_650
+651,2024-01-08,Antibiotico preventivo y analgesico,855000,701_651
+652,2024-07-26,Antiinflamatorio y analgesico por 5 dias,47500,501_652
+653,2023-03-21,Analgesico para dolor post-ortodoncia,570000,401_653
+654,2024-11-13,Enjuague periodontal especializado,41800,151_654
+655,2022-12-19,Enjuague periodontal especializado,41800,151_655
+656,2023-10-04,Analgesico para dolor post-ortodoncia,570000,401_656
+657,2023-04-20,Antiseptico bucal especial,133000,131_657
+658,2024-11-18,Kit de mantenimiento de blanqueamiento,95000,601_658
+659,2023-06-11,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_659
+660,2023-09-16,Enjuague bucal especial post-tratamiento,28500,301_660
+661,2024-11-03,Enjuague periodontal especializado,41800,151_661
+662,2023-03-16,Enjuague periodontal especializado,41800,151_662
+663,2023-04-01,Kit de cuidado ortodontico especial,380000,801_663
+664,2024-01-02,Control periodico cada 6 meses,11400,201_664
+665,2024-04-24,Relajante muscular nocturno,47500,141_665
+666,2024-10-31,Antibiotico preventivo y analgesico,855000,701_666
+667,2024-05-04,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_667
+668,2023-07-09,Kit de cuidado ortodontico especial,380000,801_668
+669,2024-12-03,Relajante muscular nocturno,47500,141_669
+670,2023-03-03,Kit de reconstruccion dental,76000,121_670
+671,2023-02-19,Relajante muscular nocturno,47500,141_671
+672,2023-05-07,Kit de reconstruccion dental,76000,121_672
+673,2024-03-07,Analgesico para dolor post-ortodoncia,570000,401_673
+674,2024-10-08,Antibiotico preventivo y analgesico,855000,701_674
+675,2024-11-05,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_675
+676,2023-10-03,Kit de cuidado ortodontico especial,380000,801_676
+677,2023-07-19,Kit de cuidado ortodontico especial,380000,801_677
+678,2023-03-05,Antibiotico preventivo y analgesico,855000,701_678
+679,2024-11-05,Analgesico para dolor post-ortodoncia,570000,401_679
+680,2022-12-22,Analgesico para dolor post-ortodoncia,570000,401_680
+681,2023-07-30,Antiseptico bucal especial,133000,131_681
+682,2023-03-06,Antibiotico preventivo y analgesico,855000,701_682
+683,2024-01-23,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_683
+684,2023-08-04,Relajante muscular nocturno,47500,141_684
+685,2023-03-25,Control periodico cada 6 meses,11400,201_685
+686,2024-11-28,Control periodico cada 6 meses,11400,201_686
+687,2024-10-23,Enjuague bucal especial post-tratamiento,28500,301_687
+688,2023-07-07,Enjuague bucal especial para encias,34200,901_688
+689,2024-10-22,Enjuague periodontal especializado,41800,151_689
+690,2024-01-17,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_690
+691,2023-04-23,Kit de reconstruccion dental,76000,121_691
+692,2024-09-17,Enjuague bucal especial para encias,34200,901_692
+693,2024-03-26,Control periodico cada 6 meses,11400,201_693
+694,2024-04-05,Enjuague bucal especial post-tratamiento,28500,301_694
+695,2023-04-07,Antiseptico bucal especial,133000,131_695
+696,2023-08-23,Analgesico para dolor post-ortodoncia,570000,401_696
+697,2023-10-16,Control periodico cada 6 meses,11400,201_697
+698,2024-08-27,Kit de cuidado ortodontico especial,380000,801_698
+699,2023-01-02,Kit de reconstruccion dental,76000,121_699
+700,2023-04-22,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_700
+701,2024-07-05,Kit de mantenimiento de blanqueamiento,95000,601_701
+702,2024-01-28,Kit de reconstruccion dental,76000,121_702
+703,2024-05-17,Kit de mantenimiento de blanqueamiento,95000,601_703
+704,2023-12-17,Antibiotico preventivo y analgesico,855000,701_704
+705,2023-09-09,Analgesico para dolor post-ortodoncia,570000,401_705
+706,2023-03-19,Analgesico para dolor post-ortodoncia,570000,401_706
+707,2024-09-15,Control periodico cada 6 meses,11400,201_707
+708,2023-03-21,Antiseptico bucal especial,133000,131_708
+709,2024-10-20,Enjuague bucal especial para encias,34200,901_709
+710,2024-09-25,Kit de mantenimiento de blanqueamiento,95000,601_710
+711,2024-04-25,Kit de cuidado ortodontico especial,380000,801_711
+712,2023-01-22,Antiinflamatorio y analgesico por 5 dias,47500,501_712
+713,2024-03-16,Enjuague bucal especial para encias,34200,901_713
+714,2024-05-01,Control periodico cada 6 meses,11400,201_714
+715,2024-06-19,Kit de cuidado ortodontico especial,380000,801_715
+716,2024-09-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_716
+717,2024-08-20,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_717
+718,2024-10-01,Antibiotico preventivo y analgesico,855000,701_718
+719,2023-05-01,Antiseptico bucal especial,133000,131_719
+720,2023-05-24,Antibiotico preventivo y analgesico,855000,701_720
+721,2023-09-01,Antibiotico preventivo y analgesico,855000,701_721
+722,2024-04-09,Relajante muscular nocturno,47500,141_722
+723,2024-10-30,Control periodico cada 6 meses,11400,201_723
+724,2023-01-21,Kit de mantenimiento de blanqueamiento,95000,601_724
+725,2023-12-01,Kit de mantenimiento de blanqueamiento,95000,601_725
+726,2024-05-11,Antiinflamatorio y analgesico por 5 dias,47500,501_726
+727,2024-05-09,Relajante muscular nocturno,47500,141_727
+728,2023-02-19,Control periodico cada 6 meses,11400,201_728
+729,2023-10-02,Antibiotico preventivo y analgesico,855000,701_729
+730,2023-02-23,Relajante muscular nocturno,47500,141_730
+731,2024-02-04,Antibiotico de amplio espectro,66500,111_731
+732,2024-03-02,Antiinflamatorio y analgesico por 5 dias,47500,501_732
+733,2024-05-01,Analgesico para dolor post-ortodoncia,570000,401_733
+734,2023-07-27,Kit de reconstruccion dental,76000,121_734
+735,2024-08-08,Control periodico cada 6 meses,11400,201_735
+736,2024-10-06,Antibiotico de amplio espectro,66500,111_736
+737,2024-08-01,Antibiotico de amplio espectro,66500,111_737
+738,2023-05-31,Antiseptico bucal especial,133000,131_738
+739,2023-01-05,Antibiotico preventivo y analgesico,855000,701_739
+740,2024-10-06,Enjuague periodontal especializado,41800,151_740
+741,2024-07-20,Kit de cuidado ortodontico especial,380000,801_741
+742,2023-08-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_742
+743,2023-09-11,Antiinflamatorio y analgesico por 5 dias,47500,501_743
+744,2023-01-21,Kit de reconstruccion dental,76000,121_744
+745,2024-07-26,Antibiotico de amplio espectro,66500,111_745
+746,2023-01-22,Enjuague periodontal especializado,41800,151_746
+747,2024-02-09,Kit de mantenimiento de blanqueamiento,95000,601_747
+748,2024-01-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_748
+749,2023-11-18,Enjuague bucal especial post-tratamiento,28500,301_749
+750,2023-10-12,Relajante muscular nocturno,47500,141_750
+751,2023-07-04,Analgesico para dolor post-ortodoncia,570000,401_751
+752,2023-01-31,Enjuague bucal especial post-tratamiento,28500,301_752
+753,2024-03-06,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_753
+754,2024-09-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_754
+755,2024-07-26,Enjuague bucal especial post-tratamiento,28500,301_755
+756,2023-01-31,Enjuague bucal especial para encias,34200,901_756
+757,2023-06-01,Enjuague bucal especial post-tratamiento,28500,301_757
+758,2023-08-20,Enjuague bucal especial post-tratamiento,28500,301_758
+759,2023-05-24,Kit de reconstruccion dental,76000,121_759
+760,2023-06-23,Kit de cuidado ortodontico especial,380000,801_760
+761,2023-01-05,Antiseptico bucal especial,133000,131_761
+762,2024-04-12,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_762
+763,2023-08-29,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_763
+764,2023-08-24,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_764
+765,2024-02-06,Antiseptico bucal especial,133000,131_765
+766,2023-06-18,Analgesico para dolor post-ortodoncia,570000,401_766
+767,2023-03-06,Relajante muscular nocturno,47500,141_767
+768,2023-06-13,Kit de reconstruccion dental,76000,121_768
+769,2024-09-08,Antibiotico de amplio espectro,66500,111_769
+770,2024-09-08,Antiinflamatorio y analgesico por 5 dias,47500,501_770
+771,2024-05-20,Kit de mantenimiento de blanqueamiento,95000,601_771
+772,2024-09-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_772
+773,2023-06-27,Antibiotico preventivo y analgesico,855000,701_773
+774,2024-06-05,Relajante muscular nocturno,47500,141_774
+775,2024-03-24,Enjuague bucal especial post-tratamiento,28500,301_775
+776,2024-10-05,Antibiotico preventivo y analgesico,855000,701_776
+777,2023-09-10,Enjuague bucal especial post-tratamiento,28500,301_777
+778,2024-11-10,Enjuague bucal especial post-tratamiento,28500,301_778
+779,2024-10-16,Enjuague periodontal especializado,41800,151_779
+780,2023-09-28,Enjuague bucal especial para encias,34200,901_780
+781,2022-12-27,Enjuague bucal especial post-tratamiento,28500,301_781
+782,2023-11-17,Kit de reconstruccion dental,76000,121_782
+783,2024-05-25,Antiseptico bucal especial,133000,131_783
+784,2023-02-02,Antiseptico bucal especial,133000,131_784
+785,2024-05-13,Antibiotico de amplio espectro,66500,111_785
+786,2023-01-13,Enjuague bucal especial post-tratamiento,28500,301_786
+787,2023-03-17,Kit de mantenimiento de blanqueamiento,95000,601_787
+788,2023-04-07,Enjuague periodontal especializado,41800,151_788
+789,2023-09-04,Enjuague periodontal especializado,41800,151_789
+790,2023-05-09,Control periodico cada 6 meses,11400,201_790
+791,2024-07-23,Antiseptico bucal especial,133000,131_791
+792,2024-10-12,Enjuague bucal especial post-tratamiento,28500,301_792
+793,2024-11-09,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_793
+794,2023-10-27,Kit de cuidado ortodontico especial,380000,801_794
+795,2023-12-28,Analgesico para dolor post-ortodoncia,570000,401_795
+796,2024-08-01,Antiinflamatorio y analgesico por 5 dias,47500,501_796
+797,2024-01-08,Antibiotico preventivo y analgesico,855000,701_797
+798,2024-07-18,Antibiotico de amplio espectro,66500,111_798
+799,2024-06-20,Kit de mantenimiento de blanqueamiento,95000,601_799
+800,2024-05-28,Enjuague periodontal especializado,41800,151_800
+801,2023-01-19,Relajante muscular nocturno,47500,141_801
+802,2024-06-19,Antiinflamatorio y analgesico por 5 dias,47500,501_802
+803,2023-09-24,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_803
+804,2023-04-15,Kit de mantenimiento de blanqueamiento,95000,601_804
+805,2023-11-11,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_805
+806,2024-11-21,Antiseptico bucal especial,133000,131_806
+807,2024-05-18,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_807
+808,2024-08-23,Kit de mantenimiento de blanqueamiento,95000,601_808
+809,2023-07-19,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_809
+810,2023-11-16,Enjuague periodontal especializado,41800,151_810
+811,2023-12-23,Kit de cuidado ortodontico especial,380000,801_811
+812,2023-08-03,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_812
+813,2024-04-14,Kit de reconstruccion dental,76000,121_813
+814,2023-03-20,Relajante muscular nocturno,47500,141_814
+815,2024-03-11,Enjuague bucal especial post-tratamiento,28500,301_815
+816,2024-08-01,Enjuague periodontal especializado,41800,151_816
+817,2024-03-16,Antibiotico preventivo y analgesico,855000,701_817
+818,2023-11-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_818
+819,2024-11-02,Enjuague bucal especial para encias,34200,901_819
+820,2024-03-15,Antibiotico preventivo y analgesico,855000,701_820
+821,2023-08-09,Antiseptico bucal especial,133000,131_821
+822,2024-01-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_822
+823,2024-02-07,Kit de reconstruccion dental,76000,121_823
+824,2023-09-02,Enjuague bucal especial para encias,34200,901_824
+825,2024-05-12,Enjuague bucal especial post-tratamiento,28500,301_825
+826,2024-02-21,Enjuague bucal especial post-tratamiento,28500,301_826
+827,2024-10-12,Control periodico cada 6 meses,11400,201_827
+828,2024-04-22,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_828
+829,2023-02-08,Kit de mantenimiento de blanqueamiento,95000,601_829
+830,2024-10-15,Enjuague periodontal especializado,41800,151_830
+831,2023-03-18,Analgesico para dolor post-ortodoncia,570000,401_831
+832,2023-10-08,Control periodico cada 6 meses,11400,201_832
+833,2024-02-04,Antibiotico preventivo y analgesico,855000,701_833
+834,2022-12-30,Control periodico cada 6 meses,11400,201_834
+835,2024-03-04,Control periodico cada 6 meses,11400,201_835
+836,2023-09-23,Kit de cuidado ortodontico especial,380000,801_836
+837,2023-10-16,Kit de cuidado ortodontico especial,380000,801_837
+838,2024-08-08,Antibiotico preventivo y analgesico,855000,701_838
+839,2024-09-03,Relajante muscular nocturno,47500,141_839
+840,2024-03-16,Enjuague periodontal especializado,41800,151_840
+841,2023-04-29,Enjuague bucal especial para encias,34200,901_841
+842,2023-01-21,Kit de cuidado ortodontico especial,380000,801_842
+843,2023-12-07,Enjuague bucal especial post-tratamiento,28500,301_843
+844,2023-01-05,Relajante muscular nocturno,47500,141_844
+845,2023-10-12,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_845
+846,2024-03-06,Antiseptico bucal especial,133000,131_846
+847,2023-07-02,Antibiotico de amplio espectro,66500,111_847
+848,2024-02-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_848
+849,2024-05-12,Antiinflamatorio y analgesico por 5 dias,47500,501_849
+850,2023-09-24,Kit de cuidado ortodontico especial,380000,801_850
+851,2024-08-07,Kit de cuidado ortodontico especial,380000,801_851
+852,2024-08-17,Enjuague periodontal especializado,41800,151_852
+853,2023-01-11,Enjuague periodontal especializado,41800,151_853
+854,2023-03-10,Antiinflamatorio y analgesico por 5 dias,47500,501_854
+855,2024-02-27,Enjuague bucal especial post-tratamiento,28500,301_855
+856,2024-05-18,Kit de mantenimiento de blanqueamiento,95000,601_856
+857,2024-10-14,Antibiotico de amplio espectro,66500,111_857
+858,2024-01-31,Enjuague bucal especial para encias,34200,901_858
+859,2024-03-21,Kit de mantenimiento de blanqueamiento,95000,601_859
+860,2024-03-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_860
+861,2023-06-11,Antibiotico de amplio espectro,66500,111_861
+862,2024-10-31,Kit de reconstruccion dental,76000,121_862
+863,2024-07-31,Control periodico cada 6 meses,11400,201_863
+864,2023-04-05,Kit de cuidado ortodontico especial,380000,801_864
+865,2024-06-06,Kit de cuidado ortodontico especial,380000,801_865
+866,2023-01-25,Kit de reconstruccion dental,76000,121_866
+867,2024-11-28,Relajante muscular nocturno,47500,141_867
+868,2024-05-15,Relajante muscular nocturno,47500,141_868
+869,2024-01-03,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_869
+870,2023-10-27,Analgesico para dolor post-ortodoncia,570000,401_870
+871,2024-04-11,Enjuague bucal especial post-tratamiento,28500,301_871
+872,2024-12-02,Analgesico para dolor post-ortodoncia,570000,401_872
+873,2024-07-27,Enjuague bucal especial para encias,34200,901_873
+874,2024-03-22,Enjuague bucal especial post-tratamiento,28500,301_874
+875,2024-11-06,Antiseptico bucal especial,133000,131_875
+876,2024-03-09,Enjuague bucal especial post-tratamiento,28500,301_876
+877,2023-02-18,Analgesico para dolor post-ortodoncia,570000,401_877
+878,2023-08-05,Antibiotico de amplio espectro,66500,111_878
+879,2024-10-14,Control periodico cada 6 meses,11400,201_879
+880,2023-11-06,Kit de reconstruccion dental,76000,121_880
+881,2024-10-23,Control periodico cada 6 meses,11400,201_881
+882,2023-11-12,Kit de reconstruccion dental,76000,121_882
+883,2023-09-02,Antibiotico preventivo y analgesico,855000,701_883
+884,2023-04-12,Antiinflamatorio y analgesico por 5 dias,47500,501_884
+885,2023-06-05,Enjuague periodontal especializado,41800,151_885
+886,2023-12-02,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_886
+887,2023-07-10,Control periodico cada 6 meses,11400,201_887
+888,2023-11-13,Analgesico para dolor post-ortodoncia,570000,401_888
+889,2024-03-26,Analgesico para dolor post-ortodoncia,570000,401_889
+890,2023-09-23,Antiinflamatorio y analgesico por 5 dias,47500,501_890
+891,2024-02-17,Enjuague bucal especial post-tratamiento,28500,301_891
+892,2024-01-05,Kit de reconstruccion dental,76000,121_892
+893,2024-08-27,Antibiotico de amplio espectro,66500,111_893
+894,2024-07-04,Antiinflamatorio y analgesico por 5 dias,47500,501_894
+895,2023-05-31,Kit de mantenimiento de blanqueamiento,95000,601_895
+896,2024-10-15,Kit de reconstruccion dental,76000,121_896
+897,2023-07-17,Kit de cuidado ortodontico especial,380000,801_897
+898,2024-05-24,Antibiotico de amplio espectro,66500,111_898
+899,2024-01-09,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_899
+900,2024-06-14,Enjuague bucal especial para encias,34200,901_900
+901,2023-07-26,Enjuague bucal especial para encias,34200,901_901
+902,2024-02-29,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_902
+903,2024-08-23,Enjuague periodontal especializado,41800,151_903
+904,2023-05-04,Antiinflamatorio y analgesico por 5 dias,47500,501_904
+905,2024-01-14,Antiseptico bucal especial,133000,131_905
+906,2023-09-26,Enjuague periodontal especializado,41800,151_906
+907,2024-06-11,Enjuague bucal especial post-tratamiento,28500,301_907
+908,2024-09-14,Kit de mantenimiento de blanqueamiento,95000,601_908
+909,2024-06-30,Antibiotico preventivo y analgesico,855000,701_909
+910,2024-07-03,Kit de mantenimiento de blanqueamiento,95000,601_910
+911,2024-07-01,Antibiotico de amplio espectro,66500,111_911
+912,2024-10-11,Enjuague bucal especial post-tratamiento,28500,301_912
+913,2023-04-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_913
+914,2024-09-14,Kit de reconstruccion dental,76000,121_914
+915,2023-11-29,Enjuague periodontal especializado,41800,151_915
+916,2023-06-08,Relajante muscular nocturno,47500,141_916
+917,2023-06-24,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_917
+918,2024-05-02,Kit de reconstruccion dental,76000,121_918
+919,2023-05-23,Enjuague periodontal especializado,41800,151_919
+920,2024-11-03,Antiseptico bucal especial,133000,131_920
+921,2024-04-19,Antibiotico preventivo y analgesico,855000,701_921
+922,2023-09-24,Antibiotico de amplio espectro,66500,111_922
+923,2024-12-05,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_923
+924,2024-09-28,Antiseptico bucal especial,133000,131_924
+925,2024-03-28,Analgesico para dolor post-ortodoncia,570000,401_925
+926,2024-07-27,Enjuague bucal especial post-tratamiento,28500,301_926
+927,2023-06-09,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_927
+928,2024-01-31,Enjuague bucal especial post-tratamiento,28500,301_928
+929,2024-08-21,Antibiotico de amplio espectro,66500,111_929
+930,2024-01-30,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_930
+931,2023-06-28,Relajante muscular nocturno,47500,141_931
+932,2023-08-06,Antiseptico bucal especial,133000,131_932
+933,2024-01-17,Analgesico para dolor post-ortodoncia,570000,401_933
+934,2023-05-09,Enjuague bucal especial post-tratamiento,28500,301_934
+935,2024-08-03,Antibiotico preventivo y analgesico,855000,701_935
+936,2023-03-22,Kit de mantenimiento de blanqueamiento,95000,601_936
+937,2024-07-26,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_937
+938,2024-06-15,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_938
+939,2023-09-19,Kit de cuidado ortodontico especial,380000,801_939
+940,2023-04-24,Kit de cuidado ortodontico especial,380000,801_940
+941,2023-02-16,Relajante muscular nocturno,47500,141_941
+942,2024-11-07,Kit de mantenimiento de blanqueamiento,95000,601_942
+943,2024-10-25,Analgesico para dolor post-ortodoncia,570000,401_943
+944,2024-02-24,Antibiotico de amplio espectro,66500,111_944
+945,2024-11-24,Relajante muscular nocturno,47500,141_945
+946,2024-06-11,Relajante muscular nocturno,47500,141_946
+947,2024-01-03,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_947
+948,2023-07-30,Antibiotico preventivo y analgesico,855000,701_948
+949,2024-01-11,Kit de cuidado ortodontico especial,380000,801_949
+950,2023-08-22,Analgesico para dolor post-ortodoncia,570000,401_950
+951,2024-03-16,Kit de cuidado ortodontico especial,380000,801_951
+952,2023-06-08,Antibiotico 500mg tomar cada 8 horas por 7 dias,22800,101_952
+953,2023-03-19,Antiinflamatorio y analgesico por 5 dias,47500,501_953
+954,2022-12-27,Enjuague bucal especial para encias,34200,901_954
+955,2024-10-23,Kit de cuidado ortodontico especial,380000,801_955
+956,2023-03-30,Control periodico cada 6 meses,11400,201_956
+957,2024-05-23,Kit de reconstruccion dental,76000,121_957
+958,2023-03-10,Antiinflamatorio y analgesico por 5 dias,47500,501_958
+959,2024-07-11,Antibiotico de amplio espectro,66500,111_959
+960,2023-05-16,Antiseptico bucal especial,133000,131_960
+961,2023-08-04,Enjuague bucal especial para encias,34200,901_961
+962,2024-01-28,Enjuague periodontal especializado,41800,151_962
+963,2023-01-21,Kit de mantenimiento de blanqueamiento,95000,601_963
+964,2023-07-14,Kit de mantenimiento de blanqueamiento,95000,601_964
+965,2024-02-24,Enjuague periodontal especializado,41800,151_965
+966,2023-07-24,Enjuague bucal especial post-tratamiento,28500,301_966
+967,2023-07-23,Antiinflamatorio y analgesico por 5 dias,47500,501_967
+968,2023-06-07,Kit de mantenimiento de blanqueamiento,95000,601_968
+969,2023-06-27,Antiseptico bucal especial,133000,131_969
+970,2023-06-18,Relajante muscular nocturno,47500,141_970
+971,2024-11-30,Kit de cuidado ortodontico especial,380000,801_971
+972,2023-03-06,Antiseptico bucal especial,133000,131_972
+973,2022-12-21,Enjuague bucal especial para encias,34200,901_973
+974,2024-02-10,Kit de cuidado ortodontico especial,380000,801_974
+975,2023-06-18,Antibiotico de amplio espectro,66500,111_975
+976,2024-08-25,Control periodico cada 6 meses,11400,201_976
+977,2023-10-05,Antibiotico de amplio espectro,66500,111_977
+978,2024-05-07,Relajante muscular nocturno,47500,141_978
+979,2022-12-27,Kit de mantenimiento de blanqueamiento,95000,601_979
+980,2024-06-01,Antiseptico bucal especial,133000,131_980
+981,2023-09-23,Enjuague bucal especial para encias,34200,901_981
+982,2024-07-14,Antiinflamatorio y analgesico por 5 dias,47500,501_982
+983,2024-09-27,Control periodico cada 6 meses,11400,201_983
+984,2023-02-03,Antiseptico bucal especial,133000,131_984
+985,2023-02-04,Kit de mantenimiento de blanqueamiento,95000,601_985
+986,2024-01-17,Antibiotico preventivo y analgesico,855000,701_986
+987,2023-04-28,Antibiotico de amplio espectro,66500,111_987
+988,2023-11-30,Antibiotico 500mg tomar cada 8 horas por 7 dias,15200,101_988
+989,2023-01-17,Enjuague bucal especial para encias,34200,901_989
+990,2024-02-24,Enjuague bucal especial post-tratamiento,28500,301_990
+991,2024-07-20,Control periodico cada 6 meses,11400,201_991
+992,2023-04-12,Analgesico para dolor post-ortodoncia,570000,401_992
+993,2023-05-15,Kit de cuidado ortodontico especial,380000,801_993
+994,2024-02-08,Relajante muscular nocturno,47500,141_994
+995,2023-11-27,Control periodico cada 6 meses,11400,201_995
+996,2023-01-25,Control periodico cada 6 meses,11400,201_996
+997,2022-12-22,Enjuague bucal especial para encias,34200,901_997
+998,2023-12-02,Kit de reconstruccion dental,76000,121_998
+999,2023-05-08,Antiinflamatorio y analgesico por 5 dias,47500,501_999
+1000,2024-11-23,Enjuague bucal especial post-tratamiento,28500,301_1000

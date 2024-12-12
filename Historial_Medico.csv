@@ -1,0 +1,633 @@
+﻿ID_Historial,Tipo_Sangre,Observaciones,Antecedentes_Enfermedades_Alergias,Estado,ID_Paciente,ID_Cita,ID_Tratamiento
+1,AB-,Sin observaciones adicionales.,[],Activo,1,867,141_867
+2,AB+,Sin observaciones adicionales.,[],Inactivo,2,57,401_57
+4,A-,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,4,361,101_361
+6,A-,Sin observaciones adicionales.,[],Activo,6,313,151_313
+8,AB+,Sin observaciones adicionales.,[],Inactivo,8,905,131_905
+10,AB+,Sin observaciones adicionales.,[],Inactivo,10,460,401_460
+11,O+,Sin observaciones adicionales.,[],Activo,11,525,701_525
+12,O+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,12,124,101_124
+15,A+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,15,813,121_813
+16,A-,Sin observaciones adicionales.,[],Activo,16,224,101_224
+17,O-,Sin observaciones adicionales.,[],Activo,17,340,501_340
+18,AB-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,18,570,121_570
+20,AB+,Sin observaciones adicionales.,[],Activo,20,550,141_550
+22,A-,Sin observaciones adicionales.,[],Inactivo,22,698,801_698
+24,B+,Sin observaciones adicionales.,[],Activo,24,261,401_261
+25,O-,Sin observaciones adicionales.,[],Activo,25,621,141_621
+27,B+,Sin observaciones adicionales.,[],Activo,27,96,301_96
+29,AB+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,29,455,101_455
+30,B-,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,30,861,111_861
+31,O+,Sin observaciones adicionales.,['Epilepsia'],Activo,31,263,501_263
+32,B+,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,32,593,141_593
+33,AB+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,33,107,401_107
+35,A-,Sin observaciones adicionales.,[],Inactivo,35,487,801_487
+37,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,37,706,401_706
+38,O+,Sin observaciones adicionales.,[],Activo,38,571,301_571
+39,B+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,39,479,121_479
+41,B-,Sin observaciones adicionales.,[],Activo,41,16,501_16
+44,B-,Sin observaciones adicionales.,[],Activo,44,708,131_708
+45,A-,Sin observaciones adicionales.,[],Inactivo,45,801,141_801
+46,B-,Sin observaciones adicionales.,[],Inactivo,46,817,701_817
+47,A+,Sin observaciones adicionales.,[],Activo,47,4,131_4
+50,A+,Sin observaciones adicionales.,[],Inactivo,50,315,401_315
+51,AB-,Sin observaciones adicionales.,[],Activo,51,347,141_347
+54,B+,Sin observaciones adicionales.,['Asma'],Activo,54,553,101_553
+55,O+,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,55,831,401_831
+56,B-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,56,97,801_97
+57,O+,Sin observaciones adicionales.,[],Inactivo,57,443,121_443
+59,B-,Sin observaciones adicionales.,[],Inactivo,59,23,301_23
+60,O+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,60,573,601_573
+62,O+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,62,90,801_90
+63,A+,Sin observaciones adicionales.,[],Activo,63,688,901_688
+64,AB+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,64,478,131_478
+65,AB+,Sin observaciones adicionales.,['Hipertension arterial'],Activo,65,463,901_463
+69,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,69,439,201_439
+70,O-,Sin observaciones adicionales.,[],Activo,70,1,151_1
+73,AB+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,73,509,111_509
+74,AB+,Sin observaciones adicionales.,['Epilepsia'],Inactivo,74,39,501_39
+76,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,76,252,901_252
+77,O-,Sin observaciones adicionales.,[],Activo,77,500,121_500
+79,B-,Sin observaciones adicionales.,[],Inactivo,79,64,101_64
+80,B+,Sin observaciones adicionales.,['Epilepsia'],Activo,80,327,301_327
+81,AB-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,81,541,101_541
+82,AB+,Sin observaciones adicionales.,[],Inactivo,82,607,601_607
+83,A-,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,83,869,101_869
+84,AB+,Sin observaciones adicionales.,[],Inactivo,84,181,401_181
+85,B+,Sin observaciones adicionales.,[],Inactivo,85,325,301_325
+86,B+,Sin observaciones adicionales.,[],Activo,86,21,131_21
+87,O+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,87,430,101_430
+88,O-,Sin observaciones adicionales.,[],Activo,88,50,301_50
+89,A-,Sin observaciones adicionales.,[],Inactivo,89,656,401_656
+90,AB+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,90,87,701_87
+91,AB-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,91,423,401_423
+92,B-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,92,152,201_152
+94,AB-,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,94,778,301_778
+95,B-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,95,324,131_324
+96,O+,Sin observaciones adicionales.,['Epilepsia'],Activo,96,166,111_166
+97,A-,Sin observaciones adicionales.,[],Activo,97,149,121_149
+98,O+,Sin observaciones adicionales.,[],Activo,98,302,401_302
+99,O-,Sin observaciones adicionales.,[],Inactivo,99,473,301_473
+100,A-,Sin observaciones adicionales.,[],Inactivo,100,809,101_809
+103,B-,Sin observaciones adicionales.,[],Activo,103,43,111_43
+104,AB-,Sin observaciones adicionales.,[],Activo,104,251,601_251
+105,AB+,Sin observaciones adicionales.,[],Activo,105,707,201_707
+106,AB+,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,106,55,501_55
+107,A-,Sin observaciones adicionales.,[],Inactivo,107,120,101_120
+108,A-,Sin observaciones adicionales.,[],Activo,108,310,201_310
+109,B-,Sin observaciones adicionales.,['Alergia al latex'],Activo,109,333,801_333
+110,AB+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,110,123,151_123
+111,O-,Sin observaciones adicionales.,[],Activo,111,275,601_275
+112,AB-,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,112,585,701_585
+113,B-,Sin observaciones adicionales.,[],Inactivo,113,44,501_44
+114,O+,Sin observaciones adicionales.,[],Inactivo,114,106,401_106
+115,O-,Sin observaciones adicionales.,['Alergia al latex'],Activo,115,914,121_914
+116,A-,Sin observaciones adicionales.,[],Activo,116,76,151_76
+117,B+,Sin observaciones adicionales.,['Epilepsia'],Activo,117,684,141_684
+118,A+,Sin observaciones adicionales.,[],Activo,118,353,121_353
+119,B-,Sin observaciones adicionales.,[],Activo,119,19,101_19
+122,AB+,Sin observaciones adicionales.,[],Inactivo,122,234,111_234
+123,O-,Sin observaciones adicionales.,[],Activo,123,295,141_295
+124,A+,Sin observaciones adicionales.,[],Activo,124,618,151_618
+125,AB-,Sin observaciones adicionales.,[],Inactivo,125,433,501_433
+126,A-,Sin observaciones adicionales.,['Asma'],Activo,126,285,111_285
+131,A+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,131,78,601_78
+132,B+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,132,685,201_685
+133,A-,Sin observaciones adicionales.,[],Activo,133,531,131_531
+136,A-,Sin observaciones adicionales.,[],Activo,136,622,101_622
+137,O+,Sin observaciones adicionales.,['Hipertension arterial'],Activo,137,22,301_22
+139,AB+,Sin observaciones adicionales.,[],Inactivo,139,414,801_414
+142,B-,Sin observaciones adicionales.,['Asma'],Inactivo,142,418,701_418
+143,O-,Sin observaciones adicionales.,['Asma'],Inactivo,143,413,101_413
+144,B-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,144,103,601_103
+146,O+,Sin observaciones adicionales.,[],Inactivo,146,180,121_180
+147,O-,Sin observaciones adicionales.,['Alergia al latex'],Activo,147,589,101_589
+150,B+,Sin observaciones adicionales.,[],Activo,150,174,101_174
+151,A-,Sin observaciones adicionales.,[],Inactivo,151,922,111_922
+152,B+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,152,32,121_32
+155,B-,Sin observaciones adicionales.,[],Activo,155,191,101_191
+156,A+,Sin observaciones adicionales.,[],Activo,156,944,111_944
+161,A-,Sin observaciones adicionales.,[],Inactivo,161,764,101_764
+163,AB+,Sin observaciones adicionales.,[],Inactivo,163,164,121_164
+164,B+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,164,10,121_10
+165,O+,Sin observaciones adicionales.,[],Inactivo,165,108,301_108
+166,B+,Sin observaciones adicionales.,[],Activo,166,137,111_137
+168,B+,Sin observaciones adicionales.,[],Inactivo,168,892,121_892
+169,O+,Sin observaciones adicionales.,[],Activo,169,337,701_337
+172,B+,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,172,278,801_278
+173,A+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,173,777,301_777
+174,A+,Sin observaciones adicionales.,[],Activo,174,62,501_62
+175,AB-,Sin observaciones adicionales.,[],Activo,175,226,701_226
+178,A-,Sin observaciones adicionales.,[],Activo,178,231,151_231
+180,A-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,180,389,601_389
+181,A+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,181,683,101_683
+185,O+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,185,255,501_255
+188,AB+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,188,417,111_417
+190,A-,Sin observaciones adicionales.,[],Activo,190,490,401_490
+192,O-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,192,365,101_365
+193,B+,Sin observaciones adicionales.,[],Inactivo,193,336,131_336
+194,AB-,Sin observaciones adicionales.,[],Inactivo,194,349,601_349
+195,O+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,195,5,401_5
+198,A+,Sin observaciones adicionales.,[],Activo,198,260,901_260
+199,AB+,Sin observaciones adicionales.,[],Activo,199,242,101_242
+201,AB-,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,201,667,101_667
+202,AB+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,202,407,401_407
+203,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,203,293,111_293
+204,AB+,Sin observaciones adicionales.,['Asma'],Activo,204,185,201_185
+205,A+,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,205,276,151_276
+209,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,209,88,141_88
+210,A+,Sin observaciones adicionales.,[],Inactivo,210,434,901_434
+211,O+,Sin observaciones adicionales.,[],Activo,211,359,501_359
+212,O+,Sin observaciones adicionales.,[],Inactivo,212,385,501_385
+213,A+,Sin observaciones adicionales.,['Alergia al latex'],Activo,213,935,701_935
+214,A-,Sin observaciones adicionales.,[],Activo,214,145,501_145
+216,A+,Sin observaciones adicionales.,['Alergia al latex'],Activo,216,93,141_93
+217,A-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,217,114,201_114
+218,AB+,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,218,328,101_328
+222,B-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,222,772,101_772
+224,B-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,224,197,101_197
+225,B-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,225,24,901_24
+226,B+,Sin observaciones adicionales.,[],Inactivo,226,29,601_29
+227,B+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,227,938,101_938
+229,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,229,165,151_165
+230,O+,Sin observaciones adicionales.,[],Activo,230,15,121_15
+232,O+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,232,833,701_833
+233,AB+,Sin observaciones adicionales.,[],Inactivo,233,58,101_58
+237,O-,Sin observaciones adicionales.,[],Activo,237,496,601_496
+238,O+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,238,139,701_139
+241,AB-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,241,544,131_544
+244,B+,Sin observaciones adicionales.,[],Inactivo,244,524,101_524
+246,AB-,Sin observaciones adicionales.,[],Inactivo,246,122,111_122
+247,AB+,Sin observaciones adicionales.,[],Activo,247,606,131_606
+248,A-,Sin observaciones adicionales.,[],Inactivo,248,223,101_223
+249,O+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,249,876,301_876
+250,A+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,250,53,141_53
+251,AB-,Sin observaciones adicionales.,[],Activo,251,384,501_384
+252,AB+,Sin observaciones adicionales.,[],Inactivo,252,283,131_283
+254,O-,Sin observaciones adicionales.,[],Activo,254,682,701_682
+255,AB+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,255,352,601_352
+256,B-,Sin observaciones adicionales.,['Epilepsia'],Activo,256,564,141_564
+257,AB-,Sin observaciones adicionales.,[],Activo,257,269,801_269
+258,AB-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,258,404,501_404
+259,B-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,259,179,201_179
+260,A-,Sin observaciones adicionales.,[],Activo,260,279,801_279
+263,O-,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,263,25,501_25
+264,B-,Sin observaciones adicionales.,[],Activo,264,28,151_28
+265,B-,Sin observaciones adicionales.,[],Inactivo,265,899,101_899
+266,B+,Sin observaciones adicionales.,[],Inactivo,266,576,111_576
+267,A+,Sin observaciones adicionales.,['Epilepsia'],Inactivo,267,613,131_613
+268,A-,Sin observaciones adicionales.,[],Activo,268,505,151_505
+271,AB-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,271,316,101_316
+273,O-,Sin observaciones adicionales.,[],Inactivo,273,354,601_354
+274,A+,Sin observaciones adicionales.,[],Activo,274,341,401_341
+275,A+,Sin observaciones adicionales.,[],Activo,275,14,801_14
+276,AB-,Sin observaciones adicionales.,[],Inactivo,276,126,121_126
+277,B+,Sin observaciones adicionales.,[],Activo,277,381,401_381
+278,O+,Sin observaciones adicionales.,[],Inactivo,278,70,121_70
+279,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,279,9,501_9
+281,A-,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,281,265,901_265
+283,B-,Sin observaciones adicionales.,[],Inactivo,283,350,301_350
+285,AB-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,285,547,301_547
+286,A-,Sin observaciones adicionales.,[],Inactivo,286,77,301_77
+287,A-,Sin observaciones adicionales.,[],Inactivo,287,151,141_151
+288,AB+,Sin observaciones adicionales.,[],Activo,288,563,701_563
+289,O+,Sin observaciones adicionales.,[],Inactivo,289,36,301_36
+290,A+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,290,401,901_401
+291,B+,Sin observaciones adicionales.,['Epilepsia'],Activo,291,210,801_210
+292,B+,Sin observaciones adicionales.,[],Activo,292,299,201_299
+293,O-,Sin observaciones adicionales.,[],Inactivo,293,484,601_484
+294,O+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,294,967,501_967
+295,AB+,Sin observaciones adicionales.,[],Activo,295,642,141_642
+296,O+,Sin observaciones adicionales.,['Asma'],Activo,296,969,131_969
+297,A+,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,297,215,401_215
+298,O-,Sin observaciones adicionales.,[],Inactivo,298,594,701_594
+299,A+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,299,720,701_720
+302,B+,Sin observaciones adicionales.,[],Inactivo,302,750,141_750
+303,A+,Sin observaciones adicionales.,[],Activo,303,653,401_653
+306,B-,Sin observaciones adicionales.,[],Inactivo,306,495,801_495
+309,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,309,303,501_303
+311,O-,Sin observaciones adicionales.,['Asma'],Activo,311,457,901_457
+313,B-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,313,363,131_363
+315,B-,Sin observaciones adicionales.,[],Inactivo,315,52,501_52
+317,A+,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,317,391,131_391
+319,O+,Sin observaciones adicionales.,[],Activo,319,728,201_728
+321,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,321,419,121_419
+322,B-,Sin observaciones adicionales.,[],Inactivo,322,614,141_614
+323,A+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,323,128,141_128
+325,AB+,Sin observaciones adicionales.,[],Activo,325,581,131_581
+326,B-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,326,759,121_759
+327,O-,Sin observaciones adicionales.,['Epilepsia'],Activo,327,79,111_79
+329,B-,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,329,481,121_481
+331,A-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,331,637,301_637
+333,AB-,Sin observaciones adicionales.,[],Inactivo,333,913,101_913
+334,A+,Sin observaciones adicionales.,[],Inactivo,334,587,101_587
+337,AB+,Sin observaciones adicionales.,[],Inactivo,337,170,121_170
+342,A+,Sin observaciones adicionales.,[],Inactivo,342,864,801_864
+343,B+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,343,367,701_367
+344,O+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,344,660,301_660
+345,AB+,Sin observaciones adicionales.,['Hipertension arterial'],Activo,345,625,131_625
+348,O+,Sin observaciones adicionales.,['VIH/SIDA'],Activo,348,998,121_998
+349,AB-,Sin observaciones adicionales.,[],Activo,349,943,401_943
+350,AB+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,350,557,111_557
+351,B-,Sin observaciones adicionales.,[],Activo,351,184,151_184
+355,B-,Sin observaciones adicionales.,[],Inactivo,355,539,121_539
+356,O+,Sin observaciones adicionales.,[],Inactivo,356,641,601_641
+357,O+,Sin observaciones adicionales.,[],Activo,357,266,901_266
+358,O+,Sin observaciones adicionales.,['Asma'],Activo,358,676,801_676
+359,O+,Sin observaciones adicionales.,['Alergia al latex'],Activo,359,514,801_514
+361,B-,Sin observaciones adicionales.,['Asma'],Inactivo,361,370,601_370
+362,B-,Sin observaciones adicionales.,[],Inactivo,362,59,141_59
+363,B-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,363,420,151_420
+366,AB+,Sin observaciones adicionales.,[],Activo,366,129,131_129
+369,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,369,143,901_143
+370,A+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,370,65,101_65
+373,AB-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,373,837,801_837
+374,AB+,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,374,378,141_378
+375,O+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,375,100,101_100
+376,A-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,376,158,401_158
+378,O-,Sin observaciones adicionales.,[],Inactivo,378,71,141_71
+379,B+,Sin observaciones adicionales.,[],Activo,379,805,101_805
+381,AB-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,381,284,701_284
+382,B-,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,382,543,901_543
+383,B+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,383,207,111_207
+384,AB+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,384,795,401_795
+386,B+,Sin observaciones adicionales.,[],Inactivo,386,875,131_875
+387,A+,Sin observaciones adicionales.,[],Activo,387,199,801_199
+388,O+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,388,597,401_597
+389,A+,Sin observaciones adicionales.,[],Activo,389,552,201_552
+390,B-,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,390,675,101_675
+391,B-,Sin observaciones adicionales.,[],Inactivo,391,217,901_217
+392,A+,Sin observaciones adicionales.,[],Activo,392,239,101_239
+399,A+,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,399,942,601_942
+400,AB+,Sin observaciones adicionales.,[],Activo,400,498,401_498
+401,O-,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,401,390,701_390
+402,B-,Sin observaciones adicionales.,[],Inactivo,402,115,111_115
+403,B+,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,403,357,601_357
+404,AB+,Sin observaciones adicionales.,['Epilepsia'],Inactivo,404,880,121_880
+406,O-,Sin observaciones adicionales.,[],Inactivo,406,703,601_703
+409,AB+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,409,410,121_410
+410,A+,Sin observaciones adicionales.,[],Inactivo,410,304,901_304
+411,O+,Sin observaciones adicionales.,[],Inactivo,411,157,901_157
+413,B+,Sin observaciones adicionales.,[],Inactivo,413,428,101_428
+415,A-,Sin observaciones adicionales.,[],Inactivo,415,444,201_444
+419,O+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,419,961,901_961
+421,A-,Sin observaciones adicionales.,[],Inactivo,421,204,101_204
+422,O+,Sin observaciones adicionales.,[],Inactivo,422,104,401_104
+423,B-,Sin observaciones adicionales.,[],Activo,423,219,401_219
+424,O-,Sin observaciones adicionales.,[],Activo,424,705,401_705
+426,B+,Sin observaciones adicionales.,[],Inactivo,426,588,701_588
+427,B+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,427,454,501_454
+429,O+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,429,83,901_83
+430,A-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,430,681,131_681
+431,B-,Sin observaciones adicionales.,[],Activo,431,941,141_941
+432,A-,Sin observaciones adicionales.,[],Activo,432,615,101_615
+435,O+,Sin observaciones adicionales.,[],Activo,435,119,801_119
+436,O+,Sin observaciones adicionales.,[],Activo,436,68,121_68
+437,O-,Sin observaciones adicionales.,['Asma'],Inactivo,437,205,601_205
+438,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,438,521,901_521
+440,O-,Sin observaciones adicionales.,[],Activo,440,282,201_282
+442,AB+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,442,344,801_344
+444,AB-,Sin observaciones adicionales.,[],Activo,444,351,501_351
+445,O+,Sin observaciones adicionales.,[],Inactivo,445,672,121_672
+446,A-,Sin observaciones adicionales.,[],Inactivo,446,887,201_887
+447,A+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,447,208,201_208
+448,AB+,Sin observaciones adicionales.,['Epilepsia'],Activo,448,187,151_187
+449,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,449,7,501_7
+450,O-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,450,493,801_493
+452,A-,Sin observaciones adicionales.,[],Activo,452,346,141_346
+453,A-,Sin observaciones adicionales.,[],Inactivo,453,790,201_790
+455,A-,Sin observaciones adicionales.,[],Activo,455,214,801_214
+456,O+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,456,652,501_652
+457,O-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,457,31,601_31
+458,O+,Sin observaciones adicionales.,[],Activo,458,320,301_320
+459,A-,Sin observaciones adicionales.,[],Activo,459,694,301_694
+461,A+,Sin observaciones adicionales.,['Problemas de tiroides'],Inactivo,461,160,501_160
+466,O-,Sin observaciones adicionales.,[],Activo,466,173,301_173
+467,O+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,467,605,111_605
+469,O-,Sin observaciones adicionales.,[],Inactivo,469,980,131_980
+470,O+,Sin observaciones adicionales.,[],Inactivo,470,866,121_866
+471,O+,Sin observaciones adicionales.,[],Activo,471,247,501_247
+472,AB-,Sin observaciones adicionales.,[],Activo,472,92,301_92
+473,B+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,473,740,151_740
+475,B+,Sin observaciones adicionales.,[],Activo,475,560,201_560
+477,B+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,477,287,201_287
+479,AB-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,479,852,151_852
+480,O-,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,480,116,401_116
+482,B+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,482,760,801_760
+483,A-,Sin observaciones adicionales.,[],Activo,483,503,101_503
+484,O+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,484,602,141_602
+485,AB+,Sin observaciones adicionales.,[],Activo,485,177,901_177
+487,AB+,Sin observaciones adicionales.,['VIH/SIDA'],Activo,487,186,151_186
+489,B+,Sin observaciones adicionales.,[],Activo,489,727,141_727
+491,A+,Sin observaciones adicionales.,['Alergia al latex'],Activo,491,511,701_511
+492,AB+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,492,450,301_450
+493,AB+,Sin observaciones adicionales.,[],Inactivo,493,992,401_992
+494,A-,Sin observaciones adicionales.,[],Inactivo,494,519,101_519
+497,O-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,497,668,801_668
+498,AB-,Sin observaciones adicionales.,['Hipertension arterial'],Activo,498,692,901_692
+499,O+,Sin observaciones adicionales.,[],Inactivo,499,399,401_399
+500,B-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,500,156,101_156
+501,O-,Sin observaciones adicionales.,[],Inactivo,501,402,801_402
+502,A-,Sin observaciones adicionales.,['Alergia al latex'],Activo,502,322,131_322
+503,O-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,503,376,501_376
+506,O+,Sin observaciones adicionales.,[],Inactivo,506,508,201_508
+507,B+,Sin observaciones adicionales.,[],Inactivo,507,616,151_616
+508,O-,Sin observaciones adicionales.,[],Activo,508,33,501_33
+509,A+,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,509,213,201_213
+511,B-,Sin observaciones adicionales.,[],Inactivo,511,294,901_294
+512,AB+,Sin observaciones adicionales.,[],Activo,512,192,401_192
+513,O+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,513,130,131_130
+514,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,514,111,131_111
+515,A-,Sin observaciones adicionales.,[],Activo,515,345,151_345
+516,B+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,516,374,801_374
+518,AB+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,518,818,101_818
+520,O+,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,520,896,121_896
+524,AB-,Sin observaciones adicionales.,[],Inactivo,524,56,111_56
+525,B-,Sin observaciones adicionales.,[],Activo,525,268,111_268
+526,O+,Sin observaciones adicionales.,['Alergia al latex'],Activo,526,843,301_843
+528,A-,Sin observaciones adicionales.,[],Inactivo,528,906,151_906
+529,AB+,Sin observaciones adicionales.,['Asma'],Activo,529,141,201_141
+532,AB-,Sin observaciones adicionales.,['Asma'],Inactivo,532,640,201_640
+533,AB-,Sin observaciones adicionales.,[],Inactivo,533,392,701_392
+534,B+,Sin observaciones adicionales.,[],Inactivo,534,194,401_194
+535,B-,Sin observaciones adicionales.,[],Inactivo,535,113,131_113
+536,B-,Sin observaciones adicionales.,['Hipertension arterial'],Activo,536,753,101_753
+537,AB-,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,537,758,301_758
+538,AB+,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,538,182,121_182
+541,AB-,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,541,321,401_321
+544,AB+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,544,67,601_67
+546,B-,Sin observaciones adicionales.,[],Inactivo,546,945,141_945
+547,A-,Sin observaciones adicionales.,[],Activo,547,84,601_84
+548,O-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,548,517,141_517
+549,B-,Sin observaciones adicionales.,[],Inactivo,549,702,121_702
+551,AB+,Sin observaciones adicionales.,[],Activo,551,649,501_649
+555,AB-,Sin observaciones adicionales.,[],Activo,555,554,151_554
+556,A-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,556,911,111_911
+557,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,557,54,701_54
+560,A-,Sin observaciones adicionales.,['Epilepsia'],Activo,560,489,151_489
+561,AB-,Sin observaciones adicionales.,[],Activo,561,148,141_148
+565,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,565,125,141_125
+566,AB-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,566,647,401_647
+567,AB+,Sin observaciones adicionales.,[],Activo,567,559,131_559
+569,AB+,Sin observaciones adicionales.,[],Activo,569,741,801_741
+570,AB-,Sin observaciones adicionales.,[],Activo,570,227,141_227
+571,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Inactivo,571,624,401_624
+572,B+,Sin observaciones adicionales.,[],Inactivo,572,89,151_89
+573,AB+,Sin observaciones adicionales.,[],Inactivo,573,765,131_765
+574,B-,Sin observaciones adicionales.,[],Inactivo,574,784,131_784
+575,B+,Sin observaciones adicionales.,['Asma'],Inactivo,575,188,301_188
+576,A+,Sin observaciones adicionales.,['Problemas de tiroides'],Inactivo,576,288,151_288
+578,O-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,578,412,121_412
+579,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,579,600,301_600
+580,AB-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,580,432,601_432
+581,AB-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,581,146,901_146
+582,AB-,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,582,175,101_175
+583,B+,Sin observaciones adicionales.,[],Inactivo,583,494,401_494
+584,A-,Sin observaciones adicionales.,[],Inactivo,584,35,121_35
+585,B+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,585,565,501_565
+590,A+,Sin observaciones adicionales.,[],Activo,590,775,301_775
+591,B-,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,591,297,401_297
+592,B-,Sin observaciones adicionales.,[],Activo,592,86,601_86
+594,AB-,Sin observaciones adicionales.,[],Inactivo,594,246,101_246
+595,B-,Sin observaciones adicionales.,[],Activo,595,971,801_971
+596,O-,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,596,30,101_30
+597,O+,Sin observaciones adicionales.,[],Activo,597,486,131_486
+599,AB+,Sin observaciones adicionales.,[],Inactivo,599,612,401_612
+601,O+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,601,136,601_136
+602,O-,Sin observaciones adicionales.,['Asma'],Activo,602,135,401_135
+607,O-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,607,771,601_771
+613,A+,Sin observaciones adicionales.,['Asma'],Activo,613,648,401_648
+614,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,614,3,801_3
+616,A-,Sin observaciones adicionales.,['Epilepsia'],Activo,616,296,301_296
+617,A-,Sin observaciones adicionales.,[],Activo,617,289,141_289
+619,A-,Sin observaciones adicionales.,[],Activo,619,171,121_171
+620,B+,Sin observaciones adicionales.,[],Activo,620,20,101_20
+622,A-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,622,957,121_957
+623,A+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,623,38,111_38
+624,O+,Sin observaciones adicionales.,[],Inactivo,624,626,301_626
+626,B-,Sin observaciones adicionales.,['Asma'],Inactivo,626,673,401_673
+628,B+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,628,305,501_305
+629,A-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,629,258,501_258
+632,B+,Sin observaciones adicionales.,[],Inactivo,632,228,151_228
+633,AB-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,633,238,111_238
+634,AB+,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,634,502,501_502
+639,O+,Sin observaciones adicionales.,[],Activo,639,438,501_438
+640,AB-,Sin observaciones adicionales.,[],Activo,640,952,101_952
+641,O-,Sin observaciones adicionales.,[],Inactivo,641,802,501_802
+642,A-,Sin observaciones adicionales.,[],Inactivo,642,747,601_747
+643,B+,Sin observaciones adicionales.,[],Inactivo,643,665,141_665
+644,O-,Sin observaciones adicionales.,[],Activo,644,437,151_437
+649,O-,Sin observaciones adicionales.,[],Activo,649,254,901_254
+650,O-,Sin observaciones adicionales.,[],Activo,650,240,131_240
+651,A+,Sin observaciones adicionales.,[],Inactivo,651,670,121_670
+652,B+,Sin observaciones adicionales.,[],Activo,652,693,201_693
+653,O+,Sin observaciones adicionales.,[],Activo,653,360,701_360
+654,O+,Sin observaciones adicionales.,[],Inactivo,654,572,111_572
+657,AB+,Sin observaciones adicionales.,[],Activo,657,986,701_986
+658,B-,Sin observaciones adicionales.,[],Activo,658,18,501_18
+660,AB-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,660,161,131_161
+661,AB-,Sin observaciones adicionales.,[],Inactivo,661,301,401_301
+662,A-,Sin observaciones adicionales.,['Problemas de tiroides'],Inactivo,662,885,151_885
+663,O-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Activo,663,326,141_326
+664,O+,Sin observaciones adicionales.,[],Inactivo,664,338,131_338
+665,A+,Sin observaciones adicionales.,[],Inactivo,665,633,101_633
+666,AB+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,666,212,801_212
+670,B+,Sin observaciones adicionales.,[],Inactivo,670,140,111_140
+671,B+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,671,810,151_810
+672,B+,Sin observaciones adicionales.,['Hipertension arterial'],Activo,672,464,131_464
+674,O-,Sin observaciones adicionales.,['Epilepsia'],Inactivo,674,26,101_26
+676,B-,Sin observaciones adicionales.,[],Inactivo,676,244,131_244
+677,B-,Sin observaciones adicionales.,['Asma'],Activo,677,947,101_947
+681,A+,Sin observaciones adicionales.,[],Activo,681,190,501_190
+684,AB-,Sin observaciones adicionales.,[],Inactivo,684,452,301_452
+691,B-,Sin observaciones adicionales.,[],Activo,691,132,151_132
+692,A+,Sin observaciones adicionales.,[],Inactivo,692,689,151_689
+695,O-,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,695,857,111_857
+696,B-,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,696,388,101_388
+697,B-,Sin observaciones adicionales.,['Asma'],Inactivo,697,109,501_109
+698,A+,Sin observaciones adicionales.,[],Activo,698,397,401_397
+701,AB+,Sin observaciones adicionales.,[],Inactivo,701,518,901_518
+702,O+,Sin observaciones adicionales.,[],Activo,702,6,131_6
+704,O-,Sin observaciones adicionales.,['Hipertension arterial'],Activo,704,253,801_253
+705,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,705,662,151_662
+706,A+,Sin observaciones adicionales.,[],Activo,706,209,401_209
+711,AB-,Sin observaciones adicionales.,[],Activo,711,80,301_80
+713,AB+,Sin observaciones adicionales.,[],Activo,713,520,151_520
+714,B-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,714,11,801_11
+715,A+,Sin observaciones adicionales.,[],Inactivo,715,453,101_453
+716,B-,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,716,317,111_317
+717,A-,Sin observaciones adicionales.,[],Activo,717,356,121_356
+719,B+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,719,761,131_761
+721,B-,Sin observaciones adicionales.,[],Activo,721,95,801_95
+723,O-,Sin observaciones adicionales.,[],Inactivo,723,534,501_534
+724,B+,Sin observaciones adicionales.,['Alergia al latex'],Activo,724,654,151_654
+725,A-,Sin observaciones adicionales.,[],Activo,725,12,601_12
+726,O+,Sin observaciones adicionales.,[],Inactivo,726,332,901_332
+728,B+,Sin observaciones adicionales.,[],Activo,728,233,131_233
+729,A-,Sin observaciones adicionales.,[],Activo,729,110,101_110
+731,AB-,Sin observaciones adicionales.,['Asma'],Inactivo,731,406,201_406
+733,B-,Sin observaciones adicionales.,[],Activo,733,465,111_465
+736,AB+,Sin observaciones adicionales.,[],Activo,736,584,141_584
+738,AB-,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,738,757,301_757
+741,B+,Sin observaciones adicionales.,[],Inactivo,741,189,901_189
+742,A-,Sin observaciones adicionales.,['Alergia al latex'],Activo,742,41,121_41
+744,A-,Sin observaciones adicionales.,['Asma'],Activo,744,131,901_131
+745,O+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,745,917,101_917
+747,A+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,747,768,121_768
+748,B+,Sin observaciones adicionales.,[],Inactivo,748,879,201_879
+750,A+,Sin observaciones adicionales.,['Asma'],Activo,750,657,131_657
+751,O+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,751,601,501_601
+754,B-,Sin observaciones adicionales.,[],Inactivo,754,49,301_49
+757,O-,Sin observaciones adicionales.,[],Activo,757,915,151_915
+758,B-,Sin observaciones adicionales.,[],Inactivo,758,510,701_510
+759,B+,Sin observaciones adicionales.,[],Inactivo,759,435,601_435
+760,O+,Sin observaciones adicionales.,[],Inactivo,760,172,801_172
+761,AB-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,761,978,141_978
+762,B+,Sin observaciones adicionales.,['Alergia al latex'],Activo,762,955,801_955
+764,AB+,Sin observaciones adicionales.,[],Activo,764,27,401_27
+765,A+,Sin observaciones adicionales.,[],Activo,765,94,901_94
+766,A+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,766,274,101_274
+767,AB-,Sin observaciones adicionales.,[],Activo,767,748,101_748
+769,O-,Sin observaciones adicionales.,['Epilepsia'],Inactivo,769,42,801_42
+770,B+,Sin observaciones adicionales.,[],Activo,770,863,201_863
+771,A-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,771,526,101_526
+772,A+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Inactivo,772,645,401_645
+774,B+,Sin observaciones adicionales.,[],Activo,774,427,701_427
+775,A-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,775,292,111_292
+778,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,778,51,101_51
+779,AB+,Sin observaciones adicionales.,[],Activo,779,369,701_369
+780,A+,Sin observaciones adicionales.,[],Activo,780,331,601_331
+782,AB-,Sin observaciones adicionales.,[],Inactivo,782,480,121_480
+783,O-,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,783,545,201_545
+784,AB+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,784,102,201_102
+785,AB-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Inactivo,785,631,101_631
+786,B+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,786,700,101_700
+787,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,787,169,401_169
+789,O+,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,789,46,121_46
+790,A+,Sin observaciones adicionales.,[],Activo,790,726,501_726
+791,A-,Sin observaciones adicionales.,[],Activo,791,153,131_153
+792,A+,Sin observaciones adicionales.,[],Inactivo,792,323,701_323
+794,A-,Sin observaciones adicionales.,[],Inactivo,794,380,401_380
+797,A-,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,797,73,701_73
+798,O+,Sin observaciones adicionales.,[],Activo,798,121,151_121
+799,A-,Sin observaciones adicionales.,[],Inactivo,799,8,601_8
+800,B+,Sin observaciones adicionales.,['Hipertension arterial'],Activo,800,699,121_699
+801,AB-,Sin observaciones adicionales.,[],Activo,801,105,501_105
+802,B-,Sin observaciones adicionales.,['Hipertension arterial'],Activo,802,558,401_558
+804,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,804,466,501_466
+805,O-,Sin observaciones adicionales.,[],Activo,805,142,601_142
+806,A+,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,806,609,801_609
+807,AB+,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,807,995,201_995
+808,O+,Sin observaciones adicionales.,['Epilepsia'],Activo,808,590,501_590
+810,B-,Sin observaciones adicionales.,[],Activo,810,127,141_127
+812,O+,Sin observaciones adicionales.,[],Activo,812,193,401_193
+813,AB-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,813,81,101_81
+814,O+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,814,272,301_272
+816,B-,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,816,75,101_75
+818,AB-,Sin observaciones adicionales.,[],Activo,818,72,901_72
+819,O+,Sin observaciones adicionales.,[],Activo,819,929,111_929
+821,AB+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,821,229,201_229
+822,B+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,822,82,141_82
+823,A-,Sin observaciones adicionales.,['VIH/SIDA'],Activo,823,658,601_658
+825,O-,Sin observaciones adicionales.,[],Activo,825,147,901_147
+826,A+,Sin observaciones adicionales.,[],Inactivo,826,211,201_211
+827,O+,Sin observaciones adicionales.,['Problemas de tiroides'],Activo,827,134,121_134
+829,A+,Sin observaciones adicionales.,['Artritis reumatoide'],Activo,829,690,101_690
+830,A+,Sin observaciones adicionales.,[],Inactivo,830,556,101_556
+832,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,832,993,801_993
+834,A+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,834,201,901_201
+836,A-,Sin observaciones adicionales.,[],Inactivo,836,34,501_34
+838,AB-,Sin observaciones adicionales.,[],Activo,838,69,901_69
+839,AB-,Sin observaciones adicionales.,[],Activo,839,329,111_329
+841,AB+,Sin observaciones adicionales.,[],Activo,841,162,121_162
+843,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,843,884,501_884
+844,B-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,844,358,801_358
+848,O-,Sin observaciones adicionales.,[],Inactivo,848,548,131_548
+851,O+,Sin observaciones adicionales.,[],Inactivo,851,183,141_183
+852,O+,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,852,716,101_716
+853,B+,Sin observaciones adicionales.,[],Activo,853,442,151_442
+855,A+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Inactivo,855,629,301_629
+858,AB+,Sin observaciones adicionales.,['VIH/SIDA'],Activo,858,811,801_811
+859,B+,Sin observaciones adicionales.,[],Inactivo,859,222,501_222
+861,B-,Sin observaciones adicionales.,['Asma'],Inactivo,861,225,101_225
+862,O-,Sin observaciones adicionales.,[],Activo,862,445,601_445
+867,AB+,Sin observaciones adicionales.,[],Activo,867,270,201_270
+868,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,868,569,151_569
+870,O-,Sin observaciones adicionales.,[],Activo,870,91,111_91
+873,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,873,13,131_13
+874,O+,Sin observaciones adicionales.,[],Activo,874,163,301_163
+876,A+,Sin observaciones adicionales.,[],Inactivo,876,793,101_793
+877,A-,Sin observaciones adicionales.,[],Activo,877,461,601_461
+878,O-,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,878,671,141_671
+880,A-,Sin observaciones adicionales.,[],Inactivo,880,966,301_966
+883,AB+,Sin observaciones adicionales.,[],Activo,883,319,601_319
+888,O+,Sin observaciones adicionales.,[],Inactivo,888,262,601_262
+889,B+,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,889,178,501_178
+892,O-,Sin observaciones adicionales.,[],Inactivo,892,99,701_99
+893,O-,Sin observaciones adicionales.,[],Inactivo,893,578,601_578
+894,A+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Activo,894,499,111_499
+895,A+,Sin observaciones adicionales.,[],Inactivo,895,527,901_527
+897,O+,Sin observaciones adicionales.,[],Inactivo,897,695,131_695
+898,A-,Sin observaciones adicionales.,['Trastornos de coagulacion'],Activo,898,339,121_339
+902,O+,Sin observaciones adicionales.,[],Activo,902,440,801_440
+903,O+,Sin observaciones adicionales.,['VIH/SIDA'],Activo,903,368,101_368
+904,B+,Sin observaciones adicionales.,[],Inactivo,904,639,601_639
+905,B+,Sin observaciones adicionales.,['Alergia al latex'],Inactivo,905,273,801_273
+906,O-,Sin observaciones adicionales.,[],Inactivo,906,61,101_61
+907,A+,Sin observaciones adicionales.,['Alergia a la penicilina'],Inactivo,907,37,101_37
+908,AB-,Sin observaciones adicionales.,[],Activo,908,862,121_862
+911,AB+,Sin observaciones adicionales.,[],Activo,911,655,151_655
+913,AB-,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,913,144,201_144
+914,O-,Sin observaciones adicionales.,[],Activo,914,477,141_477
+915,O-,Sin observaciones adicionales.,[],Inactivo,915,291,601_291
+918,AB-,Sin observaciones adicionales.,[],Inactivo,918,300,131_300
+919,O-,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,919,133,401_133
+920,AB+,Sin observaciones adicionales.,[],Activo,920,277,901_277
+922,AB+,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,922,476,201_476
+923,B-,Sin observaciones adicionales.,['Hepatitis B o C'],Inactivo,923,962,151_962
+924,AB+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,924,312,501_312
+925,A-,Sin observaciones adicionales.,['Asma'],Inactivo,925,462,101_462
+929,B+,Sin observaciones adicionales.,[],Inactivo,929,424,501_424
+930,O+,Sin observaciones adicionales.,[],Activo,930,362,701_362
+931,AB-,Sin observaciones adicionales.,[],Activo,931,40,801_40
+932,B+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,932,555,801_555
+933,AB+,Sin observaciones adicionales.,[],Inactivo,933,628,501_628
+935,A+,Sin observaciones adicionales.,[],Inactivo,935,250,301_250
+936,AB+,Sin observaciones adicionales.,[],Inactivo,936,851,801_851
+939,O-,Sin observaciones adicionales.,['Asma'],Activo,939,235,401_235
+941,A-,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,941,823,121_823
+943,B-,Sin observaciones adicionales.,['Hipertension arterial'],Activo,943,386,141_386
+944,AB-,Sin observaciones adicionales.,[],Activo,944,60,401_60
+945,O+,Sin observaciones adicionales.,[],Activo,945,845,101_845
+947,B-,Sin observaciones adicionales.,[],Inactivo,947,155,801_155
+949,A+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,949,206,131_206
+950,B-,Sin observaciones adicionales.,[],Activo,950,17,101_17
+951,A-,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,951,348,501_348
+953,A+,Sin observaciones adicionales.,['Alergia al latex'],Activo,953,822,101_822
+954,AB+,Sin observaciones adicionales.,['Alergia a alimentos o productos quimicos comunes'],Inactivo,954,2,121_2
+955,AB+,Sin observaciones adicionales.,['Asma'],Activo,955,501,501_501
+957,O+,Sin observaciones adicionales.,[],Inactivo,957,150,901_150
+958,B-,Sin observaciones adicionales.,[],Inactivo,958,45,301_45
+959,O+,Sin observaciones adicionales.,['Diabetes Mellitus'],Inactivo,959,176,501_176
+961,O-,Sin observaciones adicionales.,[],Inactivo,961,308,901_308
+962,B+,Sin observaciones adicionales.,[],Inactivo,962,47,131_47
+963,A+,Sin observaciones adicionales.,[],Inactivo,963,220,101_220
+966,B+,Sin observaciones adicionales.,['Alergia a medicamentos antiinflamatorios'],Activo,966,195,101_195
+969,O-,Sin observaciones adicionales.,['Hipertension arterial'],Inactivo,969,788,151_788
+973,A-,Sin observaciones adicionales.,['Hepatitis B o C'],Activo,973,839,141_839
+974,B+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,974,218,101_218
+975,O+,Sin observaciones adicionales.,['Enfermedad cardiovascular'],Activo,975,582,121_582
+976,O-,Sin observaciones adicionales.,['Alergia a anestesicos locales'],Inactivo,976,200,201_200
+977,AB+,Sin observaciones adicionales.,['VIH/SIDA'],Activo,977,638,901_638
+980,AB+,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,980,63,301_63
+981,A-,Sin observaciones adicionales.,[],Activo,981,48,121_48
+982,B+,Sin observaciones adicionales.,[],Activo,982,891,301_891
+983,B-,Sin observaciones adicionales.,['Artritis reumatoide'],Inactivo,983,739,701_739
+984,AB-,Sin observaciones adicionales.,[],Activo,984,561,131_561
+985,O-,Sin observaciones adicionales.,[],Activo,985,421,121_421
+986,A+,Sin observaciones adicionales.,['Alergia a la penicilina'],Activo,986,366,131_366
+989,O+,Sin observaciones adicionales.,['Epilepsia'],Inactivo,989,927,101_927
+991,O+,Sin observaciones adicionales.,[],Activo,991,307,131_307
+992,AB+,Sin observaciones adicionales.,[],Inactivo,992,394,901_394
+995,A+,Sin observaciones adicionales.,['VIH/SIDA'],Inactivo,995,858,901_858
+1000,A+,Sin observaciones adicionales.,['Diabetes Mellitus'],Activo,1000,257,501_257
